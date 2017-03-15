@@ -7,94 +7,122 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 00:41:15 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 00:41:15 +0100</lastBuildDate>
     <atom:link href="https://ajedreztomelloso.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Bienvenidos a la nueva Web</title>
-      <link>https://ajedreztomelloso.github.io/post/bienvenida/</link>
-      <pubDate>Mon, 06 Mar 2017 00:41:15 +0100</pubDate>
+      <title>Enlaces de Interés</title>
+      <link>https://ajedreztomelloso.github.io/enlaces-de-interes</link>
+      <pubDate>Thu, 03 Aug 2017 00:41:15 +0100</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/bienvenida/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Al bien hacer jamás le falta premio&amp;rdquo; Don Quijote de la Mancha.&lt;/p&gt;
-&lt;/blockquote&gt;
+      <guid>https://ajedreztomelloso.github.io/enlaces-de-interes</guid>
+      <description>
 
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/juacarlos.jpg&#34; alt=&#34;juancarlos&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;federaciones&#34;&gt;Federaciones&lt;/h3&gt;
 
-&lt;p&gt;Como cuentan las crónicas &lt;strong&gt;&amp;ldquo;Corría el año 2000, cuando Juan Carlos Domínguez, profesor de Matemáticas, fuerte jugador de ajedrez y recién llegado a Tomelloso, comienza a impartir clases del juego-ciencia a chavales de esta localidad de una manera más o menos metódica&lt;/strong&gt;. Así nació este club o mejor dicho su nueva etapa en el correr de los tiempos.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Logo&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Descripción&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Enlace&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/clara.JPG&#34; alt=&#34;clara&#34; /&gt;&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/FIDE.jpg&#34; alt=&#34;FIDE&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Federación Internacional de Ajedrez&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.fide.com&#34;&gt;FIDE&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;El Club Ajedrez Tomelloso tuvo una infancia feliz y tranquila, aprendiendo siempre de sus mayores. La incorporación a sus filas de los maños Alberto Martínez y Mari Ángeles Sancho formó un equipo con los cadetes de entonces Ángel Carlos López, Miguel Ángel Lomas y Rubén Cañas, liderado por un intratable Juan Carlos Domínguez que conquistó la tercera plaza de aquellos regionales por equipos de 2003 donde Caimu dominaba la región con los maestros en sus filas.&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/feda.png&#34; alt=&#34;Feda&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Federación Española de Ajedrez&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.feda.org&#34;&gt;FEDA&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;Bajo los auspicios de su presidente Ángel Luis López &lt;strong&gt;se dió a conocer a nivel provincial y regional&lt;/strong&gt; el nombre de Tomelloso en el ajedrez, consiguiendo algunos títulos autonómicos por parte de los jugadores sub. Eduardo López inaguró las vitrinas de los regionales de nuestro club en 2006 para abrir paso a los demás títulos que vendrían después. Clara López Temprano se convertiría en una de las reinas de estos regionales llegando a obtener el título a mejor deportista femenina tomellosera en la Gala del Deporte Local.&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/FACLM1.png&#34; alt=&#34;FACLM&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Federación de Ajedrez de Castilla la Mancha&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.faclm.org&#34;&gt;FACLM&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/3equipos2003.JPG&#34; alt=&#34;fergos&#34; /&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/delcr.png&#34; alt=&#34;DELCR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Delegación de Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://ajedrezdelecr.webnode.es&#34;&gt;DELEGACION DE  CIUDAD REAL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;Algunos de sus jugadores tuvieron que emigrar hacia otro club que resurgía con fuerzas renovadas, Talavera. Acogidos por uno de los grandes del AJEDREZ, D.Carlos García Linares, al que nunca dejaremos estar agradecidos, los nuestros acabaron de formarse personal y deportivamente.&lt;/p&gt;
+&lt;h3 id=&#34;clubes-de-ajedrez-de-castilla-la-mancha&#34;&gt;Clubes de Ajedrez de Castilla la Mancha&lt;/h3&gt;
 
-&lt;p&gt;En su pubertad, este club, muy bien asesorado por el nuevo presidente Juan José Losa, lograría consolidar uno de los torneos mas emblemáticos que se recuerdan, &lt;strong&gt;C.V. FERGOS.&lt;/strong&gt;, y asombrar a toda Castilla La Mancha con &lt;strong&gt;la organización tremendamente solidaria del más divertido, ameno e innovador Regional por Edades&lt;/strong&gt; de los últimos tiempos, disputado como no en nuestra localidad.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Logo&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Descripción&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Enlace&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;Las nuevas generaciones de pequeños tomelloseras volvieron a conquistar regionales. Raúl Moreno Valero conquistó el regional en casa y Juan José Losa Ordoñez también obtuvo la corona en Albacete.&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/zugzwang.gif&#34; alt=&#34;ZUGZWANG&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Zuzwang&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.zugzwang.es&#34;&gt;ZUGZWANG&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/juanjo.JPG&#34; alt=&#34;fergos&#34; /&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/CiudadReal.jpg&#34; alt=&#34;AJEDREZ CIUDAD REAL&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club Ajedrez Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.zugzwang.es&#34;&gt;CLUB AJEDREZ CIUDAD REAL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;Nuestro club se hizo un poco mayor hace un par de años cuando el primer docente y varios de sus primeros alumnos decidieron asociarse de nuevo para hacer un equipo (con el refuerzo de Carlos García &amp;ldquo;maestro FIDE&amp;rdquo; talaverano y Jose Ramón Ramírez bolañego),  &lt;strong&gt;&lt;em&gt;ganador del primer regional de la historia&lt;/em&gt;&lt;/strong&gt; y clasificarse entre los diez mejores de España de 2º division.&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/LOSMOLINOS.jpg&#34; alt=&#34;LOS MOLINOS&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Los Molinos (Valdepeñas)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http:/http://ajedrezvaldepenas.blogspot.com.es&#34;&gt;CLUB AJEDREZ LOS MOLINOS&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/equipo.jpg&#34; alt=&#34;equipo&#34; /&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/PARQUESUR.gif&#34; alt=&#34;PARQUESUR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Parque Sur&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.AJEDREZPARQUESURALBACETE.es&#34;&gt;AJEDREZ PARQUESUR&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;Ahora ya en plena adolescencia, este club, &lt;strong&gt;enamorado perdidamente de la educación&lt;/strong&gt;, a las ordenes de su actual presidente Eduardo López, pasea por las aulas de varios de nuestros colegios proyectando en sus pizarras digitales la creatividad, la inteligencia, la buena toma de decisiones de nuestro bello deporte.&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/Excalibur.jpg&#34; alt=&#34;EXCALIBUR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Excalibur&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ajedrezexcalibur.com&#34;&gt;EXCALIBUR&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/escuela.jpg&#34; alt=&#34;escuela&#34; /&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/almansa.jpg&#34; alt=&#34;AJEDREZ ALMANSA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Almansa&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://clubajedrez.usuarios.tvalmansa.com&#34;&gt;CLUB AJEDREZ ALMANSAL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;Estamos creciendo mucho en esta juventud del club. En los últimos 5 años, 5 ajedrecistas tomelloseros han sido campeones regionales de Castilla la Mancha en la categoría sub-8. Pedro Javier González (Almansa 2012), Marta Jiménez (Tomelloso 2013), Adriana Domínguez (Horche 2015) y Beatríz Jiménez con Manuel Soto hicieron doblete (Albacete 2016).&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/LARODA.png&#34; alt=&#34;LA RODA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez La Roda&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://clubajedrez.usuarios.tvalmansa.comhttp://ajedrezlaroda.com/&#34;&gt;CLUB AJEDREZ LA RODA&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;En el año 2014 el colegio Cervantes participó en el campeonato de Colegios de España quedando en una excelente quinta posición. El cuadro estuvo formado por Carlos Rodrigo Diaz-Ropero, Pedro Javier Gonzalez García, Alvaro Ramirez Aguado y Jorge Rodrigo Diaz-Ropero, con un monitor que la enseñanza a los pequeños es su pasión: Ángel Luis López Barrios.&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/NAEUROPA.jpg&#34; alt=&#34;NA EUROPA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Nuestro Ajedrez en Europa&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.nuestroajedrezeneuropa.com&#34;&gt;NUESTRO AJEDREZ EUROPA&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/colegio_cervantes.JPG&#34; alt=&#34;colegios&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lo que suceda a partir de ahora &lt;strong&gt;ni lo cuentan las crónicas ni lo contaré yo&lt;/strong&gt;. Tenemos nuevos patrocinadores, nuevo y precioso escudo, nueva web -desde la que aprovecho para dar la bienvenida a todos los visitantes- y sobre todo tenemos muchas ganas de seguir aumentando la grandeza de este club, de sus colaboradores, monitores, jugadores, alumnos de la escuela, padres, con la esperanza de que muy pronto podamos cumplir satisfechos la mayoría de edad.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/clubajedrez.jpg&#34; alt=&#34;club&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;¿Y tú? ¿Te animas a seguir haciendo historia con nosotros?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Peón P&#39;alante</title>
-      <link>https://ajedreztomelloso.github.io/post/peonpalante/</link>
-      <pubDate>Sat, 04 Mar 2017 00:41:15 +0100</pubDate>
-      
-      <guid>https://ajedreztomelloso.github.io/post/peonpalante/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;En estos momentos no se si es mejor retroceder con la dama, intentar proteger al rey o buscar jaque con caballo..., la verdad es que no tengo ni idea.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Veo la partida con expectación, analizo los posibles movimientos que pueden hacer ambos jugadores, siempre con el interés particular en que salga victorioso solo uno de ellos, procurando desde unos cinco metros de distancia dar fuerza moral -si la verdad sirve de algo en este deporte- ya que nada más puedo aportar desde la distancia, ni quiero, pues la verdad es que no tengo ni idea.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/peonpalante/padrehijo.jpg&#34; alt=&#34;padreehijo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cuando mi hijo con seis años me decía &lt;strong&gt;&amp;ldquo;papá vamos a jugar al ajedrez&amp;hellip;&amp;rdquo;&lt;/strong&gt; rápidamente admitía el reto, nos sentábamos delante del tablero a mover piezas como sabíamos y con los pocos conocimientos que en esa edad él conocía (pues yo mantengo los mismos), las partidas resultaban reñidas y casi siempre yo salía victorioso, lo cual me dejaba en una posición superior, la propia del adulto que intenta demostrar a su hijo lo que se aprende con el tiempo y que la experiencia es un grado en todas las facetas de la vida, incluido el ajedrez.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Esta posición de tablero nº 1 de mi casa me duró poco, pues pude comprobar como el aspirante cada vez aprendía más rápido, y cada vez que jugábamos me vendía más difícil su derrota,hasta que llegó el día en que el aspirante alcanzo -de forma meritoria- el trono ajedrecístico de mi hogar, haciéndose dueño y señor del mismo de forma definitiva. 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/peonpalante/alvaro.jpg&#34; alt=&#34;alvaro&#34; /&gt;
-Actualmente, hay siempre un tablero en casa con las piezas en posición para iniciar partida, o para continuar la que ya tiene iniciada, y a la pregunta: &lt;strong&gt;&lt;em&gt;¿jugamos una?&lt;/em&gt;&lt;/strong&gt;, siempre tengo la excusa de algún quehacer pendiente que me libra de una segura derrota.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;¡¡¡Tendría que aprender a jugar!!!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pero no solo a saber mover las piezas, que eso ya puedo afirmar que sí, aunque con poco rigor estratégico; de hecho cuando me pregunta que apertura has utilizado, siempre le contesto: *&lt;strong&gt;¡¡ pues la mía, la que mejor se hacer&amp;hellip;, peón p&amp;rsquo;alante!!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Yo he sido siempre mas del &lt;strong&gt;4-4-2&lt;/strong&gt;, e incluso a veces me ha gustado &lt;strong&gt;la defensa de 3&lt;/strong&gt; con la finalidad de que los laterales sean auténticos extremos&amp;hellip;, pero realmente dicha estrategia no se traducirla en el ajedrez; por tanto, mientras no aprenda otro posicionamiento o apertura, creo que mantendré la que ya conozco, y no es que me vaya realmente bien, pero soy de hábitos fijos que no suelo modificar a menudo, por lo que mantendré mi peón como apertura y que sea lo que Dios quiera.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Por cierto, ..., en la última partida que jugamos se me debió aparecer la Virgen, y conseguí unas meritorias tablas. 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Paco Ramírez&lt;/p&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/BARGAS.JPG&#34; alt=&#34;NA EUROPA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Bargas Soliss&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://http://ajedrezbargas.blogspot.com.es/&#34;&gt;AJEDREZ BARGAS&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
