@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enlaces on Club Ajedrez Tomelloso</title>
-    <link>https://ajedreztomelloso.github.io/tags/enlaces/index.xml</link>
+    <link>http://www.ajedreztomelloso.com/tags/enlaces/index.xml</link>
     <description>Recent content in Enlaces on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <atom:link href="https://ajedreztomelloso.github.io/tags/enlaces/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.ajedreztomelloso.com/tags/enlaces/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Enlaces del Mes de Marzo</title>
-      <link>https://ajedreztomelloso.github.io/post/enlaces0317/</link>
+      <link>http://www.ajedreztomelloso.com/post/enlaces0317/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/enlaces0317/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/enlaces0317/</guid>
       <description>
 
 &lt;h1 id=&#34;ajedrez-en-las-escuelas&#34;&gt;Ajedrez en las escuelas&lt;/h1&gt;
@@ -182,10 +182,10 @@
     
     <item>
       <title>Enlaces de Interés</title>
-      <link>https://ajedreztomelloso.github.io/enlaces-de-interes</link>
+      <link>http://www.ajedreztomelloso.com/enlaces-de-interes</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/enlaces-de-interes</guid>
+      <guid>http://www.ajedreztomelloso.com/enlaces-de-interes</guid>
       <description>
 
 &lt;h3 id=&#34;federaciones&#34;&gt;Federaciones&lt;/h3&gt;
@@ -201,25 +201,25 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/FIDE.jpg&#34; alt=&#34;FIDE&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/FIDE.jpg&#34; alt=&#34;FIDE&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Federación Internacional de Ajedrez&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.fide.com&#34;&gt;FIDE&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/feda.png&#34; alt=&#34;Feda&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/feda.png&#34; alt=&#34;Feda&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Federación Española de Ajedrez&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.feda.org&#34;&gt;FEDA&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/FACLM1.png&#34; alt=&#34;FACLM&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/FACLM1.png&#34; alt=&#34;FACLM&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Federación de Ajedrez de Castilla la Mancha&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.faclm.org&#34;&gt;FACLM&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/delcr.png&#34; alt=&#34;DELCR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/delcr.png&#34; alt=&#34;DELCR&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Delegación de Ciudad Real&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://ajedrezdelecr.webnode.es&#34;&gt;DELEGACION DE  CIUDAD REAL&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -239,55 +239,55 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/zugzwang.gif&#34; alt=&#34;ZUGZWANG&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/zugzwang.gif&#34; alt=&#34;ZUGZWANG&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club de Ajedrez Zuzwang&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.zugzwang.es&#34;&gt;ZUGZWANG&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/CiudadReal.jpg&#34; alt=&#34;AJEDREZ CIUDAD REAL&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/CiudadReal.jpg&#34; alt=&#34;AJEDREZ CIUDAD REAL&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club Ajedrez Ciudad Real&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.zugzwang.es&#34;&gt;CLUB AJEDREZ CIUDAD REAL&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/LOSMOLINOS.jpg&#34; alt=&#34;LOS MOLINOS&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/LOSMOLINOS.jpg&#34; alt=&#34;LOS MOLINOS&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club de Ajedrez Los Molinos (Valdepeñas)&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http:/http://ajedrezvaldepenas.blogspot.com.es&#34;&gt;CLUB AJEDREZ LOS MOLINOS&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/PARQUESUR.gif&#34; alt=&#34;PARQUESUR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/PARQUESUR.gif&#34; alt=&#34;PARQUESUR&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club de Ajedrez Parque Sur&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.AJEDREZPARQUESURALBACETE.es&#34;&gt;AJEDREZ PARQUESUR&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/Excalibur.jpg&#34; alt=&#34;EXCALIBUR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/Excalibur.jpg&#34; alt=&#34;EXCALIBUR&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club de Ajedrez Excalibur&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ajedrezexcalibur.com&#34;&gt;EXCALIBUR&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/almansa.jpg&#34; alt=&#34;AJEDREZ ALMANSA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/almansa.jpg&#34; alt=&#34;AJEDREZ ALMANSA&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club de Ajedrez Almansa&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://clubajedrez.usuarios.tvalmansa.com&#34;&gt;CLUB AJEDREZ ALMANSAL&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/LARODA.png&#34; alt=&#34;LA RODA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/LARODA.png&#34; alt=&#34;LA RODA&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club de Ajedrez La Roda&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://clubajedrez.usuarios.tvalmansa.comhttp://ajedrezlaroda.com/&#34;&gt;CLUB AJEDREZ LA RODA&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/NAEUROPA.jpg&#34; alt=&#34;NA EUROPA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/NAEUROPA.jpg&#34; alt=&#34;NA EUROPA&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club de Ajedrez Nuestro Ajedrez en Europa&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.nuestroajedrezeneuropa.com&#34;&gt;NUESTRO AJEDREZ EUROPA&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/BARGAS.JPG&#34; alt=&#34;NA EUROPA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/BARGAS.JPG&#34; alt=&#34;NA EUROPA&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Club de Ajedrez Bargas Soliss&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://http://ajedrezbargas.blogspot.com.es/&#34;&gt;AJEDREZ BARGAS&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -307,13 +307,13 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/ayuntamiento.jpg&#34; alt=&#34;Ayuntamiento de Tomelloso&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/ayuntamiento.jpg&#34; alt=&#34;Ayuntamiento de Tomelloso&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;Ayuntamiento de Tomelloso&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.tomelloso.es/&#34;&gt;Ayuntamiento de Tomelloso&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/entomelloso.png&#34; alt=&#34;En Tomelloso&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;http://www.ajedreztomelloso.com/images/enlaces/entomelloso.png&#34; alt=&#34;En Tomelloso&#34; /&gt;&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;En Tomelloso&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://entomelloso.com/&#34;&gt;En Tomelloso&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
