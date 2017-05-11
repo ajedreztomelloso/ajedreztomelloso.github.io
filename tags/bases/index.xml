@@ -10,6 +10,7 @@
     <atom:link href="https://ajedreztomelloso.github.io/tags/bases/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+<<<<<<< HEAD
       <title>Comienza el Campeonato Provincial Absoluto</title>
       <link>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto2017_2/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
@@ -74,6 +75,13 @@
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto2017/</guid>
+=======
+      <title>Campeonato Provincial Absoluto 2017</title>
+      <link>https://ajedreztomelloso.github.io/provincialabsoluto17</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/provincialabsoluto17</guid>
+>>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
       <description>
 
 &lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B5q_pAGGq_2oVU1WTndDSTY5Z3c/view?usp=sharing&#34;&gt;Bases&lt;/a&gt;&lt;/p&gt;

@@ -10,6 +10,7 @@
     <atom:link href="https://ajedreztomelloso.github.io/tags/sub/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+<<<<<<< HEAD
       <title>Mejores Jugadas Regional Edades 2017</title>
       <link>https://ajedreztomelloso.github.io/post/MejoresJugadasRegionalSub/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
@@ -107,6 +108,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
       <title>Regionales 2017 Final</title>
       <link>https://ajedreztomelloso.github.io/post/Regional2017_3/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
