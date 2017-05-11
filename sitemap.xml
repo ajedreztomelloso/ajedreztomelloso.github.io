@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-<<<<<<< HEAD
     <loc>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto_Anecdotas/</loc>
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
   </url>
@@ -39,9 +38,6 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto2017/</loc>
-=======
-    <loc>https://ajedreztomelloso.github.io/provincialabsoluto17</loc>
->>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
     <lastmod>2017-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -132,7 +128,6 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/2017/</loc>
-<<<<<<< HEAD
     <lastmod>2017-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -140,9 +135,6 @@
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/ajedrezviernes/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
->>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
     <priority>0</priority>
   </url>
   
@@ -154,11 +146,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/bases/</loc>
-<<<<<<< HEAD
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
->>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
     <priority>0</priority>
   </url>
   
@@ -176,11 +164,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/</loc>
-<<<<<<< HEAD
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
->>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
     <priority>0</priority>
   </url>
   
@@ -234,11 +218,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/post/</loc>
-<<<<<<< HEAD
     <lastmod>2017-05-11T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
->>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
     <priority>0</priority>
   </url>
   
@@ -250,21 +230,13 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/provincial/</loc>
-<<<<<<< HEAD
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
->>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/provincialabsoluto/</loc>
-<<<<<<< HEAD
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2017-04-19T00:00:00+00:00</lastmod>
->>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
     <priority>0</priority>
   </url>
   
@@ -294,11 +266,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/sub/</loc>
-<<<<<<< HEAD
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-=======
-    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
->>>>>>> 1fc8b1489a71ad59e78261eafb887a9815152a10
     <priority>0</priority>
   </url>
   
