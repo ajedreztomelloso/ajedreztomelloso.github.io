@@ -318,6 +318,23 @@ blockquote {
     border-left: #4A4A4A 0.4em solid;
 }
 
+blockquote.quote-rigth {
+    font: 16px italic Georgia, serif !important;
+    border-left: none !important;
+    text-align: right !important;
+}
+
+blockquote.quote-rigth cite {
+    color: #999999;
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
+}
+ 
+blockquote.quote-rigth cite:before {
+    content: "\2014 \2009";
+}
+
 blockquote p {
     margin: 0.8em 0;
     font-style: italic;
@@ -520,10 +537,6 @@ body.nav-opened .site-wrapper {
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
-}
-
-.main-header.top{
-    background: #222 no-repeat center top;
 }
 
 .main-header .inner {
@@ -2077,4 +2090,5 @@ article section table img {
 
 section figure h4 {
     font-size: 12px !important;
+    text-align: center;
 }
