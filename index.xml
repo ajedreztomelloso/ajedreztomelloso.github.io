@@ -2,2912 +2,435 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Club Ajedrez Tomelloso</title>
-    <link>https://ajedreztomelloso.github.io/index.xml</link>
+    <link>http://www.ajedreztomelloso.com/</link>
     <description>Recent content on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Sat, 05 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ajedreztomelloso.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ajedreztomelloso.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FORTALEZAS Y OTROS PLANES DEFENSIVOS EN AJEDREZ</title>
+      <link>http://www.ajedreztomelloso.com/post/fortalezas/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/fortalezas/</guid>
+      <description>Según el Diccionario de la Real Academia, la palabra fortaleza tiene 6 definiciones, de las cuales para este texto pueden encajar las siguientes: “2. Defensa natural que tiene un lugar o puesto por su misma situación” y “3. Recinto fortificado, como un castillo, ciudadela, etc”. En el ajedrez podemos aplicar estas definiciones a las ubicaciones de piezas del bando en desventaja que impiden el progreso del jugador rival
+ En el artículo se hablará de algunas de las fortalezas más importantes de la teoría del ajedrez, así como de algunas situaciones que podrían parecer fortalezas inexpugnables, pero existen resquicios a través de los cuales pueden derribarse.</description>
+    </item>
     
     <item>
       <title>Verano y Campus de Ajedrez</title>
-      <link>https://ajedreztomelloso.github.io/post/campus2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/campus2017/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/campus2017/</guid>
-      <description>&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;Me pregunto si las estrellas se iluminan con el fin de que algún día, cada uno pueda encontrar la suya.&lt;/p&gt;
-
-  &lt;cite&gt;El principito.- Saint-Exupéry&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Este verano el Club Ajedrez Tomelloso se ha vuelto niño de ocho años por tres veces para ajustarse el cinturón de seguridad en la silla de bebés colocada justo detrás del asiento del conductor y emprender el viaje rumbo a Salobreña (Granada) para disputar entre el 29 de junio y el 2 julio de 2017 el campeonato de España de Ajedrez sub-8.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/espana21.jpg&#34; alt=&#34;sub8&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;Las personas mayores nunca pueden comprender algo por sí solas y es muy aburrido para los niños tener que darles una y otra vez explicaciones.&lt;/p&gt;
-
-  &lt;cite&gt;El principito.- Saint-Exupéry&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Fuimos testigos en algunos momentos de la creatividad que atesora Javier Rosado, descubrimos una nueva y fuerte motivación en la pacifica alegría de Beatriz Jiménez, y nos asombramos con esa disciplina interior que brilla en el rostro de Francisco Javier Martínez mientras busca su plan ganador.&lt;/p&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;A veces pienso hasta en seis cosas imposibles antes del desayuno.&lt;/p&gt;
-
-  &lt;cite&gt;Alicia en el pais de las maravillas&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;El Club Ajedrez Tomelloso acompañó a Adriana Domínguez por el maravilloso mundo de las casillas escaqueadas en la categoría nacional sub-10 junto a las playas granadinas la segunda semana de julio.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/adriana.jpg&#34; alt=&#34;adriana&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;Sabía quien era esta mañana, pero he cambiado varias veces desde entonces.&lt;/p&gt;
-
-  &lt;cite&gt;Alicia en el pais de las maravillas&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Como la protagonista del cuento de Lewis Caroll, tras una caida en picado en los comienzos, Adriana consiguió sacar conejos de la chistera con magia y dinamismo en su juego, para acabar con cinco puntos sobre nueve.&lt;/p&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;Educa a los niños y no será necesario castigar a los hombres.&lt;/p&gt;
-
-  &lt;cite&gt;Pitágoras&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;El Club Ajedrez Tomelloso con la colaboración del Área de Deportes de Tomelloso, ha realizado la tercera edición del Campus de Ajedrez de Verano 2017 los últimos días del mes de julio  en el Pabellón de la Ciudad Deportiva.
-Durante estas jornadas hemos conocido mucho mejor el juego de uno de los más grandes del ajedrez, &lt;strong&gt;&lt;em&gt;Robert James Fischer&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/Fischer.jpg&#34; alt=&#34;Fischer&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pudimos disfrutar viendo las partidas del match entre &lt;strong&gt;&lt;em&gt;Fischer - Spassky&lt;/em&gt;&lt;/strong&gt;, y como no, una de las mejores partidas del siglo XX, la sexta partida. Todo esto unido a la película &amp;ldquo;El caso Fischer&amp;rdquo;. Una película basada en hechos reales del match entre estos dos campeones del mundo.
-&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/diagram.png&#34; alt=&#34;Fischer&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;No todo era ajedrez en este Campus,&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/image4.jpeg&#34; alt=&#34;Campus&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;también practicamos deportes en la pistas del Pabellón.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/image3.jpeg&#34; alt=&#34;Campus&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Después de un ejercicio físico, seguiamos a los representantes de nuestro Club en el Campeonato de España por Edades, a través de la retransmisión de chess24.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/campus_image.jpeg&#34; alt=&#34;Campus&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;La transformación de lo desconocido en conocido se denomina comprensión, y el modo en que esto se efectúa es lo que llamamos pensamiento. (Edward de Bono).&lt;/p&gt;
-
-  &lt;cite&gt;&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Álvaro Ramírez lleva ya algún tiempo persistiendo en cambiar lo desconocido en conocimiento. Es su manera particular de entender el Ajedrez.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/alvaro.jpg&#34; alt=&#34;alvaro&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sub-14  Álvaro Ramírez +129 ELO&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;El ajedrez es como la amistad. Une las diferencias.&lt;/p&gt;
-
-  &lt;cite&gt;&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nuestra joven pareja de alfiles (Raúl y Santiago) estan cumpliendo sobradamente con uno de los mas importantes principios del ajedrez: la actividad.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/raul.jpg&#34; alt=&#34;raul&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sub-16 Raúl Moreno +4 ELO&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/santi.jpg&#34; alt=&#34;santiago&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sub-16 Santiago Benito +24 ELO&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;La ventaja que tiene el aprendizaje sobre el instinto consiste en que permite desarrollar respuestas para situacioones nuevas. (Edward de Bono)&lt;/p&gt;
-
-  &lt;cite&gt;&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Miguel Castro  fue premiado con un reloj de ajedrez del Club. ¡Enhorabuena!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;En horario de tarde, cada día jugábamos un torneo diferente. Massnou, Alocado, Pasapiezas, Progresivo&amp;hellip;
-Miguel, mejor regularidad en los ocho torneos disputados consigue el reloj.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/miguel_campus.jpeg&#34; alt=&#34;Campus&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;La mente que se abre a una nueva idea, jamás volverá a su tamaño original.&lt;/p&gt;
-
-  &lt;cite&gt;Einstein&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/image.jpeg&#34; alt=&#34;Campus&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/campus2017/</guid>
+      <description>Me pregunto si las estrellas se iluminan con el fin de que algún día, cada uno pueda encontrar la suya.
+El principito.- Saint-Exupéry Este verano el Club Ajedrez Tomelloso se ha vuelto niño de ocho años por tres veces para ajustarse el cinturón de seguridad en la silla de bebés colocada justo detrás del asiento del conductor y emprender el viaje rumbo a Salobreña (Granada) para disputar entre el 29 de junio y el 2 julio de 2017 el campeonato de España de Ajedrez sub-8.</description>
+    </item>
+    
+    <item>
+      <title>I Campeonato Ajedrez Relámpago por Clubes Castilla La Mancha</title>
+      <link>http://www.ajedreztomelloso.com/post/ictorelampagoequipos/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/ictorelampagoequipos/</guid>
+      <description>Día de juego: 26 de agosto de 2017.
+ Lugar de juego: Casino Tomelloso. Calle de Don Víctor Peñasco, 25
+ Sistema de juego: Suizo a 8 rondas.
+ Ritmo de juego: 5 minutos más 3 segundos por movimiento.
+ Puntuación de los encuentros:
+2 puntos por la victoria, 1 por el empate y 0 por la derrota.
+ Desempate: Los sistemas de desempate serán: Puntuación Olímpica, Mediano Bucholz, Bucholz, Resultado Particular</description>
     </item>
     
     <item>
       <title>Regional Absoluto Individual 2017</title>
-      <link>https://ajedreztomelloso.github.io/post/regionalAbsoluto2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/regionalabsoluto2017/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/regionalAbsoluto2017/</guid>
-      <description>
-
-&lt;h3 id=&#34;crónica-del-regional-por-josé-ramón-ramírez&#34;&gt;Crónica del regional por José Ramón Ramírez&lt;/h3&gt;
-
-&lt;p&gt;Entre los días 6 y 9 de julio se ha celebrado en la localidad conquense de Valverde de Júcar el Campeonato Regional Absoluto de ajedrez. Viendo la nómina de jugadores, era muy difícil hacer pronósticos a priori, ya que había muchos participantes con opciones de estar peleando por las primeras plazas.&lt;/p&gt;
-
-&lt;p&gt;En la primera ronda, con piezas negras, tuve enfrente al conquense Óscar López. Tras una partida bastante cerrada, en la que estuve intentando presionar en el flanco de dama, cometí un error que permitió a mi rival ejecutar un sacrificio de calidad que hizo desaparecer la ventaja. Incluso, un par de jugadas más tarde hice un error grave que mi adversario no aprovechó para ganar de inmediato (ver siguiente diagrama). Poco después, logré meter a mi rival en los apuros y, tras unas jugadas poco intensas por su parte, conseguí imponer la calidad de ventaja para anotarme el primer punto.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda1.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 48.Dxh5&amp;#43;. 48…Rg8 es la jugada correcta, pero jugué 48…Rg7??, que permite un remate que el blanco no vio y dejo como ejercicio.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/solucionJRronda1.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Tras una larga lucha, tocaba reponer fuerzas con la cena. Mi sorpresa es que, cuando llego a la puerta del restaurante donde la teníamos concertada, el resto de gente aún estaba en la puerta, comentando que el restaurante no tenía constancia de que fuésemos a cenar. En parte por ello, nos sirvieron de forma realmente lenta y la cena se acabó prolongando hasta las 0:00 horas.&lt;/p&gt;
-
-&lt;p&gt;En la segunda ronda, conduciendo las piezas blancas, tenía enfrente al albaceteño Javier Trabazos. Fue una partida en la que mi rival colocó las piezas de forma bastante pasiva, incluyendo un caballo en a8 sin perspectivas de futuro. Viendo que el rey negro tenía pocas tropas en su escolta, aproveché la ventaja de espacio de la que disponía para trasladar mis fuerzas al flanco de rey y desbordar la defensa rival.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda2.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 24.Txh7, en la que el negro abandonó.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Más difícil de gestionar fue la hora de la comida del viernes. Tal como sucediese la noche anterior, en el restaurante fueron imperdonablemente lentos a la hora de servir la comida, saliendo del lugar con apenas media hora de margen para preparar algo o echar una siesta. Así pues, para comidas y cenas posteriores decidí que era mejor cambiar de sitio.&lt;/p&gt;
-
-&lt;p&gt;La partida del viernes por la tarde, correspondiente a la tercera ronda, me enfrentaba con el albaceteño Juan Antonio Picazo manejando las piezas negras. Tras una lucha interesante de apertura, hice algunas jugadas flojas y rápidamente entré en una posición muy inferior. Cuando no daba un euro por mi supervivencia en esa partida, mi rival se embarcó en un plan dudoso cambiando las piezas menores y me permitió llegar a una situación en la que, pese a que tenía un peón de desventaja, mis piezas pesadas ocupaban unas posiciones razonablemente activas. Poco después, el blanco expuso innecesariamente su rey e incluso tuvo que defenderse con jugadas únicas para aguantar la igualdad. Así, logré el empate en una partida en la que hubo varios momentos en los que me vi perdido.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRPicazo1.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras: 27…Txf8&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRPicazo2.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras: 38…Dxe5&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRPicazo3.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras: 46.Rh3 donde el negro fuerza las tablas con una combinación que te invito a sacar.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRPicazo3.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;El viernes por la noche estuvo marcado por una fuerte tormenta, que nos obligó a los jugadores a usar el coche para sortear un tramo muy embarrado del camino que daba acceso a la casa rural en la que estábamos hospedados. Ese barro dio origen a algunas anécdotas en forma de “bajadas al barro”, zapatillas empozadas o exhibiciones de flexibilidad.&lt;/p&gt;
-
-&lt;p&gt;La cuarta ronda me enfrentaba con blancas al jugador conquense José Luis Machado García-Román. En esta partida, cada contendiente atacó en un flanco, llegando antes el ataque blanco en el flanco de rey. Tras un sacrificio de pieza contra el enroque negro, logré anotar una nueva victoria.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda4.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 25…Ce5. Juegan blancas y ganan.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda4.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;La quinta partida enfrentaba a los dos jugadores que encabezaban el campeonato: jugaba de nuevo con blancas ante el albaceteño Pablo Alcoba. En este duelo quise buscar una situación desequilibrada, pero acabé en una posición incómoda, en la que mi rival presionó bien para llegar a un final que no pude aguantar, desvaneciéndose todas mis opciones de acabar campeón.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda5.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 33.Rf3. Juegan negras y ganan (aunque mi rival no vio esta combinación).&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda5.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda5_2.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 41…Tc8, que supone el último momento en el que la causa blanca podría ser defendible si hubiese jugado 42.Af4 en lugar de 42.Th7&amp;#43;.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;En la sexta y última ronda tenía como rival al MF albaceteño José Vicente Jiménez. Fue una partida de alto voltaje, en la que ninguno de los jugadores estábamos conformes con el empate. En un momento en el que parecía que la posición se había igualado por completo, José Vicente decidió forzar y tuve una oportunidad de lograr una ventaja muy clara que no aproveché del todo, ya que el final al que se arribó apenas ofrecía chances para obtener el punto entero, por lo que el empate fue inevitable.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6.gif&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 39.d5. Halla la única jugada que defiende la posición blanca tras 40…Ad6&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/solucionJRronda6.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6_2.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 43.Dxa7. Juegan negras y ganan.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6_2.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6_3.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 49.Cd3, en la que el negro dispone de la última oportunidad para luchar por la victoria jugando 49…d4 en lugar de 49…h5.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6_4.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Posición tras 53.Txd4, en la que se ve el final de 3 contra 2 en el que no se puede forzar la victoria.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Así, finalicé el campeonato con 3 victorias, 2 empates y una derrota, lo que supone hacer 4 de los 6 puntos posibles. Con esa puntuación, acabé la competición en cuarto lugar, por detrás de Pablo Alcoba, José Vicente Jiménez y Juan Antonio Picazo, que conformaron el podio.&lt;/p&gt;
-
-&lt;p&gt;En la categoría de veteranos, el campeón fue el jugador de Villanueva de los Infantes Antonio Castellanos, mientras que la valdepeñera Esther Ruiz de León logró el campeonato femenino mostrándose muy superior a sus rivales, al obtener un pleno de victorias en partidas bastante rápidas. Enhorabuena a todos y suerte en los respectivos Campeonatos de España.&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/regionalabsoluto2017/</guid>
+      <description>Crónica del regional por José Ramón Ramírez Entre los días 6 y 9 de julio se ha celebrado en la localidad conquense de Valverde de Júcar el Campeonato Regional Absoluto de ajedrez. Viendo la nómina de jugadores, era muy difícil hacer pronósticos a priori, ya que había muchos participantes con opciones de estar peleando por las primeras plazas.
+En la primera ronda, con piezas negras, tuve enfrente al conquense Óscar López.</description>
     </item>
     
     <item>
       <title>Subcampeones de Castilla la Mancha</title>
-      <link>https://ajedreztomelloso.github.io/post/regionalPorEquipos2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/regionalporequipos2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/regionalPorEquipos2017/</guid>
-      <description>
-
-&lt;p&gt;El pasado 15 de Junio coincidiendo con el Corpus como es tradición en nuestra región se celebró el campeonato Regional por Equipos de Castilla La Mancha. La mejor actuación en la historia de nuestro club con 5 victorias y un empate no sirvió para conseguir el campeonato debido a la igualdad del mismo, y en el desempate el Club Ajedrez Excalibur fue mejor que los nuestros y finalmente se proclamó campeón por segundo año consecutivo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/Trofeo.jpg&#34; alt=&#34;trofeo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El hotel Beatriz de Albacete repitió la acogida del evento. Aunque sea el campeonato más importante en la región, la federación regional otro año más no le ha dado la importancia que se merece. Las sillas de la sala de juego eran muy incómodas y no se vio un solo tablero de madera. Aunque hay que agradecer a nuestro Órgano de Gobierno la inclusión este año de &lt;strong&gt;premios por tableros&lt;/strong&gt;. Creo que es una gran iniciativa &lt;del&gt;que ni ellos mismos mencionan en su &amp;ldquo;crónica&amp;rdquo;&lt;/del&gt; que le da al torneo un toque especial.&lt;/p&gt;
-
-&lt;p&gt;La participación este año fue de 11 equipos. Fue más que bienvenida la presencia por primera vez del campeón de Toledo Bargas Soliss, que le dio al torneo un nuevo enfrentamiento en las primeras mesas con un equipo que está preparado para pelear por las medallas. Este año fueron bronce, pero seguro que darán mucho que hablar en años posteriores.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/equipo.jpg&#34; alt=&#34;Equipo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Nuestro equipo estuvo formado por: Carlos García, Eduardo López, Iván Moreno, Ángel Carlos López, José Ramón Ramírez y Juan Carlos Domínguez.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/angelcarlosjoseramon.jpg&#34; alt=&#34;Ángel Carlos y Jose Ramón&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ronda-1-tomelloso-3-5-parque-sur-0-5&#34;&gt;Ronda 1: Tomelloso 3.5 - Parque Sur 0.5&lt;/h3&gt;
-
-&lt;p&gt;La élite de los ajedrecistas del club empezaba la aventura contra Parque Sur, con el recuerdo de esa derrota del año 2015 cuando fuimos campeones. Es admirable que Parque Sur, uno de los clubes más antiguos de nuestra región, año tras año este en este regional luchando con los mejores y sacando grandes nuevos ajedrecistas. Su labor por poner nuestro deporte en la mente de los castellano-manchegos es excepcional.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/TomellosoParquesur.jpg&#34; alt=&#34;Tomelloso vs Parque Sur&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;En las partidas el &amp;ldquo;profe&amp;rdquo; Adrián Tierraseca en la mesa 1 lanzó un brutal ataque contra el rey blanco de Carlos García. Fue una partida muy táctica donde Carlos encontró contrajuego con su dama sobre la octava fila acechando al rey negro. Carlos castigó unas imprecisiones negras y consiguió dar el primer punto al bando tomellosero.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jugadores como Carlos Navarro son los que hacen grande a este deporte. Sin miedo y sin complejos, sacrificó una pieza en f7 en una catalana frente a nuestro capitán Eduardo López. El módulo le daba la razón, era un gran sacrificio. Eduardo se defendió como gato panza arriba y tras unas especulaciones con poder viajar con su rey a b4, consiguió salir airoso en un final con ventaja donde se acabó imponiendo.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;José Ramón Ramírez tuvo una partida muy posicional con Jorge Tébar, donde poco a poco forjó su victoria.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;La posición de Juan Carlos Domínguez nunca fue del todo cómoda contra el joven sub-14 Guillermo Lagunas. Las nuevas generaciones vienen apretando y no ponen las cosas fáciles. Un final de torres con un peón pasado de Guillermo puso las tablas finales en la última partida del duelo.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;ronda-2-bargas-soliss-1-5-tomelloso-2-5&#34;&gt;Ronda 2: Bargas Soliss 1.5 - Tomelloso 2.5&lt;/h3&gt;
-
-&lt;p&gt;El primer enfrentamiento entre toledanos y ciudarrealeños se decantó a nuestro favor. En los regionales por equipos siempre deberían estar las mejores escuadras de nuestra región y hace ya unos años que se echaba de menos la presencia de los reyes de los regionales subs. Su primera participación en el torneo por equipos absolutos ha sido notable y esperamos que repitan los próximos años. Siempre es gratificante ver a los mejores.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/bargastomelloso.jpg&#34; alt=&#34;Bargas - Tomelloso&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;En la mesa 1 Miguel Ángel Martínez con piezas blancas echó el cerrojo contra Carlos García. Nuestro maestro intentó forzar la posición, pero el blanco se dedicó a esperar atrás con su esquema sólido por lo que finalmente se firmaron tablas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/mesa1bargastomelloso.jpg&#34; alt=&#34;Mesa 1: Bargas vs Tomelloso&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;La mesa 2 Iván Moreno se estrenaba en el torneo sacando ventaja en la apertura con un sacrificio temático de pieza en la india de rey. La posición era muy compleja y el conquense Víctor Fernández consiguió contrajuego atacando al rey blanco. Con una posición con muchas piezas en el aire se llegó a un final donde Iván con calidad de ventaja tuvo que defenderse de un peón pasado de su rival. Una combinación de triple repetición forzada dio medio punto a cada equipo.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Ángel Carlos López se estrenaba en la mesa 3 con negras, un color que le perseguiría durante todo el torneo. La actividad de sus piezas en el medio juego se transformó en la ganancia de un peón; pero las debilidades en el final de las casillas negras y su inseguro rey ponía de manifiesto que la posición era muy compleja. Finalmente Samuel Bustos recuperaba el peón y conseguía entrar en un final de alfiles de casillas blancas donde todos los peones del negro estaban en el mismo color que su alfil. La defensa del jugador tomellosero fue férrea, atacando los peones en casilla negra del blanco y haciendo que el rey de Bustos se encontrase más sometido a la defensa que al ataque. Una imprecisión de Bustos hizo que finalmente tuviera que luchar por las tablas en un final de una dama negra contra un peón en séptima en columna de alfil del blanco. El rey negro no se encontraba lo suficientemente cerca, por lo que se firmaron las tablas.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;José Ramón Ramírez tuvo una partida muy cómoda con mucha ventaja de espacio desde la apertura frente a Karim Rodríguez. El jugador de Bargas cada vez tenías las piezas más apretadas y José Ramón, colocando sus piezas mayores con mucho criterio aprovechó con sus caballos todos los agujeros de la posición negra, dando el golpe en el centro en el momento justo para poder pasar a la zona enemiga y destrozarla. Gran victoria del jugador bolañego que ponía a nuestro club con pleno de victorias.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;ronda-3-tomelloso-2-excalibur-2&#34;&gt;Ronda 3: Tomelloso 2 - Excalibur 2&lt;/h3&gt;
-
-&lt;p&gt;La subida del Club Ajedrez Excalibur ha sido espectacular estos últimos años. Prácticamente lo han conseguido todo a nivel regional; aunque una de las tareas que tienen pendientes es derrotarnos en enfrentamiento particular, ya que nunca hemos sufrido ninguna derrota contra la formación albaceteña. La rivalidad entre los dos clubes se plasmó en los tableros ya que no hubo ni una partida que acabase en tablas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/tomellosoexcalibur.jpg&#34; alt=&#34;Tomelloso vs Excalibur&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;La primera mesa en acabar fue la mesa 2. Eduardo López sufrió la gran preparación de aperturas de Álvaro Buendia. La posición negra que quedó después de las primeras jugadas fue un final que aunque el blanco tenía poco desarrollo sus peones pasados parecían que iban a dar una plácida victoria al jugador de Excalibur; pero en contra de las expectativas las blancas, a pesar de tener mucho más tiempo de reloj, empezaron a hacer jugadas imprecisas en las que el sacrificio del peón central dejó la posición con un final incierto. Cuando las negras luchaban por la victoria con su peón pasado en b, el jugador rodense perdió su torre y corroboró su derrota.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Los dos habituales viñarrockeros del ajedrez, Emilio Villaseñor y Ángel Carlos López, luchaban en la mesa 4. El jugador de Tomelloso se cargó de mucho tiempo en su reloj en una siciliana donde la línea de la igualdad siempre estuvo presente. Al ver la derrota del tablero dos de Excalibur, Emilio fue a por la partida y apretó un final de torres que acabó con un par de peones de más y el rey negro atrapado en red de mate.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Con el 1-1 en el resultado global, Iván con piezas blancas defendía un rival en el que estaba muy apretado frente a José Vicente Jiménez. La india de rey que propuso el negro fue de cauces no muy comunes e Iván acabó perdiendo la lucha por la columna c. La experiencia de José Vicente en este tipo de situaciones acabó imponiéndose con un mate espectacular aprovechando el periplo del rey por h3.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;En la mesa 1, Carlos García se había quedado solo con un resultado desfavorable. Víctor Fernández tenía una posición sólida y los apuros de tiempo estaban en los relojes de ambos MFs. &lt;strong&gt;Si algo diferencia a este equipo de los demás es ese pundonor que sale a cualquier miembro del equipo cuando uno de sus compañeros ha perdido&lt;/strong&gt;. Hay que estar orgullosos del compañerismo de este equipo ya que siempre hay un miembro del mismo que da la cara por sus compañeros y eso es algo que se ha ido forjando en la columna del equipo en sus años en Talavera, y que se repite ahora en Tomelloso. Carlos García sacó todo lo que tenía dentro para apretar una posición igualada en la que poco a poco fue cogiendo ventaja. Otros habrían firmado las tablas y habrían señalado a sus compañeros que no cumplieron. Él cogió el peso del equipo y no lo dejó caer. El jugador de Excalibur no soportó la presión y acabó cayendo ante los numerosos ataques a su rey en los apuros con dos caballazos blancos en c5 y e5.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Excalibur y Tomelloso quedaban empatados a puntos de encuentro. Todo indicaba que si conseguían vencer en todos sus encuentros el desempate en los puntos de tableros iba a ser muy importante. Aunque aún quedaba mucho torneo. De momento, un punto por encima en tableros daba el liderato a Excalibur.&lt;/p&gt;
-
-&lt;h3 id=&#34;ronda-4-zuzwang-0-5-tomelloso-3-5&#34;&gt;Ronda 4: Zuzwang 0.5 - Tomelloso 3.5&lt;/h3&gt;
-
-&lt;p&gt;El clásico de los regionales. Veníamos de vernos las caras con ellos en el provincial donde conseguimos la victoria; pero aún estaba presente la derrota que sufrimos el año pasado contra ellos en este mismo escenario. Zuzwang tuvo un regional difícil ya que sufrieron las bajas de Sandro y David, que no pudieron acudir a la cita y no tenían rotaciones. Venían de ganar a Tarazona y querían luchar por el segundo puesto ya que ya habían perdido contra Excalibur.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/tomellosozuzwang.jpg&#34; alt=&#34;Tomelloso - Zuzwang&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Iván fue el primero en acabar. En la mesa 2 derrotó a Francisco Javier Sánchez en una Nimzoindia en la que siempre llevó la iniciativa. Se aventajó en un de peón y lanzó un gran ataque que acabó derrotando a su rival.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;La partida de Pablo Gómez Peco y Carlos García fue por los derroteros de siempre. El jugador de Talavera con piezas negras se encontró con el muro de apertura de Pablo en el cual espera atrás a su rival. Carlos viendo que las partidas iban favorables firmó las tablas con su rival.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/tomellosozuzwang2.jpg&#34; alt=&#34;Tomelloso - Zuzwang II&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Juan Carlos venció de manera solvente a Martin imponiendo su buen juego posicional en la mesa 4.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Pero la partida del torneo fue la que enfrentó a Jose Ramón Ramírez en la mesa 3 frente a Antonio Castellanos. En la partida José Ramón defendía las piezas negras por primera vez en el torneo. Disponía de ventajita teniendo las piezas más activas de su rival; pero en un momento de la partida se puso a su disposición poder hacer un ¡sacrificio posicional de dama! Como comentaba posteriormente José Ramón es una de esas jugadas que si la ves tienes que hacerla. De repente todas sus piezas jugaban, las torres estaban muy activas y el peón pasado de d fue todo un quebradero de cabeza para el jugador de Infantes. Una gran partida de JR que de momento contaba todas sus partidas por victorias!&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Excalibur ganó 3-1 a Tarazona, por lo que conseguimos apretar la clasificación un poco más y nos acercabamos a medio punto de los albaceteños.&lt;/p&gt;
-
-&lt;h3 id=&#34;ronda-5-tomelloso-3-ateneo-1&#34;&gt;Ronda 5: Tomelloso 3 - Ateneo 1&lt;/h3&gt;
-
-&lt;p&gt;Ateneo estaba haciendo un buen papel en el torneo. Nosotros necesitábamos ganar y golear para dar caza a los líderes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/ateneotomelloso.jpg&#34; alt=&#34;Ateneo - Tomelloso&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Juan Carlos Domínguez fue el primero en acabar en la mesa 4. Su partida fue una india de rey en la cual pronto encontró los espacios de un rival muy inferior a su nivel. Aunque Hudy Herber Herrero puede contar con que a la edad de 80 años ha jugado una partida del regional por equipos.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Iván también impuso su veteranía pronto frente a Alejandro López en la mesa 3, en el que un ataque doble a dos peones hizo que el blanco pudiera entrar en la posición negra consiguiendo una cómoda victoria.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nuestro capitán Eduardo López hizo una muy buena partida en la mesa 2. Siempre fue superior a su rival en el tablero y consiguió un peón de ventaja en la apertura; pero se cargó mucho de tiempo. En los apuros, él contaba oscilando los 3 minutos mientras su rival disponía de 20, lanzó un buen ataque al rey del rival que no acabó de rematar dejando escapar una buena oportunidad. Luego, presa de la mala suerte, tocó un caballo que estaba clavado por la torre del jugador albaceteño para comer la dama negra.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Alejandro Alcoba fue el que se llevó la medalla al tablero 2. Jugó una partida a esperar a nuestro tablero 1 Carlos García. Pero Carlos, con la seguridad que le caracteriza, fue buscando sus posibilidades quedando con poco tiempo en el reloj. El jugador del equipo rival comenzó a especular con el reloj de Carlos haciendo jugadas de espera, lo que no sabía es que nuestro maestro con poco tiempo se siente cómodo y sigue haciendo las mejores jugadas. Puso un caballo apuntando a h6 en f5 y allí surgió su ataque. La victoria se decantó del lado tomellosero una vez más en el primer tablero.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Excalibur consiguió ganar 3.5 a 0.5 a Bargas, lo que dejaba con 1 punto de ventaja para la última ronda.&lt;/p&gt;
-
-&lt;h3 id=&#34;ronda-6-tomelloso-2-5-almansa-1-5&#34;&gt;Ronda 6: Tomelloso 2.5 - Almansa 1.5&lt;/h3&gt;
-
-&lt;p&gt;Almansa iba a ser nuestro último rival. Necesitábamos golear y esperar el resultado de Excalibur. Ni el empate a puntos nos valía. El campeonato estaba muy difícil y Almansa venía de un descanso que les había venido muy bien. Aunque había un rayo de esperanza en la sala de juego que quizá nos podía hacer campeones, véase en la foto.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/tomellosoalmansa.jpg&#34; alt=&#34;Almansa - Tomelloso&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;El primero en acabar fue Edu en la mesa 2. Una partida muy currada desde el inicio, siempre estuvo mejor. Cuando ya tenía el peón pasado de a justo a punto de coronar, una combinación de torre y caballo en los apuros hizo caza de su rey. Adrián Castillo contra todo pronóstico puso el 1-0 a favor de Almansa.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Otra partida complicada surgió en la mesa 3. Ángel Carlos López prontó ganó un peón en la apertura frente a Juan José Jarque, pero se apuró mucho de tiempo. La posición era muy complicada con el rey negro del tomellosero sin tener una situación segura. Después de unas imprecisiones, el blanco consiguió llegar a un final con un peón de menos de caballo contra alfil; aunque el peón de más negro se encontraba doblado. El poco tiempo en el reloj de Ángel Carlos hizo que hacer tablas al jugador de Almansa le resultara demasiado fácil. 0.5 - 1.5.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;El resultado del encuentro peligraba. Parque Sur estaba apretando a Excalibur y parece que ellos tampoco estaban teniendo fácil conseguir la victoria y un empate de éstos daba el título a Tomelloso siempre y cuando se ganaran las dos partidas restantes.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Carlos García volvió a tener que tirar del equipo. Javier Boj jugó a esperar y no equivocarse con piezas blancas en la mesa 1 del encuentro. Carlos salió un poco peor de la apertura, pero con la pareja de alfiles en su mano, fue cambiando todas las piezas hasta que quedó un final de dos alfiles y torre contra alfil y caballo y torre. Con apuros de tiempo en su reloj, como es ya costumbre, el negro maniobró y aprovechó su peón pasado de b que decidió el primer punto del encuentro para el bando tomellosero.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dos partidas quedaban para terminar el torneo. José Ramón en la mesa 4 jugaba para ganar nuestro encuentro. Víctor Fernández jugaba contra Pablo Tierraseca para ganar el de Excalibur. Creo que si había alguien en la sala que su preferencia fuera nuestro club en lugar de Excalibur, ese era Pablo y sabíamos que lo iba a dejar todo en esa partida. Había estado mucho mejor toda la partida pero ahora tenía que defender un final de torre contra torre y alfil sin peones.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/joseramoncontraalmansa.jpg&#34; alt=&#34;José Ramón frente a Almansa&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;La partida de la mesa 4 enfrentó a José Ramón Ramírez frente a Juan Guillen. La partida estuvo muy igualada toda la contienda, pero la necesidad de ganar del jugador bolañego para intentar darle la victoria a su equipo hizo que en un final de caballos tuviera que sacar todos los recursos para conseguir la victoria. Ganó un peón y quedándose con la posición de la fotografía consiguió anotar el punto y la victoria para el cuadro tomellosero. Otra victoria más que certificó el buen torneo de nuestro club en Albacete.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/d-S-OSBWZJk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Ese fue el momento en el que Pablo se rindió y dio el segundo regional consecutivo al Club Ajedrez Excalibur. Enhorabuena a los campeones, que no fallaron en su cita con la victoria y demostraron ser los más regulares de la competición. Aun así, para nosotros Pablo nos hizo poder contar con ese momento de lucha, por lo que lo convertimos en uno más de los nuestros:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/pabloconelequipo.jpg&#34; alt=&#34;Pablo con el equipo&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;trofeos-por-tableros&#34;&gt;Trofeos por tableros&lt;/h3&gt;
-
-&lt;p&gt;Creo que es de justicia decir que contamos con el mejor jugador de Castilla la Mancha en nuestras filas. Defender así el tablero número 1 en un regional tan exigente e ir todas las partidas a por la victoria, sin mirar el nombre del rival, hace que nuestro MF Carlos García Moreno pudiese recoger el trofeo al mejor jugador de la mesa 1 de todo el torneo. Con lo descafeinado que quedan últimamente los regionales absolutos, al no poder acudir los mejores jugadores de la región, a nivel individual puede que este sea uno de los trofeos que acredita a los mejores de la región. Grande Carlos, siempre rindiendo a un gran nivel en estos torneos, esperemos que sigas muchos más años en este club que te admira tanto.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/carlosgaricamorenomejortablero1.jpg&#34; alt=&#34;Mejor tablero 1, Carlos García Moreno&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Nuestro otro premiado en los tableros individuales fue un jugador que siempre que se sienta a defender los colores de nuestro club lo da todo. José Ramón Ramírez cuajó una actuación perfecta con &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;, 100% de efectividad. Tuvo grandes partidas tanto de calidad ajedrecista como de lucha y entrega. Dos encuentros se decidieron a nuestro favor gracias a su victoria en ellos. Es un placer contar siempre con uno de los grandes del ajedrez castellano manchego en nuestras filas e igualmente esperamos que sigas muchos años más compartiendo experiencias con el azul en la espalda.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalEquipos17/joseramonmejortablero4.jpg&#34; alt=&#34;Mejor tablero 4, José Ramón Ramírez&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El resto de mejores tableros fueron para Alejandro Alcoba en el tablero 2 con 4.5 sobre 6 y José Vicente Jiménez en el tablero 3 con 5 sobre 6.&lt;/p&gt;
-
-&lt;h3 id=&#34;clasificación&#34;&gt;Clasificación&lt;/h3&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;Finalmente la habitación 114 se impuso sobre la habitación 119 por un score de 9-8.&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;No.Ini.&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Equipo&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;+ &lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;= &lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;- &lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Des 1 &lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Des 2 &lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;C.D. EXCALIBUR&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;11&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;18&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;C.A. TOMELLOSO&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;11&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;17&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;5&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;C. A. BARGAS-FUNDACIÓN SOLISS&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;8&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;13&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;TARAZONA&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;14,5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;9&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;ALMANSA&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;13&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;4&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;C. ZUGZWANG&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;12&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;6&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;ATENEO&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;11,5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;7&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;PARQUE SUR&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;11&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;11&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;LA RODA&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;8,5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;10&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;NUESTRO AJEDREZ EN EUROPA&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;8,5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;8&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;PEON AVANZADO&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;8&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;otras-crónicas&#34;&gt;Otras crónicas&lt;/h3&gt;
-
-&lt;p&gt;Es una pena que la crónica de la federación sea tan poco objetiva y que además ni se nombre a los premios por tableros ni el tercer puesto de la primera participación de Bargas, a los que agradecemos que se hayan acordado del equipo de Talavera de años anteriores en su crónica.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Página &lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Crónica &lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;C.D. EXCALIBUR&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://ajedrezexcalibur.blogspot.com.es/2017/06/campeones-de-castilla-la-mancha-en-un.html&#34;&gt;Crónica&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;C. A. BARGAS-FUNDACIÓN SOLISS&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://ajedrezbargas.blogspot.com.es/2017/06/bronce-en-el-regional-por-equipos.html&#34;&gt;Crónica&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;NUESTRO AJEDREZ EN EUROPA&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://ajedrezvillafranca.blogspot.com.es/2017/06/nuestro-equipo-queda-10-en-el-regional.html&#34;&gt;Crónica&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;FACLM&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://www.faclm.org/campeonato-regional-por-equipos-2017/&#34;&gt;Crónica&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Chess Results&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://www.chess-results.com/tnr283156.aspx?lan=2&amp;amp;art=0&amp;amp;rd=6&amp;amp;wi=821&#34;&gt;Resultados&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/regionalporequipos2017/</guid>
+      <description>El pasado 15 de Junio coincidiendo con el Corpus como es tradición en nuestra región se celebró el campeonato Regional por Equipos de Castilla La Mancha. La mejor actuación en la historia de nuestro club con 5 victorias y un empate no sirvió para conseguir el campeonato debido a la igualdad del mismo, y en el desempate el Club Ajedrez Excalibur fue mejor que los nuestros y finalmente se proclamó campeón por segundo año consecutivo.</description>
     </item>
     
     <item>
       <title>Ajedrez III Torneo familiar de Tomelloso </title>
-      <link>https://ajedreztomelloso.github.io/post/ajedrezfamilia/</link>
+      <link>http://www.ajedreztomelloso.com/post/ajedrezfamilia/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ajedrezfamilia/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezfamilia/familia6.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;Nací el año 1936 en un pueblo de la llanura manchega, un pueblo joven, apenas sin historia, &lt;strong&gt;&lt;em&gt;luminoso, donde parecía que todo estaba a la vista.&lt;/em&gt;&lt;/strong&gt; Mi familia, tan numerosa, las gentes, las calles tan rectas, tan bien proporcionadas que parecían larguísimas, &lt;strong&gt;&lt;em&gt;el pueblo tan habitado, el campo tan cerca,&lt;/em&gt;&lt;/strong&gt; todo me parecía emocionante y protector. &lt;strong&gt;&lt;em&gt;El mejor mundo para un niño.&lt;/em&gt;&lt;/strong&gt;  (Antonio López García El pais 27/06/2006)&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;El día 10 de junio,  nuestro club, gracias a la generosidad del Colegio Público Jose María de Moral, se reunía familiarmente en su pabellón para celebrar el último acto de la temporada. Un torneo por equipos de dos jugadores unidos por un especial vínculo de parentesco o similar: padres e hijos, tíos y sobrinos, hermanos, cuñados, etc. Casi medio centenar de jugadores dispuestos a ocupar la mañana jugando seis partidas de ajedrez, defendiendo codo con codo la elástica familiar.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezfamilia/familia1.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;A uno de mis tíos, el mayor de los hermanos de mi padre, le veía ir y venir con el caballete, la caja de pinturas y un lienzo a las afueras del pueblo a pintar el campo, una imagen familiar para todos. Antonio López Torres el pintor, pequeño, nervioso, sensible, aprensivo, a veces con un gran sentido del humor, se destacaba de los demás de una manera involuntaria. (Antonio López García El pais 27/06/2006)&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;La familia Domínguez Lozano por ser tan numerosa se desdobló en dos equipos (padre e hijo, hermano/a); los tres componentes del equipo Perales Patón hicieron buen uso de las nuevas técnicas de rotación, incluso levantó ciertas sospechas que el arbitro principal fuera de la familia López Quevedo. El toquecito de igualdad lo pusieron los equipos Lahoz-López (madre e hijo) y Jiménez Daza (padre e hija).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezfamilia/familia2.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;Antonio López Torres, gran conversador, a propósito de los cantos de los pájaros y de los sonidos que se oyen distantes en el campo, piensa que son, junto la temperatura de la atmósfera colaboradores de su pintura. (Antonio LLovet -Antonio López Torres FCM 1984)&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Las desigualdades eran inmensas, los jovenes superaban a los veteranos en preparación técnica no así en sentido del humor. El empate fue el resultado mas repetido a lo largo de toda la contienda.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezfamilia/familia3.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;Yo era su sobrino de mayor edad. Hacia los doce años comencé a dibujar unas reproducciones de pinturas del siglo XIX que encontré en una revista. Fueron muy alabadas por la familia; &lt;strong&gt;&lt;em&gt;mi tío me veía dibujar. Yo esperaba que comentara algo, pero no decía nada, creo que me dejaba hacer, que esperaba.&lt;/em&gt;&lt;/strong&gt; Yo sentía por momentos más interés por dibujar. (Antonio López García El pais 27/06/2006)&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;La relación predominante era paternofilial (Navarro González, Benito Olmedo, Castro Paraiso, Ramírez Aguado, Serrano Sanz, Martinez Sevilla, Ortiz Tanase y Jiménez Diaz ), pero no faltaron parejas con nexo fraternal (Moreno Valero, Rosado Poveda) tíos sobrinos (Navarro Gonzalez, Rosado León), maestro/discipulo (Moreno Cañas) alumnos de la escuela (Belda Jimenez, Ortiz Izquierdo), etc. (Castillejos Lahoz).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezfamilia/familia4.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;El aire frío o caliente y la luz también se encuentran en relación directa con sus cuadros. Antonio López Torres gradúa la intensidad de las gamas de color de acuerdo con la percepción de los cambios atmosféricos, con la temperatura ambiente, la sequedad o el grado de humedad, sea ya en una habitación cerrada o en campo libre.  (Antonio LLovet -Antonio López Torres FCM 1984)&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;La pareja López Quevedo acabó imponiéndose en la clasificación final cediendo solo unas tablas, seguidos muy de cerca por los hermanos Moreno Valero y el clan Perales Patón, Navarro González eran cuartos y Domínguez Lozano quintos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezfamilia/familia7.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;&lt;strong&gt;&lt;em&gt;¿Y cómo se siente?&lt;/em&gt;&lt;/strong&gt; Me siento igual que cuando empecé a pintar. &lt;strong&gt;&lt;em&gt;Estás solo ante algo maravilloso, insondable, que no se acaba nunca.&lt;/em&gt;&lt;/strong&gt; Es la propia vida, eso no cambia. No cambia el trasladar lo que tú vives, los sentimientos traducidos en pintura. No hay una vida tan larga que te haga llegar al final de lo que es todo eso. &lt;strong&gt;&lt;em&gt;Estás siempre en el camino.&lt;/em&gt;&lt;/strong&gt; (Architectural Digest.- Entrevista a Antonio López García 19/09/2014)&lt;/p&gt;
-
-&lt;/div&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/ajedrezfamilia/</guid>
+      <description>Nací el año 1936 en un pueblo de la llanura manchega, un pueblo joven, apenas sin historia, luminoso, donde parecía que todo estaba a la vista. Mi familia, tan numerosa, las gentes, las calles tan rectas, tan bien proporcionadas que parecían larguísimas, el pueblo tan habitado, el campo tan cerca, todo me parecía emocionante y protector. El mejor mundo para un niño. (Antonio López García El pais 27/06/2006)
+ El día 10 de junio, nuestro club, gracias a la generosidad del Colegio Público Jose María de Moral, se reunía familiarmente en su pabellón para celebrar el último acto de la temporada.</description>
     </item>
     
     <item>
       <title>El ajedrez en la gala del comercio de Tomelloso </title>
-      <link>https://ajedreztomelloso.github.io/post/ajedrezComercio/</link>
+      <link>http://www.ajedreztomelloso.com/post/ajedrezcomercio/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ajedrezComercio/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezComercio/ajedrez10.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;Sus oficinas eran una enorme habitación diáfana, con una gran mesa rectangular en el centro bordeada de ordenadores donde varios empleados hacían el seguimiento de la fase de producción. Él es uno más. Al lado otra mesa de menor superficie hacía el papel de sala de reuniones. &lt;strong&gt;&lt;em&gt;&amp;ldquo;Tratamos de compartir toda la información con los empleados para que puedan hacer mejor su trabajo&amp;rdquo;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;El día 9 de junio, ya bien avanzada la tarde y la &lt;strong&gt;&lt;em&gt;II Gala del Comercio de Tomelloso&lt;/em&gt;&lt;/strong&gt; nuestro club sacó sus armas de &lt;strong&gt;&lt;em&gt;construcción masiva&lt;/em&gt;&lt;/strong&gt; a la calle. Tableros, piezas de ajedrez y unos relojes para controlar el tiempo de las partidas, más concretamente a la explanada de la Plaza de España frente al Casino San Fernando, amenizados, eso si, por las alegres melodías del club de baile del mencionado casino. Veintiséis valientes guerreros de la paz batiéndonse en singular torneo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezComercio/ajedrez5.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;Es una pequeña empresa de nuestra localidad situada en los inicios de la carretera a Socuéllamos. &lt;strong&gt;&lt;em&gt;&amp;ldquo;Hacemos cosas raras.&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; El gerente vive habitualmente en Madrid, pero se quedará en Tomelloso hasta dejar solucionados los retrasos en la entrega de sus productos causados por una laguna en su ERP. Exportan a China y varios países de Sudamérica.&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;La noche nos envolvió en un halo mágico. Los duendes noctámbulos proveían de buenas jugadas las mentes de los beligerantes jugadores. Es todo un lujo poder contar con nuestro Maestro Fide Carlos García. Jugar contra él es una experiencia única y de la que pudieron disfrutar los jugadores de nuestro club. Te aprieta, te aprieta hasta que no puedes más y acabas derrotado. Hay mucho que aprender de él y poder poner tu ejército contra un rival de tanto nivel es uno de esos aprendizajes que no se puede enseñar en la &amp;ldquo;escuela&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezComercio/ajedrez4.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;La cualidad más destacada de un empresario es la humildad.&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; dice con voz pausada. &lt;strong&gt;&lt;em&gt;&amp;ldquo;No nos podemos dejar arrastrar por cantos de sirenas.&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;La iluminación era deficiente, más de un derrotado no pudo ver la combinación de mate de su rival. La lucha se hizo encarnizada por jugar en los primeros tableros. La silueta iluminada de la Posada de los Portales fué el árbitro más neutral de la contienda.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezComercio/ajedrez11.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;En los últimos años Miguel Illescas, varias veces campeón de España de ajedrez, ha impartido un buen número de conferencias en las mejores universidades nacionales, abordando temas muy próximos al mundo de la empresa, tales como la estrategia, la toma de decisiones, o la gestión de eventos y recursos: como el éxito y el tiempo.&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Se disfrutaba no solo con el juego, también en los análisis post-mortem. Jugadores de clase y experiencia contrastada como Julián Ortiz Serna pusieron en serios aprietos a los componentes de nuestro primer equipo desarrollando un ajedrez sólido y mordaz.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezComercio/ajedrez6.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;El 75% de las profesiones del futuro aún no existen o se están creando. Hoy en día para poder vender vino, queso u otros productos es importante la imagen en Internet. Hasta nuestros amigos los carpinteros de Mondema Artesanos están haciendo un gran trabajo en las redes sociales. En Tomelloso, no existe el grado de formación profesional de Informática, quizás porque alguien pensó que quitaría alumnos a las otras especialidades (Electricidad, Automoción).&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Jóvenes y veteranos medían sus fuerzas de madera o de plástico sobre las 64 casillas escaqueadas, el ajedrez no tiene edad. Pablo Castillejos, decano de la competición tuvo contra las cuerdas en alguna fase de su partida al vencedor Ángel Carlos López. Juan José Losa apoyado en incisivas maniobras, siempre de carácter legal, dejo ver su agresivo juego de ataque.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezComercio/ajedrez8.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;Ahora nuestros estudiantes de las nuevas tecnologías deben desplazarse diariamente a engrandecer el instituto de esa vecina localidad que ya tiene estación de tren, 200.000 metros cuadrados de zonas verdes bien cuidadas (Parque Alces) y otras ventajas cívico-sociales que no acabamos de superar en nuestra ciudad. ¿Tienen los jóvenes de hoy en día hueco en el tejido empresarial de Tomelloso? ¿Está preparada nuestra localidad para enfrentarse a las profesiones del futuro?&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;Nuestras promesas: Miguel Perales, Raúl Moreno, Álvaro Ramírez y Santiago Benito también brillaron con luz propia en esta velada nocturna. Aunque los primeros puestos de la clasificación final fueron ocupados por nuestro grupo de élite; todos acabamos ganando en esta competición.&lt;/p&gt;
-
-&lt;p&gt;Finalmente la victoria fue para Ángel Carlos López por el desempate por Bucholz frente al MF Carlos García. Ambos contaron sus partidas por victoria salvo la que los enfrentó, en la cual se firmaron unas tablas en un final igualado con un minuto en el reloj de ambos. El podium lo completó Juan Carlos Domínguez, que cuajó una buena actuación perdiendo solo una partida.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/ajedrezComercio/ajedrez7.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;El mejor empresario de Tomelloso, &lt;strong&gt;&lt;em&gt;Antonio López García&lt;/em&gt;&lt;/strong&gt;, no recibe encargos de su tierra (exposiciones, talleres, clases magistrales, etc). ¿Qué podría dotar de mayor valor nuestra economía? ¿un campo de golf?&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;La noche tomellosera de la gala del comercio volvió a contar con nuestro deporte en las calles. Y ya sabéis eso que dicen de nuestro club: &amp;ldquo;Nos gusta pensar&amp;rdquo; y llenar todos los rincones que podemos de ajedrez, de reflexión, de frases, de imágenes, de colaboración y de intentar poner nuestro granito de arena para que Tomelloso sea un lugar mejor.&lt;/p&gt;
-
-&lt;h2 id=&#34;clasificación-final&#34;&gt;Clasificación final:&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Pos&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Apellidos, Nombre&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;ELO FIDE&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Pts&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;S-B&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Lopez Quevedo, Angel Carlos&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2151&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;5.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;21.75&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Garcia Moreno, Carlos&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2293&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;5.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;19.25&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Dominguez Gutierrez, Juan Carlos&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2057&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;5.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;15.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;4&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Moreno Valero, Ivan&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2209&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;13.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;5&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Lopez Quevedo, Eduardo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2181&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;12.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;6&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Benito Olmedo, Santiago&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1536&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;11.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;7&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Perales Paton, Miguel&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1850&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;11.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;8&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ortiz Serna, Julian&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1523&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;10.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;9&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rodrigo Diaz-Ropero, Jorge&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1215&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;4.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;8.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;10&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Lopez Barrios, Angel Luis&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1787&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;10.25&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;11&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Moreno Valero, Raul&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1723&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;9.25&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Quiralte Lara, Jose Maria&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1649&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;7.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;13&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Jimenez Garcia, Juan&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1557&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;7.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;14&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Navarro Gonzalez, Raul&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1129&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;6.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;15&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ramirez Aguado, Alvaro&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1348&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;5.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;16&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ortiz Guzman, Javier&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1112&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;5.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;17&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Perales, Jose Miguel&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;3.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;4.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;18&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Castillejos Madrid, Pablo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1306&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;5.25&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;19&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Perales Paton, Jose&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1340&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;5.25&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;20&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Losa Benito, Juan Jose(W)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1476&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;4.50&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;21&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Navarro Gonzalez, Alvaro&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1029&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;3.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;22&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Gonzalez Garcia, Pedro Javier&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1252&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;2.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;23&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Castro Paraiso, Miguel&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1348&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;2.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;24&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Mena Ortiz, Emilio Jose&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;2.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;25&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Jimenez Daza, Marta&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;2.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;26&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Garcia de la Dueña, Pablo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1268&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;1.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;27&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Garcia Medina, Arturo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;1.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;28&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rodrigo Diaz-Ropero, Gonzalo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/ajedrezcomercio/</guid>
+      <description>Sus oficinas eran una enorme habitación diáfana, con una gran mesa rectangular en el centro bordeada de ordenadores donde varios empleados hacían el seguimiento de la fase de producción. Él es uno más. Al lado otra mesa de menor superficie hacía el papel de sala de reuniones. &amp;ldquo;Tratamos de compartir toda la información con los empleados para que puedan hacer mejor su trabajo&amp;rdquo;.
+ El día 9 de junio, ya bien avanzada la tarde y la II Gala del Comercio de Tomelloso nuestro club sacó sus armas de construcción masiva a la calle.</description>
     </item>
     
     <item>
       <title>Entrevistas Profesores de Tomelloso</title>
-      <link>https://ajedreztomelloso.github.io/post/EntrevistasProfesores/</link>
+      <link>http://www.ajedreztomelloso.com/post/entrevistasprofesores/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/EntrevistasProfesores/</guid>
-      <description>
-
-&lt;p&gt;Hemos conseguido reunir a docentes de nuestra localidad para poder realizar con ellos una entrevista y ver cual es el estado y su opinión acerca de la entrada del ajedrez en nuestras aulas. La verdad es que hemos disfrutado mucho trabajando con ellos durante todo el año y esperemos que disfrutéis tanto sus respuestas como nosotros.&lt;/p&gt;
-
-&lt;p&gt;Los docente que se han atrevido con la entrevista han sido:&lt;/p&gt;
-
-&lt;p&gt;Desde el colegio Félix Grande, donde el ajedrez ha ocupado una hora semanal en el horario lectivo de matématicas de los alumnos de 5º de primaria:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;José Ramón Rodrigo.&lt;/li&gt;
-&lt;li&gt;Javier Cepeda.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Desde el colegio Doña Crisanta, donde este año se ha trabajado el ajedrez como asignatura extraescolar:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Charo Hernández.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Desde el colegio San Isidro, donde el ajedrez se ha integrado en el horario lectivo de matemáticas una hora semanal con 5º de primaria:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Emi Alarcón&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Desde el instituto I.E.S.Airen, donde los alumnos de 1º ESO han disfrutado este último trimestre de la introducción del ajedrez en secundaria:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Yolanda Pérez.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;¡Vamos con la entrevista!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Desde el club de ajedrez hemos tenido un año lleno de grandes proyectos en los diferentes centros educativos de Tomelloso. El proyecto angular del Félix Grande se ha ampliado a colegios como el San Isidro e incluso este año hemos llegado a la enseñanza secundaria en el instituto Airen. Doña Crisanta y Cervantes se han apuntado como extraescolar al juego de las 64 casillas y también hemos tenido colegios que han querido dar clases de ajedrez pero por términos de viabilidad no han podido llevarse a cabo. Hemos aprendido mucho de todos los docentes con los que hemos trabajado y por ello, queremos seguir en esa línea, aprendiendo de los profesionales de la educación; este es un de los principales motivos de esta entrevista.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/sanisidro.jpg&#34; alt=&#34;Colegio San Isidro&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt; La primera pregunta me vais a permitir hacerla sobre ajedrez, antes de que entremos en el tema educativo. Creo que la sociedad hoy en día tiene visiones distintas sobre este juego/deporte por ello:
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;1-qué-es-para-vosotros-el-ajedrez&#34;&gt;1. ¿Qué es para vosotros el ajedrez?&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Yo tengo un conocimiento del ajedrez a nivel de principiante. Mi padre me enseñó a jugar cuando era pequeño y echo alguna partida de vez en cuando. Pero, pese a lo poco que sé, siempre he pensado que es mucho más que un juego de mesa y como maestro, soy de los convencidos de sus enormes posibilidades en la educación.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Un juego divertido muy educativo que mejora capacidades matemáticas, la concentración, nociones espacial&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Juego de estrategia que consiste en derrocar al rey que posee el adversario. Para llegar a ello es necesario el desarrollo de unas estrategias mentales que serán de gran ayuda para otras situaciones de la vida diaria.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: Es un juego de reflexión, estrategia, disciplina en el que considero que se desarrolla la lógica matemática.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: Pues es un juego de mesa muy completo que desarrolla (como muy bien expusisteis en la primera clase) multitud de aptitudes mentales. Lo considero muy positivo en innumerables aspectos, más aún hoy en día con la diversidad de aficiones tan negativas que acaban embaucando a nuestros chicos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/partidas1.jpg&#34; alt=&#34;Partidas en el I.E.S.Airen&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt; Supongo que si os hubiera hecho esta pregunta al principio del curso, vuestra opinión al respecto del ajedrez habría sido diferente o quizás no:
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;2-ha-cambiado-vuestro-contacto-con-el-club-de-ajedrez-tomelloso-vuestra-visión-del-ajedrez-si-es-así-en-que-sentido-qué-experiencias-habíais-tenido-con-el-ajedrez-aparte-de-este-curso&#34;&gt;2. ¿Ha cambiado vuestro contacto con el Club de Ajedrez Tomelloso vuestra visión del ajedrez? Si es así, ¿en que sentido? ¿Qué experiencias habíais tenido con el ajedrez aparte de este curso?&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Ha confirmado lo que te he dicho antes. He podido comprobar cómo mis alumnos ponían en juego muchas capacidades gracias a la práctica del ajedrez. Ahora puedo asegurar por que he visto sus resultados en dos grupos de alumnos distintos en dos cursos distintos que  lo que antes era un convencimiento teórico lo he constatatado en la práctica.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Jugué al ajedrez desde pequeño, con mi abuelo, en la escuela y creía conocer su dinámica y sus beneficios. Lo más positivo es la programación propuesta y el carácter interactivo del mismo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Tengo que agradecer a Eduardo el que viniera a nuestro centro el curso pasado y trajera el ajedrez a nuestras aulas, aunque sea como actividad extraescolar. A través de él hemos podido conocer de primera mano el Club de Ajedrez Tomelloso y poder pasar a formar parte con la participación de algunos de nuestros alumnos, del mismo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: En mi caso conocía la existencia del Club de Ajedrez porque los hijos de algunos amigos con miembros pero nunca habíamos contactado con ellos desde el colegio. También debo decir que el profesor de Educación Física todos los años organiza un campeonato de ajedrez a nivel interno en el que participan todos los alumnos que lo desean.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: No ha cambiado mi visión del ajedrez pero sí me ha hecho ver la posibilidad de incluirlo como herramienta en mi área.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt; Cuando se dan clases de ajedrez en el colegio, el objetivo del club no es crear grandes campeones de ajedrez. No queremos grandes maestros como Kasparov o Carslen, el objetivo es mostrar el mundo de posibilidades que puede ofrecer este juego en el desarrollo de la mente en los alumnos.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/interescolar.jpg&#34; alt=&#34;Interescolar&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;3-qué-beneficios-pensáis-que-puede-aportar-el-ajedrez-en-los-alumnos-cuáles-son-las-aptitudes-que-mejora&#34;&gt;3. ¿Qué beneficios pensáis que puede aportar el ajedrez en los alumnos? ¿Cuáles son las aptitudes que mejora?&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Pues incide en la creatividad, ayuda a desarrollar la capacidad de abstracción, a analizar diferentes alternativas antes de tomar una decisión, es útil para desarrollar estrategias para resolver problemas. Está claro que es muy útil en matemáticas, eso es lo más visible pero también en el desarrollo del lenguaje, es una actividad motivadora, exige atención, concentración&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: mejorar la atención y la concentración, el trabajo de contenidos matemáticos (ejes de coordenadas, operaciones, &amp;hellip;), orientación espacial, enseñanza del concepto táctica y valores como  esfuerzo, ayuda entre piezas, valor de piezas en el juego y su aplicación a la vida real&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Hoy en día hay una gran variedad de juegos que permiten poner de relieve las actitudes físicas de los alumnos pero no se da importancia a otros deportes o juegos que desarrollan otras capacidades como las mentales y que complementan a las anteriores. Creo que el ajedrez debería de formar parte del área de las matemáticas ya que mejora la capacidad para resolver problemas, mejora las habilidades lectoras, de lenguaje, matemáticas y memorísticas y desarrolla un pensamiento creativo y original.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: Nos parece muy beneficioso el ajedrez porque pensamos que desarrolla la lógica en nuestros alumnos y esto les ayuda especialmente, en el área de matemáticas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: Pues son muchos los beneficios que puede aportar como ya hemos comentando y como muchos estudios muestran, pero personalmente destaco el desarrollo de la concentración, de la memoria, de la capacidad visual y de la sociabilización.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/concentracion.JPG&#34; alt=&#34;Concentración&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;4-qué-asignaturas-creéis-que-se-ven-beneficiadas-de-su-práctica&#34;&gt;4. ¿Qué asignaturas creéis que se ven beneficiadas de su práctica?&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Ya lo he respondido en la pregunta anterior pero puedo añadir que también es útil en el dibujo líneal, en las ciencias sociales, en competencias que contribuyen al desarrollo personal, al esfuerzo, requiere ser disciplinado, tener capacidad de anticipación&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Matemáticas, educación en valores, lenguaje, ciencias sociales y educación física.&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/entrevistasprofesores/</guid>
+      <description>Hemos conseguido reunir a docentes de nuestra localidad para poder realizar con ellos una entrevista y ver cual es el estado y su opinión acerca de la entrada del ajedrez en nuestras aulas. La verdad es que hemos disfrutado mucho trabajando con ellos durante todo el año y esperemos que disfrutéis tanto sus respuestas como nosotros.
+Los docente que se han atrevido con la entrevista han sido:
+Desde el colegio Félix Grande, donde el ajedrez ha ocupado una hora semanal en el horario lectivo de matématicas de los alumnos de 5º de primaria:</description>
     </item>
     
     <item>
       <title>III Torneo Familiar</title>
-      <link>https://ajedreztomelloso.github.io/torneofamiliariii</link>
+      <link>http://www.ajedreztomelloso.com/torneofamiliariii/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/torneofamiliariii</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Día de juego:&lt;/strong&gt; 10 de junio de 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lugar de juego&lt;/strong&gt;: Pabellón Jose María del Moral. Calle Reatas 2, Tomelloso, Ciudad Real.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sistema de juego:&lt;/strong&gt; Torneo con formato por equipos. Los jugadores deben inscribirse por parejas. Dicha pareja tiene que estar formada por dos miembros de una misma unidad familiar, es decir padres, hijos o hermanos. En cada partida un jugador con las piezas blancas y el otro jugador con las piezas negras.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ritmo de juego:&lt;/strong&gt; 10 minutos más 3 segundo por movimiento.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Puntuación de los encuentros:&lt;/strong&gt;
-2 puntos por la victoria, 1 por el empate y 0 por la derrota.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Desempate:&lt;/strong&gt; Los sistemas de desempates seran:&lt;/p&gt;
-
-&lt;p&gt;Puntuación Olímpica, Mediano Bucholz, Bucholz, Resultado Particular&lt;/p&gt;
-
-&lt;p&gt;Orden de la participación: se aplicará el siguiente orden:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;ELO FIDE 2. ELO FEDA 3. ORDEN ALFABÉTICO por apellidos&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/IIITorneoFamiliar/image1.jpg&#34; alt=&#34;Ronda1&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Horario de la competición&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;10:00 horas - 1ª ronda.&lt;br /&gt;
-10:30 horas - 2ª ronda.&lt;br /&gt;
-11:00 horas - 3ª ronda.&lt;br /&gt;
-11:45 horas - 4ª ronda.&lt;br /&gt;
-12:15 horas - 5ª ronda.&lt;br /&gt;
-12:45 horas - 6ª ronda.&lt;br /&gt;
-13:30 horas - Entrega de premios.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Inscripciones&lt;/strong&gt;
- A través del correo: &lt;a href=&#34;mailto:clubajedreztomelloso@gmail.com&#34;&gt;clubajedreztomelloso@gmail.com&lt;/a&gt; indicando nombre y apellidos de ambos jugadores, localidad, fecha de nacimiento e indicar que jugador jugará en la primera mesa.
-Fecha límite de inscripción: 9 de junio a las 23:00 horas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Premios&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1º Clasificados Trofeo + Tablero de ajedrez y reloj de ajedrez.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2º Clasficados Trofeo + Reloj de ajedrez..&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3º Clasficiados Trofeo + Tablero de ajedrez.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Comité de competición:&lt;/strong&gt;
-Comité de competición:&lt;/p&gt;
-
-&lt;p&gt;El comité de competición estará formado por el árbitro principal y el director del torneo. Sus decisiones serán inapelables. Está estrictamente prohibido llevar teléfonos móviles o cualquier otro medio electrónico de comunicación, no permitido por el árbitro, dentro del recito de juego. Si durante las partidas suena el móvil de un jugador, éste perderá su partida. (Artículo 12.2 de las Leyes del Ajedrez). Para cualquier incidencia no recogida en las presentes bases se aplicarán las normas FIDE y FEDA. La participación en el torneo supone la aceptación de estas bases. Los participantes en el torneo autorizan la publicación de sus datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento (listados de resultados, clasificaciones, participantes, partidas, etc.).&lt;/p&gt;
-
-&lt;h2 id=&#34;organiza-el-club-ajedrez-tomelloso&#34;&gt;Organiza el CLUB AJEDREZ TOMELLOSO&lt;/h2&gt;
-
-&lt;h3 id=&#34;colabora-shuriken&#34;&gt;Colabora Shuriken&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.shuriken64.com/&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/IIITorneoFamiliar/Logo-Shuriken-400.jpg&#34; alt=&#34;Shuriken&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/torneofamiliariii/</guid>
+      <description>Día de juego: 10 de junio de 2017.
+Lugar de juego: Pabellón Jose María del Moral. Calle Reatas 2, Tomelloso, Ciudad Real.
+Sistema de juego: Torneo con formato por equipos. Los jugadores deben inscribirse por parejas. Dicha pareja tiene que estar formada por dos miembros de una misma unidad familiar, es decir padres, hijos o hermanos. En cada partida un jugador con las piezas blancas y el otro jugador con las piezas negras.</description>
     </item>
     
     <item>
       <title>El ajedrez en las aulas del I.E.S. Airen de Tomelloso </title>
-      <link>https://ajedreztomelloso.github.io/post/Airen/</link>
+      <link>http://www.ajedreztomelloso.com/post/airen/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/Airen/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen9.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;La primera cita del Club Ajedrez Tomelloso con la enseñanza secundaria fue en el aula 4ª del I.E.S. Airén de Tomelloso, se produjo la mañana soleada del 24 de abril de 2017. Todavía en nuestra memoria el recital poético de sus alumnos y profesores en el Auditorio López Torres. Acompañados con el celo, el piano y el saxo, el &lt;strong&gt;&lt;em&gt;niño yuntero&lt;/em&gt;&lt;/strong&gt;, las &lt;strong&gt;&lt;em&gt;nanas de la cebolla&lt;/em&gt;&lt;/strong&gt; y el &lt;strong&gt;&lt;em&gt;compañero del alma&lt;/em&gt;&lt;/strong&gt; de Miguel Hernández parecían mas reales si cabe.&lt;/p&gt;
-
-  &lt;cite&gt;&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;Lo que conoces&lt;/p&gt;
-
-&lt;p&gt;es tan poco&lt;/p&gt;
-
-&lt;p&gt;lo que conoces&lt;/p&gt;
-
-&lt;p&gt;de mí&lt;/p&gt;
-
-&lt;p&gt;lo que conoces&lt;/p&gt;
-
-&lt;p&gt;son mis nubes&lt;/p&gt;
-
-&lt;p&gt;son mis silencios&lt;/p&gt;
-
-&lt;p&gt;son mis gestos&lt;/p&gt;
-
-&lt;p&gt;lo que conoces&lt;/p&gt;
-
-&lt;p&gt;es la tristeza&lt;/p&gt;
-
-&lt;p&gt;de mi casa vista de afuera&lt;/p&gt;
-
-&lt;p&gt;son los postigos de mi tristeza&lt;/p&gt;
-
-&lt;p&gt;el llamador de mi tristeza.&lt;/p&gt;
-
-  &lt;cite&gt;(Es tan poco) Mario Beneddetti.&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Con el beneplácito de su director José Antonio Espinosa, la ayuda técnica inestimable de Jesús Gallardo y la generosidad de sus profesores de Matemáticas, Yolanda Pérez y Ángel Vela, que nos han cedido amablemente espacio y tiempo de una de sus clases semanales a los cinco primeros cursos de E.S.O. intentamos introducir el cosmos de las sesenta y cuatro casillas escaqueadas en las mentes de los casi cien alumnos que asistirán a seis sesiones escalonadas en este último trimestre escolar.&lt;/p&gt;
-
-&lt;p&gt;El ajedrez no solo aporta aptitudes en matemáticas, según varios estudios incrementa la comprensión lectora, facilita la concentración y enseña a planificar y a hacer previsiones; pero el más importante de sus beneficios es la mejora en la toma de decisiones, ya que en un mundo en el que los alumnos se enfrentarán a decisiones difíciles en sus estudios, un buen manejo de las mismas es fundamental. Y son conscientes de ello ya que en el particular &amp;ldquo;Twitter&amp;rdquo; que tienen montado en una de las paredes del centro pudimos leer en puño y letra de uno de los alumnos:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen3.png&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;El club Ajedrez Tomelloso y la enseñanza secundaria, caminaban de la mano, las mañanas de los lunes, por los escalones de ascenso al aula cuatro, los libros en el costado la prisa en las zapatillas de deporte.&lt;/p&gt;
-
-  &lt;cite&gt;&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;su sonrisa    &lt;strong&gt;&lt;em&gt;la de ella&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;era como un augurio o una fábula&lt;/p&gt;
-
-&lt;p&gt;su mirada     &lt;strong&gt;&lt;em&gt;la de él&lt;/em&gt;&lt;/strong&gt;   tomaba nota&lt;/p&gt;
-
-&lt;p&gt;de como eran sus ojos    &lt;strong&gt;&lt;em&gt;los de ella&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;pero sus palabras        &lt;strong&gt;&lt;em&gt;las de él&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;no se enteraban de esa dulce encuesta.&lt;/p&gt;
-
-  &lt;cite&gt;(Los formales y el frío) Mario Benedetti.&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Con un sencillo formato, texto e imagenes introductorias, reflejadas en la pizarra digital de la &lt;strong&gt;&lt;em&gt;leyenda del tablero de ajedrez y los granos de trigo&lt;/em&gt;&lt;/strong&gt;, algunos datos biográficos de varios campeones del mundo, que los propios alumnos leían en voz alta, seguido de una clase interactiva sobre el tablero y sus coordenadas, piezas, movimientos, desarrollo y actividad de las propias fuerzas, la mística de la coronación del peón, patrones mas comunes de mate y una pequeña introducción a procedimientos tácticos, ataque doble, clavadas, descubiertas siempre con resolución de ejercicios en el tablero táctil y para cerrar quince minutos de práctica diaria con tablero y piezas reales por parejas, hemos querido atraer la atención y despertar la curiosidad de estos primerizos estudiantes de enseñanza superior.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen1.png&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Estas mismas reglas que presiden una de las paredes del aula 4ª son aplicables tanto en las matemáticas, en el juego del ajedrez, como en la vida misma. &amp;ldquo;No te asustes, no te rindas, tómate tu tiempo y confía en ti mismo.&amp;rdquo; El objetivo del proyecto no es crear grandes campeones como Kasparov o Carslen, sino que se quiere &lt;strong&gt;introducir a través de la emoción, el juego como herramienta para el aprendizaje&lt;/strong&gt;. Poner de relieve como el ajedrez puede ayudar a desarrollar capacidades intelectuales dando otro punto de vista al alumno.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/partidas2.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;El club Ajedrez Tomelloso y la enseñanza secundaria se hablaban en silencio en las lentas esperas de los recreos refugiados en la sombra de los casi veinticinco años de historia de este I.E.S. Airen, por donde en otro tiempo iniciara su jornada pastoril el abuelo &amp;ldquo;Palancas&amp;rdquo;.&lt;/p&gt;
-
-  &lt;cite&gt;&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;Pero no sabes&lt;/p&gt;
-
-&lt;p&gt;nada&lt;/p&gt;
-
-&lt;p&gt;a lo sumo&lt;/p&gt;
-
-&lt;p&gt;piensas a veces&lt;/p&gt;
-
-&lt;p&gt;que es tan poco&lt;/p&gt;
-
-&lt;p&gt;lo que conozco&lt;/p&gt;
-
-&lt;p&gt;de ti&lt;/p&gt;
-
-&lt;p&gt;lo que conozco&lt;/p&gt;
-
-&lt;p&gt;o sea tus nubes&lt;/p&gt;
-
-&lt;p&gt;o tus silencios&lt;/p&gt;
-
-&lt;p&gt;o tus gestos&lt;/p&gt;
-
-&lt;p&gt;lo que conozco&lt;/p&gt;
-
-&lt;p&gt;es la tristeza&lt;/p&gt;
-
-&lt;p&gt;de tu casa vista de afuera&lt;/p&gt;
-
-&lt;p&gt;son los postigos de tu tristeza&lt;/p&gt;
-
-&lt;p&gt;el llamador de tu tristeza.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pero no llamas.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pero no llamo.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-  &lt;cite&gt;(Es tan poco) Mario Benedetti&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen5.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;La hora de matemáticas reemplazada por una hora del juego de las 64 casillas en el que la concentración, la memoria y el pensamiento analítico son las lecciones que se imparten jugando, esta calando de forma favorable entre el alumnado. Las anécdotas comentadas están teniendo buena acogida, tal que Ruy-López fuera consejero personal de Felipe II, la amistad recíproca de Emmanuel Lasker y Albert Einstein, el activismo político de Garry Kasparov frente al gobierno de Putin, el fervor madridista en el Bernabéu de Magnus Carlsen&amp;hellip; pero quizás lo que más nos ha sorprendido es el interés despertado por la reproducción comentada de &amp;ldquo;la siempreviva&amp;rdquo; una partida de ajedrez jugada en 1852 entre Anderssen y Dufresne. Hemos visto alumnos desprenderse del pesado letargo somnoliento de la primera hora de clase, incorporándose sobre el pupitre para disfrutar de la  bella combinación ganadora del profesor de matemáticas alemán, plagada de clavadas, descubiertas y sacrificios al más puro estilo romántico de la época.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen4.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&#34;paralelhist&#34;&gt;
-  &lt;p&gt;El club Ajedrez Tomelloso y la enseñanza secundaria descubren juntos al final de cada jornada que el milagro de la educación se produce todos los días, en los pasillos, en los despachos, en las aulas, en las conversaciones, en los silencios, en los gestos, en los proyectos, en las ideas, de este instituto con nombre  de variedad de uva blanca, siempre bajo la dirección silenciosa de unos excelentes profesionales.&lt;/p&gt;
-
-  &lt;cite&gt;&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&#34;quote-rigth&#34;&gt;
-  &lt;p&gt;cuando llegaron a su casa &lt;strong&gt;&lt;em&gt;la de ella&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ya el frío estaba en sus labios &lt;strong&gt;&lt;em&gt;los de él&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;de modo que &lt;strong&gt;&lt;em&gt;ella&lt;/em&gt;&lt;/strong&gt; fábula y augurio&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;le&lt;/em&gt;&lt;/strong&gt; dio refugio y café instantáneos&lt;/p&gt;
-
-  &lt;cite&gt;(Los formales y el frío)Mario Benedetti&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;La última sesión rememoró la reciente historia local, reviviendo la partida que un alumno de este centro, José Perales Patón, ganara en el campeonato de España de equipos sub-16 en Benidorm 2015, permitiendo que este club entrara por primera vez en el  top ten nacional de esta categoría.&lt;/p&gt;
-
-&lt;p&gt;Los profesores se han sorprendido del interés de todos los escolares en la actividad, ya que en general se han adaptado muy bien a la metodología del curso. La pizarra digital junto con la introducción histórica realizada al principio de cada sesión han enganchado a unos alumnos que ahora quieren derrotar a su rey enemigo a base de horquillas y ataques dobles.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/partidas1.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Esperamos que todos se queden con la idea que nuestro club quiere aportar a todos los estudiantes y se ha convertido en la frase de nuestros ajedrecistas: &amp;ldquo;Nos gusta pensar&amp;rdquo;.&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/airen/</guid>
+      <description>La primera cita del Club Ajedrez Tomelloso con la enseñanza secundaria fue en el aula 4ª del I.E.S. Airén de Tomelloso, se produjo la mañana soleada del 24 de abril de 2017. Todavía en nuestra memoria el recital poético de sus alumnos y profesores en el Auditorio López Torres. Acompañados con el celo, el piano y el saxo, el niño yuntero, las nanas de la cebolla y el compañero del alma de Miguel Hernández parecían mas reales si cabe.</description>
     </item>
     
     <item>
       <title>Provincial Absoluto final </title>
-      <link>https://ajedreztomelloso.github.io/post/Provincial_Absoluto2017_5/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincial_absoluto2017_5/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/Provincial_Absoluto2017_5/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/torneo.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt; Francisco Javier Sánchez Carrasco lleva militando 17 años en el club de ajedrez Zugzwang de Villanueva de los Infantes. Se define en su web como superoptimista con tendencia al riesgo.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;La última jornada se antojaba decisiva para la suerte de este campeonato. Al maillot amarillo (José Ramón Rámirez) le esperaban dos puertos de categoría especial para llegar a Los Campo Eliseos. El primer envite lo tenía por la mañana con su compañero de club Iván Moreno.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/ivan_jr.jpg&#34; alt=&#34;primerasmesas&#34; /&gt;.&lt;/p&gt;
-
-&lt;p&gt;Una grundfeld un tanto atípica que acabó dejando en la mochila del canterano de Tomelloso un peón de ventaja en la jugada 20. Tras movimientos en las columnas centrales y después del cambio obligatorio de damas y torres se llegaba a un final complejo con un caballo por bando y peones en ambos flancos. Iván seguía disponiendo de su ventaja material y maniobraba con su rey para dominar las casillas centrales, pero no era fácil imponerse ante la versatilidad de los caballos.&lt;/p&gt;
-
-&lt;p&gt;El momento cumbre llega tras la jugada 52 de las negras.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/ivan_jr.png&#34; alt=&#34;ivan_jr&#34; /&gt;.&lt;/p&gt;
-
-&lt;p&gt;Iván capturó en h4, sin tener en cuenta la variante ganadora que se iniciaba ocupando con su rey la casilla d4. Unas tablas que cerraban las opciones de triunfo en el torneo al mayor de los hermanos Moreno invicto durante toda la contienda. José Ramón por su parte mantenía el liderazgo del torneo por medio punto de ventaja.&lt;/p&gt;
-
-&lt;p&gt;Desarrollo real de la partida.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/ivanjr_tablas.gif&#34;&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/ivanjr_tablas.gif&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Desarrollo real de la partida&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/ivanjr_ganadora.gif&#34;&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/ivanjr_ganadora.gif&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Variante ganadora&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt; Comentaba el campeón del torneo, antes de la entrega de premios, que tuvo un pelín de suerte en la partida con Eduardo López, que se cogió el bye para asistir a las fiestas de su pueblo y que en la última partida fue decidido a por todas.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Para cerrar el evento por la tarde, se ponían sobre el tapete algunos enfrentamientos de interés. El título de veteranos entre el líder de Zugzwang Antonio Castellanos enfrentándose a Iván Moreno  y el bolañego Joaquín García del Moral contra Santiago Benito, el galardón femenino y la batalla de las batallas en la primera mesa: José Ramón Ramírez versus Francisco Javier Sánchez con el liderato y la corona provincial en juego.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/decisiva.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;La partida estrella se desarrolló por los cauces de una siciliana cerrada con mínima ventaja para el blanco (José Ramón) hasta el movimiento 31 donde el negro (Fco. Javier Sánchez) consigue el dominio de la única columna abierta. Aunque los alfiles son de distinto color la superioridad negra parece evidente.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/jr_sanchez1.png&#34; alt=&#34;jr_sanchez&#34; /&gt;.&lt;/p&gt;
-
-&lt;p&gt;Para Villanueva de los Infantes fué el primer puesto de veteranos, a través de Antonio Castellanos. Joaquín García no pudo pasar de las tablas ante nuestro buen jugador Santiago Benito que ha venido jugando a un excelente nivel. Esther Ruiz de León una vez más fue campeona femenina con su victoria en la última ronda.&lt;/p&gt;
-
-&lt;p&gt;De los nuestros destacar que cinco de los seis primeros clasificados pertenecen a nuestro club, con buenas actuaciones de Iván, Eduardo, José Ramón, Juan Carlos Domínguez, Miguel Perales, Raúl Moreno, Julián Órtiz, Santiago Benito, Juan Jiménez y José Perales. En franca progresión los jóvenes Álvaro Rámírez, Jorge Rodrigo, Miguel Castro y Raúl Navarro. Señalar asá mismo el esfuerzo y la entrega en el resto de participantes hasta 27 de nuestra localidad: Javier Órtiz, Pablo Castillejos, Pedro Javier González, Juan José Losa, Gonzalo Rodrigo, Pablo García, Álvaro Navarro, Marta Jiménez, Emilio José Mena, Sergio Belda, Arturo García, Jesús Redondo y Adriana Domínguez.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/tom.JPG&#34; alt=&#34;tom&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt; &amp;quot;Javi&amp;quot; aprieta con precisión la maquinaria que poco a poco arrincona al rey blanco.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/jr_sanchez.png&#34; alt=&#34;jr_sanchez&#34; /&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hay varias opciones de victoria, como el cambio de Dama por alfil y torre, quedando con su dama bien situada para la captura de los peones enemigos, pero el jugador de Zugzwang optó por una lenta y segura invasión de la octava fila de gran belleza.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/jr_sanchez.gif&#34; alt=&#34;jr_sanchez&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El joven delegado provincial Ángel Espinosa nos acompañó en la ceremonia de entrega de premios. Una vez más nuestro agradecimiento a jugadores, arbitro, patrocinadores y todos los que de algún modo han colaborado en la realización satisfactoria de este torneo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_5/premios.JPG&#34; alt=&#34;premios&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Javi entra en la historia del ajedrez ciudarrealeño y escribe su nombre en la tabla de campeones. ¡Enhorabuena!&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Año&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Sede&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Campeón&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Tomelloso&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Fco. Javier Sánchez&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2015&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Domingo Gijón&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Carlos Álvarez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2013&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2012&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2011&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Almagro&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Domingo Gijón&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2010&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2009&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Torralba de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2008&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2007&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2006&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2005&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Moral de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2004&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Moral de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Pablo Gómez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2003&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Miguelturra&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2002&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Miguelturra&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Pablo Gómez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1996&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Socuéllamos&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Manuel Rayo Ramos&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1994&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rafael Portugués&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1991&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Socuéllamos&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Félix Rodrigo&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1986&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Puertollano&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rafael Campos&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1984&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juan Antonio Araque&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1981&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juan Maroto&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1980&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;La Solana&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Joaquín García&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1975&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Alcázar de San Juan&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fernando Vacas&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1969&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Benito Martínez&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/provincial_absoluto2017_5/</guid>
+      <description>Francisco Javier Sánchez Carrasco lleva militando 17 años en el club de ajedrez Zugzwang de Villanueva de los Infantes. Se define en su web como superoptimista con tendencia al riesgo.  La última jornada se antojaba decisiva para la suerte de este campeonato. Al maillot amarillo (José Ramón Rámirez) le esperaban dos puertos de categoría especial para llegar a Los Campo Eliseos. El primer envite lo tenía por la mañana con su compañero de club Iván Moreno.</description>
     </item>
     
     <item>
       <title>Campus de Verano 2017</title>
-      <link>https://ajedreztomelloso.github.io/campusverano2017</link>
+      <link>http://www.ajedreztomelloso.com/campusverano2017/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/campusverano2017</guid>
-      <description>
-
-&lt;h2 id=&#34;instalaciones&#34;&gt;Instalaciones:&lt;/h2&gt;
-
-&lt;p&gt;El campus se realizará en las instalaciones del Área de Deportes. Avenida de Niort,13700, Tomelloso, Ciudad Real.&lt;/p&gt;
-
-&lt;h2 id=&#34;fechas&#34;&gt;Fechas:&lt;/h2&gt;
-
-&lt;p&gt;Las fechas son del 19 al 28 de Julio (Lunes a Viernes).&lt;/p&gt;
-
-&lt;h2 id=&#34;horario&#34;&gt;Horario:&lt;/h2&gt;
-
-&lt;p&gt;El campus se realizará en horario de mañana y tarde.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Lunes&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Martes&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Miercoles&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Jueves&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Viernes&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;10:00-11:00&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Clases Ajedrez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Clases Ajedrez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Clases Ajedrez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Clases Ajedrez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Clases Ajedrez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;11:00-12:00&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Deportes&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Deportes&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Deportes&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Deportes&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Deportes&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12:00-13:00&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juegos de Ajedrez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juegos de Ajedrez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juegos de Ajedrez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juegos de Ajedrez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juegos de Ajedrez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;13:00-14:00&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Piscina&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Piscina&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Piscina&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Piscina&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Piscina&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;DESCANSO&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;17:30-19:00&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Torneo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Torneo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Torneo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Torneo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Torneo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Clases de Ajedrez&lt;/strong&gt;: historia, aperturas, estrategia, táctica y finales.&lt;br /&gt;
-&lt;strong&gt;Deportes&lt;/strong&gt;: Pabellón Polideportivo.&lt;br /&gt;
-&lt;strong&gt;Juegos de Ajedrez&lt;/strong&gt;: mientras cogen fuerzas con el desayuno , realizaremos juegos en el tablero de ajedrez.&lt;br /&gt;
-&lt;strong&gt;Piscina&lt;/strong&gt;: Piscina Municipal de Tomelloso.&lt;br /&gt;
-&lt;strong&gt;Torneos&lt;/strong&gt;: Ajedrez, Massnou, Pasapiezas, Fischer, Torneo por equipos, Simultáneas&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;inscripciones&#34;&gt;Inscripciones:&lt;/h2&gt;
-
-&lt;p&gt;Para realizar la inscripción al campus deberá mandar un correo electrónico a la direccón &lt;a href=&#34;mailto:clubajedreztomelloso@gmail.com&#34;&gt;clubajedreztomelloso@gmail.com&lt;/a&gt; con los siguientes datos:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Nombre y apellidos&lt;/li&gt;
-&lt;li&gt;DNI&lt;/li&gt;
-&lt;li&gt;Fecha de nacimiento.&lt;/li&gt;
-&lt;li&gt;Teléfono de contacto.&lt;/li&gt;
-&lt;li&gt;Transferencia bancaria.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hacer ingreso del importe en la cuenta Club Ajedrez Tomelloso. Una vez recibido, será confirmada la inscripción al campus, mediante respuesta por e-mail. &lt;strong&gt;Fecha límite de inscripción: 14 de julio 23:00 horas.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Cuenta bancaria: ES16 2103 0441 7300 3000 3154 Unicaja Banco, S.A&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Inscripción General                   50€&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Inscripción Socios                    46€&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Inscripción Dos hermanos              85€&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Inscripción Socios Dos hermanos       80€&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;recomendaciones&#34;&gt;Recomendaciones&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bañador y toalla&lt;/li&gt;
-&lt;li&gt;Desayuno y botella de agua.&lt;/li&gt;
-&lt;li&gt;Calzado deportivo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Para poder asistir al Campus, hay que tener unos conocimientos básicos de ajedrez (movimientos de piezas) y una edad comprendida entre 7 años -16 años.&lt;/p&gt;
-
-&lt;h2 id=&#34;contacto&#34;&gt;Contacto:&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Eduardo:&lt;/strong&gt; &lt;a href=&#34;tel:+34667025317&#34;&gt;667 025 317&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;organiza-club-ajedrez-tomelloso&#34;&gt;Organiza: Club Ajedrez Tomelloso&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Campus2017/campus_2017.jpg&#34; alt=&#34;Campus&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/campusverano2017/</guid>
+      <description>Instalaciones: El campus se realizará en las instalaciones del Área de Deportes. Avenida de Niort,13700, Tomelloso, Ciudad Real.
+Fechas: Las fechas son del 19 al 28 de Julio (Lunes a Viernes).
+Horario: El campus se realizará en horario de mañana y tarde.
+    Lunes Martes Miercoles Jueves Viernes     10:00-11:00 Clases Ajedrez Clases Ajedrez Clases Ajedrez Clases Ajedrez Clases Ajedrez   11:00-12:00 Deportes Deportes Deportes Deportes Deportes   12:00-13:00 Juegos de Ajedrez Juegos de Ajedrez Juegos de Ajedrez Juegos de Ajedrez Juegos de Ajedrez   13:00-14:00 Piscina Piscina Piscina Piscina Piscina      DESCANSO     17:30-19:00 Torneo Torneo Torneo Torneo Torneo    Clases de Ajedrez: historia, aperturas, estrategia, táctica y finales.</description>
     </item>
     
     <item>
       <title>Mis años de ajedrez en Tomelloso</title>
-      <link>https://ajedreztomelloso.github.io/post/HistoriaAlbertoMartinezCebolla/</link>
+      <link>http://www.ajedreztomelloso.com/post/historiaalbertomartinezcebolla/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/HistoriaAlbertoMartinezCebolla/</guid>
-      <description>&lt;p&gt;Llegué a Tomelloso en 2001 con la ilusión de afrontar mi primer destino definitivo como profesor de instituto. Tengo muy buenos recuerdos de allí, y en particular del ajedrez. En el instituto coincidí con Juan Carlos Domínguez, un gran tipo que tenía la capacidad de hacerme reír a carcajadas con su gracejo andaluz, y que tuvo la generosidad de hacerme participar del club y de la escuela de ajedrez municipal. En el club de ajedrez y en la escuela municipal destacaba la presencia de Ángel Luis López, gran persona, alma mater y el motor del ajedrez en Tomelloso todos estos años.&lt;/p&gt;
-
-&lt;p&gt;Yo venía de ser un ajedrecista más, gané un campeonato de Aragón por equipos y participé en algún campeonato de España, pero hacía tiempo que no competía ni entrenaba. Al llegar a Tomelloso me encontré con la motivación de ayudar  para sacar adelante un club y con la responsabilidad de ser un referente para chicos jóvenes, alguno, como Rubén Cañas, alumno mío.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/alberto2.JPG&#34; alt=&#34;alberto&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Recuerdo la primera partida del por equipos provincial en 2002, disputada en Almagro. Para mí fue un descubrimiento ese pueblo, la plaza, el corral de comedias, la evocación del siglo de oro, una gran época para el teatro y el ajedrez. Estaba nervioso por no defraudar, era la primera vez en mi vida que estaba a la cabeza de un equipo en el que se me miraba como profesor, y mi rival era un chico joven que no jugaba mal. Al final todo salió bien, de hecho intuí que mi rival descuidaría su octava fila y me permitiría el remate que siguió.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/AlbertoSalas.png&#34; alt=&#34;Alberto contra Santiago Salas&#34; /&gt;&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/albertosalas2002.gif&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Martinez Cebolla,Alberto - Salas,Santiago; Ciudad Real por equipos.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;El final de ese torneo lo considero la culminación de mi carrera como jugador de ajedrez por equipos. La última ronda del provincial se disputó en el ayuntamiento de Tomelloso. Ocupé el primer tablero (por la ausencia ese día de Juan Carlos) y el torneo se decidió en mi mesa contra un fuerte jugador del Zugzwang de Villanueva de los Infantes. Ya se sabe, todo el mundo mirando en corrillo en torno al tablero, y yo que había sacrificado una pieza sin saber muy bien cómo iba a acabar mi ataque desaforado&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/albertopartida2.png&#34; alt=&#34;Alberto con negras contra Antonio Castellanos&#34; /&gt;&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/castellanosAlberto2002.gif&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Castellanos,Antonio (2124) - Martinez Cebolla,Alberto; Sala Francisco Carretero, Ayuntamiento de Tomelloso, Por equipos Ciudad Real 2002&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Al dar este mate nos proclamamos campeones provinciales. Un muy buen recuerdo.&lt;/p&gt;
-
-&lt;p&gt;Ese mismo año comencé a colaborar con la escuela municipal de ajedrez. Juan Carlos se ocupaba de los mayores y yo de los pequeños. El curso 2002-2003 se formó un grupo de chicos encantador, con varios de los cuales estuve cuatro años entrenando dos horas semanales y participando en torneos escolares. José Manuel, Gonzalo, Irene, Clara&amp;hellip; mi concepto de la enseñanza se basa en la cercanía y el cariño, y con este grupo de chavales di y recibí cariño a raudales todos esos años. El primer año tengo un recuerdo imborrable de Santi, un chico ciego que se integró maravillosamente en el grupo con su tablero adaptado y su reloj (para oír el tiempo que le restaba a él y su rival). El tesón de su madre colombiana recién llegada a España me pareció admirable.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/alberto4.JPG&#34; alt=&#34;alberto&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El año 2003 de nuevo fuimos campeones provinciales. Ese año conseguí convencer a María Ángeles, mi pareja (y ex-campeona de Aragón y séptima de España a principios de los noventa) para jugar alguna partida si hacía falta, y sacó unas tablas y estuvo a punto de ganar a Pablo Gómez, un fuerte jugador de la provincia “Quien tuvo retuvo”, y María Ángeles, que sí tenía completamente abandonado el ajedrez, demostró que podía rendir a buen nivel. Disputamos el campeonato autonómico en Ciudad Real. La primera ronda jugamos con Ocaña, yo de nuevo en el primer tablero con un rival difícil. Y me salió una de las mejores partidas de mi vida&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/AlbertoRegionalEquipos.png&#34; alt=&#34;Alberto en el regional por equipos&#34; /&gt;&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/AlbertoTBla.gif&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Martinez Cebolla,Alberto - Blanco,Tomas; Castilla-La Mancha por equipos, 2003&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Con la inestimable participación de Juan Carlos en el primer tablero en este torneo autonómico conseguimos quedar terceros, un gran logro para un club formado por dos profes de instituto y unos chicos en edad escolar (recuerdo que el primer puesto estaba claro para un equipo compuesto en su totalidad de jugadores profesionales o semi-profesionales).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/3equipos2003.JPG&#34; alt=&#34;alberto&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ese año todavía fui capaz, en un torneo interno de nuestro joven club, de derrotar a Rubén, Miguel Ángel, Eduardo y Ángel Carlos, y entablar con Juan Carlos. Pero para mí estaba claro que por su progresión los chicos me iban a superar en pocos años, como así fue. En 2004 fui al torneo de La Roda para ver si obtenía elo FIDE, y lo conseguí. Ese mismo año nació mi hija Alicia, que andando los años sería campeona de Aragón sub 12 y subcampeona de España de colegios en Buitrago (el año siguiente al que participó un equipo de Tomelloso, qué pena no coincidir). Ya en 2006 en un torneo interno quedó patente que al menos Ángel Carlos y Eduardo me superaban en el tablero, lo que es una satisfacción siempre para quien los ha visto crecer como personas y jugadores de ajedrez.
-Entre 2003 y 2006 las alegrías vinieron de la evolución de los chicos, de sus logros en el ajedrez escolar. Para mí todo culminó en 2006 en el autonómico por edades en Albacete. Estuvimos conviviendo unos días (para algunos era su primera experiencia fuera de casa), preparamos partidas, fuimos al cine y a comer pizza y nos divertimos jugando al ajedrez. Ese año Clara fue campeona provincial (ya en la distancia vi cómo consiguió ser campeona autonómica) y Eduardo fue campeón autonómico (recuerdo cómo funcionó una recomendación de apertura para la partida decisiva en ese torneo).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/alberto/alberto3.JPG&#34; alt=&#34;alberto&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ese año llegó el concurso de traslados, que señalaba el final de mi experiencia manchega. Hicimos una sesión de cine con padres viendo En busca de Bobby Fischer y nunca olvidaré el cariño de la despedida de mi familia ajedrecista de Tomelloso. Gracias a todos por estos años. Los llevaré siempre en el corazón.&lt;/p&gt;
-
-&lt;p&gt;Alberto Martínez Cebolla&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/historiaalbertomartinezcebolla/</guid>
+      <description>Llegué a Tomelloso en 2001 con la ilusión de afrontar mi primer destino definitivo como profesor de instituto. Tengo muy buenos recuerdos de allí, y en particular del ajedrez. En el instituto coincidí con Juan Carlos Domínguez, un gran tipo que tenía la capacidad de hacerme reír a carcajadas con su gracejo andaluz, y que tuvo la generosidad de hacerme participar del club y de la escuela de ajedrez municipal. En el club de ajedrez y en la escuela municipal destacaba la presencia de Ángel Luis López, gran persona, alma mater y el motor del ajedrez en Tomelloso todos estos años.</description>
     </item>
     
     <item>
       <title>Provincial Absoluto 2ª jornada </title>
-      <link>https://ajedreztomelloso.github.io/post/Provincial_Absoluto2017_4/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincial_absoluto2017_4/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/Provincial_Absoluto2017_4/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;En la memoria no escrita del ajedrez tomellosero quedan esas tablas conseguidas por Julián Órtiz (contendiente en este campeonato) frente al múltiple campeón de España Miguel Illescas en unas simultáneas disputadas en  Villarrobledo allá por 1986.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Jose Ramón Rámirez bolañego del Club Ajedrez Tomelloso es el patrón de este Provincial Absoluto de ajedrez, disputado en el Casino San Fernando de Tomelloso, bajo el destello silencioso de sus grandes espejos y acompñados por el lento latir de las campanas de la Parroquia de la Asunción.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_4/joseramon.JPG&#34; alt=&#34;primerasmesas&#34; /&gt;.&lt;/p&gt;
-
-&lt;p&gt;Tras una primera jornada sin sorpresas, este domingo 14 de mayo se reiniciaba la contienda con una participación de 42 jugadores ejerciendo los seis restantes su  disposición de BYE.&lt;/p&gt;
-
-&lt;p&gt;La primera ronda de la mañana enfrentaba a los tomelloseros (discipulo y maestro) Ivan Moreno y Juan Carlos Dominguez; el preceptor apretó y apretó pero el aventajado alumno construyó una buena muralla defensiva con su caballo para que el rey no penetrara por ningun lado (tablas). Fco Javier Sanchez se impuso al numero dos del ranking al obtener un peón de más en el medio juego y cerrar la posicion para frenar la actividad de las piezas del rival.
-Antonio Castellanos - Jose Ramón Ramirez partida que se repitió en el pasado por equipos provincial; el actual líder se impuso en la batalla de pareja de alfiles contra pareja de caballos de Castellanos. Luismi Monreal ganaba con buen criterio a Martin Torres joven jugador de Zuzgwang.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_4/primerasmesas2.jpg&#34; alt=&#34;primerasmesas&#34; /&gt;.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt; Cuenta Pablo Castillejos (veterano jugador de este torneo) que el día de las primeras elecciones democráticas (junio 1977) su amigo Ángel empleado en los juzgados de Tomelloso, teníendo guardia lo llamó para que le acompañara. La jornada fue tan pacífica que la ocuparon toda jugando partidas de ajedrez.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;A la tarde, la ronda dejaba muy buenas partidas. Jose Ramón - Luismi, de nuevo el bolañego mostraba su buen hacer en una partida de enroques opuestos, consiguiendo pleno de victorias.&lt;/p&gt;
-
-&lt;p&gt;Los &amp;ldquo;profes&amp;rdquo; Fco Javier Sánchez - Juan Carlos Dominguez, firmaron unas tablas en una posicion de alfiles de distintos color. Juan Jimenez jugador de la cantera de Tomelloso se impuso al veterano Julian Ortiz tras un fallo de cálculo de Julian que perdió una pieza. En la mesa 4 midieron sus fuerzas Iván Moreno y Eduardo López, la partida que puso el cierre a esta segunda jornada acabó en tablas tras un sacrificio de Eduardo equívoco pero con mucha complejidad en el tablero.&lt;/p&gt;
-
-&lt;p&gt;Destacar a Juan Jiménez García (17 años) segundo clasificado por el buen torneo que está realizando y Pablo Garcia (12 años) en su primer Campeonato Provincial Absoluto puntuando con los jugadores de ELO Fide.&lt;/p&gt;
-
-&lt;p&gt;El bolañego Joaquín García del Moral encabeza la clasificación de veteranos y la jugadora de Valdepeñas Esther Ruiz de León la femenina.&lt;/p&gt;
-
-&lt;p&gt;Clasificación tras la ronda 4:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Posición&lt;/th&gt;
-&lt;th&gt;Jugador&lt;/th&gt;
-&lt;th&gt;Puntos&lt;/th&gt;
-&lt;th&gt;ELO FIDE&lt;/th&gt;
-&lt;th&gt;Club&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;Ramirez Diaz, Jose Ramon&lt;/td&gt;
-&lt;td&gt;4,0&lt;/td&gt;
-&lt;td&gt;2155&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Sanchez Carrasco, Fco. Javier&lt;/td&gt;
-&lt;td&gt;3,5&lt;/td&gt;
-&lt;td&gt;2009&lt;/td&gt;
-&lt;td&gt;CA Zugzwang&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;Jimenez Garcia, Juan&lt;/td&gt;
-&lt;td&gt;3,5&lt;/td&gt;
-&lt;td&gt;1559&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;Monreal Bejarano, Luis Miguel&lt;/td&gt;
-&lt;td&gt;3,0&lt;/td&gt;
-&lt;td&gt;1868&lt;/td&gt;
-&lt;td&gt;Ntro. A. Igualdad&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;Dominguez Gutierrez, Juan Carlos&lt;/td&gt;
-&lt;td&gt;3,0&lt;/td&gt;
-&lt;td&gt;2067&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;Moreno Valero, Ivan&lt;/td&gt;
-&lt;td&gt;3,0&lt;/td&gt;
-&lt;td&gt;2206&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;Campillo Ortega, Jose Manuel&lt;/td&gt;
-&lt;td&gt;3,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;Independiente&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;Moreno Valero, Raul&lt;/td&gt;
-&lt;td&gt;3,0&lt;/td&gt;
-&lt;td&gt;1713&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;Garcia Del Moral Lopez, Joaquin&lt;/td&gt;
-&lt;td&gt;3,0&lt;/td&gt;
-&lt;td&gt;1890&lt;/td&gt;
-&lt;td&gt;CA Ciudad Real&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;Lozano Toledo, Jesus&lt;/td&gt;
-&lt;td&gt;3,0&lt;/td&gt;
-&lt;td&gt;1206&lt;/td&gt;
-&lt;td&gt;CA Los Molinos&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;Perales Paton, Miguel&lt;/td&gt;
-&lt;td&gt;3,0&lt;/td&gt;
-&lt;td&gt;1842&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;Castellanos Bogalo, Antonio&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;1946&lt;/td&gt;
-&lt;td&gt;CA Zugzwang&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;13&lt;/td&gt;
-&lt;td&gt;Ortiz Serna, Julian&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;Lopez Quevedo, Eduardo&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;2186&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;Garcia De la Duena, Pablo&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;Torres Valverde, Martin&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;1614&lt;/td&gt;
-&lt;td&gt;CA Zugzwang&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;17&lt;/td&gt;
-&lt;td&gt;Benito Olmedo, Santiago&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;1476&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;18&lt;/td&gt;
-&lt;td&gt;Perales Paton, Jose&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;1332&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;Climent Castillo, Daniel&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;1193&lt;/td&gt;
-&lt;td&gt;Ntro. A. en Europa&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;Ramirez Aguado, Alvaro&lt;/td&gt;
-&lt;td&gt;2,5&lt;/td&gt;
-&lt;td&gt;1350&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;21&lt;/td&gt;
-&lt;td&gt;Yeghiazaryan Petrosyan, Roberto&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;1313&lt;/td&gt;
-&lt;td&gt;Ntro. A. Igualdad&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;22&lt;/td&gt;
-&lt;td&gt;Velasco Aragones, Enrique&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;1269&lt;/td&gt;
-&lt;td&gt;Ntro. A. Igualdad&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;23&lt;/td&gt;
-&lt;td&gt;Navarro Gonzalez, Raul&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;1157&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;24&lt;/td&gt;
-&lt;td&gt;Castillejos Madrid, Pablo&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;25&lt;/td&gt;
-&lt;td&gt;Belda Martinez, Sergio&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;26&lt;/td&gt;
-&lt;td&gt;Ruiz de Leon Merlo, Esther&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;1661&lt;/td&gt;
-&lt;td&gt;CA Los Molinos&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;td&gt;Castro Paraiso, Miguel&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;28&lt;/td&gt;
-&lt;td&gt;Martinez-Conde Hernandez, Carlos&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;1534&lt;/td&gt;
-&lt;td&gt;CA Ciudad Real&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;29&lt;/td&gt;
-&lt;td&gt;Barba Navas, Felix&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;Independiente&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;Gonzalez Garcia, Pedro Javier&lt;/td&gt;
-&lt;td&gt;2,0&lt;/td&gt;
-&lt;td&gt;1230&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;31&lt;/td&gt;
-&lt;td&gt;Vela Adrian, Pablo&lt;/td&gt;
-&lt;td&gt;1,5&lt;/td&gt;
-&lt;td&gt;1071&lt;/td&gt;
-&lt;td&gt;Ntro. A. Igualdad&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;Redondo Gonzalez, Jesus&lt;/td&gt;
-&lt;td&gt;1,5&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;33&lt;/td&gt;
-&lt;td&gt;Marcos-Alberca Lizcano, M Isabel&lt;/td&gt;
-&lt;td&gt;1,5&lt;/td&gt;
-&lt;td&gt;1162&lt;/td&gt;
-&lt;td&gt;Ntro. A. Igualdad&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;34&lt;/td&gt;
-&lt;td&gt;Losa Benito, Juan Jose&lt;/td&gt;
-&lt;td&gt;1,5&lt;/td&gt;
-&lt;td&gt;1514&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;35&lt;/td&gt;
-&lt;td&gt;Vela Adrian, Clara&lt;/td&gt;
-&lt;td&gt;1,5&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;Ntro. A. Igualdad&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;36&lt;/td&gt;
-&lt;td&gt;Garrido Simarro, Mario&lt;/td&gt;
-&lt;td&gt;1,5&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Ciudad Real&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;37&lt;/td&gt;
-&lt;td&gt;Rodrigo Diaz-Ropero, Jorge&lt;/td&gt;
-&lt;td&gt;1,5&lt;/td&gt;
-&lt;td&gt;1165&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;38&lt;/td&gt;
-&lt;td&gt;Ortiz Guzman, Javier&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;1085&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;39&lt;/td&gt;
-&lt;td&gt;Garcia Medina, Arturo&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;Perez Manzanedo, Carlos&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;Ntro. A. Igualdad&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;41&lt;/td&gt;
-&lt;td&gt;Mena Ortiz, Emilio Jose&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;42&lt;/td&gt;
-&lt;td&gt;Dominguez Lozano, Adriana&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;43&lt;/td&gt;
-&lt;td&gt;Vela Adrian, Marta&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;Ntro. A. Igualdad&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;44&lt;/td&gt;
-&lt;td&gt;Rodrigo Diaz-Ropero, Gonzalo&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;45&lt;/td&gt;
-&lt;td&gt;Jimenez Daza, Marta&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;46&lt;/td&gt;
-&lt;td&gt;Lopez Ochoa, Arsenio&lt;/td&gt;
-&lt;td&gt;1,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;Ntro. A. en Europa&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;47&lt;/td&gt;
-&lt;td&gt;Navarro Gonzalez, Alvaro&lt;/td&gt;
-&lt;td&gt;0,5&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;CA Tomelloso&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;48&lt;/td&gt;
-&lt;td&gt;Pozos Marchante, Angel Javier&lt;/td&gt;
-&lt;td&gt;0,0&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;Ntro. A. en Europa&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://info64.org/individual-absoluto-ciudad-real-2017/standings&#34;&gt;Clasificación en Info64&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Provincial_Absoluto2017_4/primerasmesas3.jpg&#34; alt=&#34;primerasmesas&#34; /&gt;.&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/provincial_absoluto2017_4/</guid>
+      <description>En la memoria no escrita del ajedrez tomellosero quedan esas tablas conseguidas por Julián Órtiz (contendiente en este campeonato) frente al múltiple campeón de España Miguel Illescas en unas simultáneas disputadas en Villarrobledo allá por 1986.  Jose Ramón Rámirez bolañego del Club Ajedrez Tomelloso es el patrón de este Provincial Absoluto de ajedrez, disputado en el Casino San Fernando de Tomelloso, bajo el destello silencioso de sus grandes espejos y acompñados por el lento latir de las campanas de la Parroquia de la Asunción.</description>
     </item>
     
     <item>
       <title>Historias y anécdotas de los provinciales absolutos de Ajedrez en C.Real </title>
-      <link>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto_Anecdotas/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincialabsoluto_anecdotas/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto_Anecdotas/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/joseramon.jpg&#34; alt=&#34;joseramon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Realizando una búsqueda en la hemeroteca de algunos periódicos provinciales, he encontrado que el primer Campeonato Provincial se celebró allá por el año 1946, si bien también he leído que, en aquella época, ya se organizaron torneos abiertos en diferentes localidades de la zona, como Alcázar, Almadén, Almagro o Tomelloso.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa1.png&#34;&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa1.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Fragmento del diario Lanza, del 22-3-1946, en el que se menciona la primera competición provincial de ajedrez.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa2.png&#34;&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa2.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Fragmento del diario Lanza, del 19-2-1946, en el que se realiza una crónica de un torneo en Tomelloso y se mencionan otros torneos.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Durante los siguientes años, diferentes jugadores han participado en este tipo de eventos, aunque no sería hasta los años 70 cuando empezaron a entrar en la escena competitiva jugadores que siguen compitiendo actualmente o lo han hecho hasta hace poco. Quizá el ejemplo más destacable en este sentido es el del ajedrecista bolañego Joaquín García del Moral López, quien quedó campeón provincial en 1980 y aún sigue dando guerra en los tableros y brindando anécdotas curiosas, algunas de las cuales relataré a continuación.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa3.png&#34;&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa3.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Fragmento del diario Lanza (8-7-1980), en el que se recoge la crónica del Campeonato Provincial Absoluto de dicho año.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;En estos últimos años, el hecho de organizar diferentes competiciones de ajedrez, especialmente un torneo de partidas rápidas que en enero de este año 2017 ha hecho su sexta edición, me ha hecho darme cuenta de que, en general, cuando una persona que nunca ha visto el ambiente de un torneo lo hace por primera vez, se suele sorprender positivamente, porque se da cuenta de que estos eventos son mucho más grandes de lo que ocurre dentro de los tableros.
-Uno de los aspectos que contribuye a mejorar la experiencia en los torneos son esos momentos anecdóticos, ya sean curiosos, graciosas, extrañas o sorprendentes, que con el tiempo se recuerdan. Muchas veces esas anécdotas no tienen por qué suceder durante la competición, sino que los viajes y las estancias durante los campeonatos también son propensos a brindar momentos para el recuerdo y a estrechar los lazos entre los ajedrecistas.&lt;/p&gt;
-
-&lt;p&gt;Puesto que en muchos de los torneos he sido compañero de expedición del anteriormente mencionado Joaquín, he sido testigo directo de algunos de esos momentos brillantes que ha protagonizado, tanto en los torneos, por su peculiar carácter, especialmente a la hora de encajar las derrotas, como en los viajes, por diferentes motivos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/joaquin.jpg&#34; alt=&#34;joseramon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Joaquín es un jugador a quien le encanta el ajedrez &lt;del&gt;salvo cuando pierde&lt;/del&gt; y con el que sabes que te lo vas a pasar bien en los torneos, especialmente cuando desenfunda su inagotable repertorio de frases.&lt;/p&gt;
-
-&lt;p&gt;Una de las ocasiones en las que no pude evitar reír a carcajadas ocurrió en un abierto de Socuéllamos, en el cual jugó una partida ante uno de los rivales más duros de mi generación en la etapa de formación. En aquel choque, Joaquín logró ventaja de una torre, si bien la zona central del tablero parecía la salida desde Madrid de cualquier autovía en días de puente y no era fácil hacer notar el material extra. Unas jugadas después, Joaquín permitió que su rival le atrapase la dama y diese la vuelta a la partida. Resultado final: derrota de Joaquín y unas palabras dirigidas a su oponente de las que no se olvidan en la vida: &lt;em&gt;“si el futuro del ajedrez provincial depende de ti, apañados vamos. No sabes a tocino ni aunque te pasen un guarro por el hocico”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Cambiando de tercio, los viajes a los torneos han sido otra fuente de inspiración. Como anécdota (de las que se pueden contar), destacaría una vez, hace unos diez años, en la que nos dimos cuenta de que uno de los tapacubos de las ruedas del coche nos adelantó por la izquierda, faltándole sólo marcar el adelantamiento con el intermitente. También hay que hacer notar el gusto de Joaquín por llegar a los torneos con la hora pegada, hasta el punto de llegar a decirle en ocasiones que la partida se juega treinta minutos antes de la hora real de comienzo para poder llegar con diez minutos de colchón. En un último alarde de puntualidad, el día de la primera jornada del Provincial de 2017 apostaría que se equivocó a propósito de salida en un par de rotondas para compensar el tiempo de margen que llevábamos y poder llegar a jugar sin tener que esperar ni un segundo.&lt;/p&gt;
-
-&lt;p&gt;Volviendo al tema de los campeonatos provinciales, he ido encontrando algunas crónicas de Campeonatos Provinciales de Ajedrez, en las que aparecen en los primeros puestos jugadores de una generación no muy anterior a la mía, con los que ya he llegado a coincidir en algunas competiciones.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa4.png&#34;&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa4.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Fragmento del diario Lanza (12-3-1994), en el que se recoge una breve crónica del Campeonato Provincial Absoluto de ese año.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Una vez llegado al siglo XXI, años en los que, si la memoria no me falla, he competido en todos los Campeonatos Provinciales Absolutos de ajedrez celebrados desde 2002, por lo que las estadísticas a partir de esta época las he sacado prácticamente en su totalidad de fuentes propias (al final del artículo, se expone una tabla con un resumen de las estadísticas más relevantes de los Campeonatos Provinciales Absolutos). Cualquier aportación que pueda contribuir a completar datos de dicha tabla es bienvenida.&lt;/p&gt;
-
-&lt;p&gt;Para completar el artículo, pondré algunas experiencias que he vivido en estos campeonatos. En general, salvo dos o tres ediciones, en los Campeonatos Provinciales Absolutos he jugado a buen nivel y obtenido buenos resultados, incluso quedando en primer lugar en varias ediciones.&lt;/p&gt;
-
-&lt;p&gt;Recuerdo que en la edición de 2003, que se disputó en el Ayuntamiento de Miguelturra, sólo se jugaron 5 rondas y logré una puntuación perfecta venciendo a rivales duros. También recuerdo que, en la edición de 2005, las últimas rondas se celebraron el último domingo de abril, coincidiendo con la Romería de la Virgen del Monte, y el trofeo de campeón (con forma de jarrón y que me dieron sin etiquetar -y así sigue-) estuvo presidiendo el corro familiar.
-En campeonato provincial del año 2009, un momento decisivo ocurrió en la ronda 5. En una posición ya incómoda (aunque, según las máquinas, sólo ligeramente desventajosa), cometí un error y, poco después, me quedé muy cerca de la derrota. Se llegó a la siguiente posición, con el turno del blanco:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/JR_diagrama.png&#34; alt=&#34;diagrama&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En esta posición, las máquinas recomiendan la jugada (nada evidente, por otra parte) 30.Ae1!!, con ventaja decisiva para el blanco, ya que se sigue amenazando la devastadora Td8 y ni siquiera queda el recurso de dar jaque en la primera fila. Por otra parte, la jugada 30.Td8 directamente tiene muy buena pinta, si bien mi rival podía no estar del todo satisfecho con su posición tras la variante prácticamente forzada 30…Tc1+ 31.Cd1 Dxd8 32.Dxd8 Ag4, tras la que el blanco sigue teniendo una clara ventaja, pero aún queda trabajo por delante para cerrar la partida.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/JR_diagrama2.gif&#34; alt=&#34;joseramon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Es, por tanto, entendible que, para solucionar los problemas en su primera fila, mi rival eligiese 30.h3?, pero esta jugada tira por tierra la ventaja blanca. Por suerte para mí, encontré el recurso táctico que refuta la amenaza de jugar la torre blanca a d8, dando la vuelta completamente a la partida y, aunque parezca increíble, obligando a mi rival a abandonar en la jugada 33, con lo que di un paso de gigante hacia el que sería mi tercer título provincial. Tras el diagrama anterior, la partida acabó de la siguiente forma: 30.h3?? c5!! 31.Td8?? cxb4! 32.Da5 Dc6 33.axb4 Ab7 (0-1).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/partida.gif&#34; alt=&#34;joseramon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En aquel año 2009, la Delegación Provincial disponía de un excedente de trofeos de caza que se habían comprado para un encuentro con jugadores de Jaén (según las planillas que conservo de aquel evento, era un memorial dedicado a Manuel Cisneros), que tuvo lugar en la localidad ciudadrealeña de Fuencaliente en septiembre del año anterior. Como campeón provincial, fui obsequiado con un trofeo de caza de gigantescas proporciones.
-En los Campeonatos Provinciales Absolutos, por otra parte, no siempre he tenido buenas actuaciones. En la edición del año 2011, celebrada en Almagro, realicé una de las peores competiciones de mi vida… y la FIDE lo computó dos veces para el ránking, por lo que la caída de mi ELO en aquella ocasión, en vez de ser de 30 puntos, fue de 60.
-En la edición del año siguiente hice uso por primera vez de un bye, ya que unos amigos celebraron su boda coincidiendo con la primera ronda. Aquella fue una boda de Buen Comer, en la que acabé tomando energía suficiente como para ganar las siguientes cinco rondas y, a la postre, el campeonato.
-En las ediciones de 2013 y 2016, ambas celebradas en la sala de exposiciones de la Casa de Cultura de Bolaños de Calatrava, colaboré en gran medida a la organización del evento, por lo que también pude apreciar el trabajo que se requiere para montar un evento de este tipo. De estos campeonatos, como anécdota curiosa destacaría que, en la edición de 2016, en uno de los días de competición coincidió que, en el auditorio de la Casa de Cultura se representó un musical sobre la película Frozen y, en una de las escenas, los actores salieron por la parte trasera del escenario, pasando por la sala de juego disfrazados de los personajes de dicha película durante el desarrollo de las partidas.&lt;/p&gt;
-
-&lt;p&gt;Para finalizar este artículo, expondré los datos que he podido coleccionar sobre estos campeonatos, reuniendo tanto la experiencia propia como la hemeroteca de periódicos provinciales, como Lanza.
-En un artículo de la hemeroteca de Lanza (11 de mayo de 1989) se menciona que el jugador de La Solana Juan Antonio Araque había ganado hasta esa fecha siete veces el Campeonato Provincial Absoluto de ajedrez.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Año&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Sede&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Número de jugadores&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Campeón&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2017&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;48&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;48&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2015&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;40&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Domingo Gijón&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2014&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;35&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Carlos Álvarez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2013&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;36&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2012&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;22&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2011&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Almagro&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;32&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Domingo Gijón&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2010&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;42&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2009&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Torralba de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;22&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2008&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;33&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2007&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2006&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;14&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2005&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Moral de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2004&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Moral de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Pablo Gómez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2003&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Miguelturra&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2002&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Miguelturra&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Pablo Gómez&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1996&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Socuéllamos&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;24&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Manuel Rayo Ramos&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1994&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;26&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rafael Portugués&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1993&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;34&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1991&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Socuéllamos&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Félix Rodrigo&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1987&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;La Solana&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1986&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Puertollano&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;17&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Rafael Campos&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1984&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;38&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juan Antonio Araque&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1982&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;20&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1981&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;26&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Juan Maroto&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1980&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;La Solana&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;94 (fase final de 16)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Joaquín García&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1975&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Alcázar de San Juan&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;25&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Fernando Vacas&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1969&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Benito Martínez&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;José Ramón Ramírez.&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/provincialabsoluto_anecdotas/</guid>
+      <description>Realizando una búsqueda en la hemeroteca de algunos periódicos provinciales, he encontrado que el primer Campeonato Provincial se celebró allá por el año 1946, si bien también he leído que, en aquella época, ya se organizaron torneos abiertos en diferentes localidades de la zona, como Alcázar, Almadén, Almagro o Tomelloso.
+ Fragmento del diario Lanza, del 22-3-1946, en el que se menciona la primera competición provincial de ajedrez.</description>
     </item>
     
     <item>
       <title>Comienza el Campeonato Provincial Absoluto</title>
-      <link>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto2017_2/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincialabsoluto2017_2/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto2017_2/</guid>
-      <description>&lt;p&gt;Se acabó la Romería de Tomelloso y llegó Mayo apretando con el calor, lo que también significa que empieza el Campeonato para dar a conocer el jugador con más talento de la provincia de Ciudad Real, el &lt;strong&gt;provincial absoluto&lt;/strong&gt;. Desde 2007 no vemos este torneo por Tomelloso y este año el ajedrez ciudarrealeño vuelve a darse cita en nuestra localidad. Será una importante oportunidad para nuestas jóvenes promesas, que lucharán por ganarles a los mejores, luchar por subir o conseguir ese preciado ELO que los sitúe en el mapa internacional de la FIDE y por qué no entrar en la historia del ajedrez de nuestra provincia.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/provincialabsoluto17/abs.png&#34; alt=&#34;Cartel&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Este año se preveen los mejores augurios en cuanto a participación y es probable que se tengan que jugar 7 rondas, debido a que los participantes superarán la cifra de 40. Se esperán jugadores de todos los rincones de la provincia: Ciudad Real, Valdepeñas, Tomelloso, Infantes, Alcazar de San Juan, Bolaños&amp;hellip; todas las poblaciones estarán representadas en este torneo.&lt;/p&gt;
-
-&lt;p&gt;El ritmo de juego será 1 hora 30 minutos más 30 segundo de incremento en cada jugada. Es el ritmo clásico de la FIDE, por lo que los jugadores no tendrán excusas para perder por tiempo. El lugar elegido será el casino donde tantos enigmas resolvió el gran Plinio con su inseparable don Lotario: el Casino San Fernando. Esta vez los misterios se darán en los tableros de 64 casillas y los ejércitos tanto blancos como negros intentarán derrocar a su rey enemigo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/provincialabsoluto17/sponsors.jpg&#34; alt=&#34;Patrocinadores&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El &lt;strong&gt;Ayuntamiento de Tomelloso&lt;/strong&gt; ha hecho posible que nuestra población vuelva a albergar uno de los torneos importantes de la provincia que supera en premios al propio campeonato regional absoluto. Los premios ascienden a más de 300 € y contamos con un colaborador de lujo en los mismos: la &lt;strong&gt;Cooperativa Virgen de las Viñas&lt;/strong&gt;. Cada vencedor de cada categoría se llevará a casa un estuche de edición limitada de vino coordialidad de la mayor cooperativa de Europa. Es un orgullo para nosotros tener a los mejores colaborando con nosotros, por lo que esperamos estar a la altura de las circunstancias. Desde la organización os invitamos a estos días que paséis con nosotros visitar tanto &lt;a href=&#34;http://vinostomillar.es/museo-de-arte-contemporaneo-infanta-elena/&#34;&gt;el Museo de Arte Contemporáneo inagurado por la Infanta Elena&lt;/a&gt; o &lt;a href=&#34;http://vinostomillar.es/la-zona-de-produccion-2/&#34;&gt;el Museo Etnológico&lt;/a&gt;, son dos verdaderas joyas de la cultura tomellosera.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/provincialabsoluto17/cooperativavirgendelasvinas.jpg&#34; alt=&#34;Cooperativa Virgen de las Viñas&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Los días que se disputará el torneo serán los domingos de mayo 7, 14 y 21 con la duda de cuando se jugará la ronda que está pendiente. Por lo que si queréis disfrutar del mejor ajedrez podéis pasaros por el Casino San Fernando de 10:00 a 14:00 que será la ronda de la mañana y de 16:30 a 20:30 para la ronda de la tarde. Podéis acceder a la información de torneo desde aquí:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B5q_pAGGq_2oVU1WTndDSTY5Z3c/view?usp=sharing&#34;&gt;Bases&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://info64.org/individual-absoluto-ciudad-real-2017&#34;&gt;Torneo en Info64&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;¡Cultura tomellosera en estado puro!&lt;/p&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/post/provincialabsoluto2017_2/</guid>
+      <description>Se acabó la Romería de Tomelloso y llegó Mayo apretando con el calor, lo que también significa que empieza el Campeonato para dar a conocer el jugador con más talento de la provincia de Ciudad Real, el provincial absoluto. Desde 2007 no vemos este torneo por Tomelloso y este año el ajedrez ciudarrealeño vuelve a darse cita en nuestra localidad. Será una importante oportunidad para nuestas jóvenes promesas, que lucharán por ganarles a los mejores, luchar por subir o conseguir ese preciado ELO que los sitúe en el mapa internacional de la FIDE y por qué no entrar en la historia del ajedrez de nuestra provincia.</description>
     </item>
     
     <item>
       <title>Torneo Club Ajedrez Tomelloso 28/04</title>
-      <link>https://ajedreztomelloso.github.io/post/TorneoViernes2104/</link>
+      <link>http://www.ajedreztomelloso.com/post/torneoviernes2104/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/TorneoViernes2104/</guid>
-      <description>
+      <guid>http://www.ajedreztomelloso.com/post/torneoviernes2104/</guid>
+      <description>Clasificación Final    Pos Pts ID Ctg NAME Rtg Fed Buc1 BucT     1 5.0 17 Sergio Belda Martinez 0 ESP 11.5 13.0   2 4.0 13 Pablo Garcia de la Dueña 0 ESP 13.5 15.0   3 4.0 20 Miguel Castro Paraiso 0 ESP 10.0 11.5   4 3.5 16 Vicente Rosado Poveda 0 ESP 11.5 12.5   5 3.</description>
+    </item>
+    
+    <item>
+      <title>Página oficial del Campeonato Provincial Absoluto de Ciudad Real</title>
+      <link>http://www.ajedreztomelloso.com/provincialabsoluto17/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/provincialabsoluto17/</guid>
+      <description>En esta página encontrarás toda la información referente al provincial absoluto de ajedrez.
+Información  Bases Torneo en Info64  Noticias  Provincial Absoluto - Final Provincial Absoluto - 2º Jornada Historias y anécdotas de los provinciales absolutos de Ajedrez en C.Real Provincial Absoluto - Apertura Provincial Absoluto - Información de Inscripción  Histórico de Campeones del Provincial Absoluto    Año Sede Campeón     2017 Tomelloso Fco.</description>
+    </item>
+    
+    <item>
+      <title>Torneo Club Ajedrez Tomelloso 21/04</title>
+      <link>http://www.ajedreztomelloso.com/post/torneoviernes2804/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/torneoviernes2804/</guid>
+      <description>Clasificación Final    Pos Pts ID Ctg NAME Rtg Fed Buc1 BucT     1 4.0 6 Rodrigo Jorge 1151 ESP 8.0 10.0   2 4.0 2 Moreno Raul 1647 ESP 7.0 8.0   3 3.0 9 Garcia Pablo 0 ESP 8.0 10.0   4 3.0 1 Perales Miguel 1817 ESP 8.0 9.0   5 3.0 3 Benito Santiago 1459 ESP 8.</description>
+    </item>
+    
+    <item>
+      <title>Mejores Jugadas Regional Edades 2017</title>
+      <link>http://www.ajedreztomelloso.com/post/mejoresjugadasregionalsub/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/mejoresjugadasregionalsub/</guid>
+      <description>Problema 1 Javier Rosado, subcampeón Sub-10, sacrifica su alfil en h3 y resuelve la partida con mate en tres jugadas.
+Solución Problema 1 - Variable 1
+Solución Problema 1 - Variable 2
+Problema 2 Vicente Rosado, en la primera ronda del Campeonato Sub-12 ganó la dama con esta combinación.
+Solución Problema 2
+Problema 3 Buena combinación de nuestro jugador Álvaro Ramírez que sorprendió al presidente de la Federación con este fuerte ataque.</description>
+    </item>
+    
+    <item>
+      <title>Campeonato Provincial Absoluto 2017</title>
+      <link>http://www.ajedreztomelloso.com/post/provincialabsoluto2017/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/provincialabsoluto2017/</guid>
+      <description>Bases
+Lugar de juego: TOMELLOSO. Casino de San Fernando. Plaza de España, frente Ayuntamiento.
+Días de juego: Día 7 de mayo, 10:00 horas - 1ª ronda.
+Día 7 de mayo, 16:30 horas - 2ª ronda.
+Día 14 de mayo, 10:00 horas - 3ª ronda.
+Día 14 de mayo, 16:30 horas - 4ª ronda.
+Día 21 de mayo, 10:00 horas - 5ª ronda.
+Día 21 de mayo, 16:30 horas - 6ª ronda.</description>
+    </item>
+    
+    <item>
+      <title>El ajedrez y sus estados mentales</title>
+      <link>http://www.ajedreztomelloso.com/post/relajacion/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/relajacion/</guid>
+      <description>Lo admito, no tengo ni idea de ajedrez. Me considero a mí mismo el típico jugador que ha llegado hasta donde está sin tener ni idea de cómo lo ha hecho. He quedado varias veces campeón regional en diferentes categorías juveniles, y he conseguido el título de Maestro Fide, que son los logros de los que me considero más orgulloso. Sin embargo, cuando me siento ante el tablero de cara a la próxima partida sigo sin confiar plenamente en ser capaz de superar a mi rival.</description>
+    </item>
+    
+    <item>
+      <title>Regionales 2017 Final</title>
+      <link>http://www.ajedreztomelloso.com/post/regional2017_3/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/regional2017_3/</guid>
+      <description>En 1255, Alfonso X decidió fundar una ciudad en una nueva ubicación, a 9 km de Alarcos, en la aldea conocida como Pozuelo Seco de Don Gil. El territorio era el corazón de los dominios de la orden militar de Calatrava. Se le dio el nombre de Villa Real.
 
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/viernes/torneo2/ajedrezviernes1.jpg&#34; alt=&#34;Ronda2&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;clasificación-final&#34;&gt;Clasificación Final&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Pos&lt;/th&gt;
-&lt;th&gt;Pts&lt;/th&gt;
-&lt;th&gt;ID&lt;/th&gt;
-&lt;th&gt;Ctg NAME&lt;/th&gt;
-&lt;th&gt;Rtg&lt;/th&gt;
-&lt;th&gt;Fed&lt;/th&gt;
-&lt;th&gt;Buc1&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;BucT&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;5.0&lt;/td&gt;
-&lt;td&gt;17&lt;/td&gt;
-&lt;td&gt;Sergio Belda Martinez&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;11.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;13.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;4.0&lt;/td&gt;
-&lt;td&gt;13&lt;/td&gt;
-&lt;td&gt;Pablo Garcia de la Dueña&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;13.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;15.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;4.0&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;Miguel Castro Paraiso&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;10.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;11.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;3.5&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;Vicente Rosado Poveda&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;11.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;12.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;3.0&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;Arturo Garcia Medina&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;14.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;15.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;3.0&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;Adriana Dominguez Lozano&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;13.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;15.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;3.0&lt;/td&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;Gonzalo Rodrigo Diaz-Ropero&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;12.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;14.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;3.0&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;Juan Jimenez Diaz&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;12.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;13.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;3.0&lt;/td&gt;
-&lt;td&gt;18&lt;/td&gt;
-&lt;td&gt;Manuel Soto Graña&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;8.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;9.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;2.5&lt;/td&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;Francisco Martinez Gallego&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;11.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;12.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;2.0&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;Emilio Jose Mena Ortiz&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;13.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;16.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;2.0&lt;/td&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;Francisco Javier Martinez Sevilla&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;13.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;14.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;13&lt;/td&gt;
-&lt;td&gt;2.0&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Alex Stefan&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;11.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;12.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;2.0&lt;/td&gt;
-&lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;Manuel Soto Soto&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;10.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;12.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;2.0&lt;/td&gt;
-&lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;Pepe Ruiz Gomez&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;10.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;11.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;2.0&lt;/td&gt;
-&lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;Javier Rosado Poveda&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;9.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;10.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;17&lt;/td&gt;
-&lt;td&gt;1.0&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;David Serrano Sanz&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;12.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;12.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;18&lt;/td&gt;
-&lt;td&gt;1.0&lt;/td&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;Gonzalo Puig Murillo&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;11.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;12.0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;1.0&lt;/td&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;Gonzalo Lahoz Lopez&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;10.0&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;10.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;0.0&lt;/td&gt;
-&lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;Roberto Lahoz Lopez&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;ESP&lt;/td&gt;
-&lt;td&gt;8.5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;9.5&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/viernes/torneo2/ajedrezviernes5.jpg&#34; alt=&#34;Ronda1&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/viernes/torneo2/ajedrezviernes3.jpg&#34; alt=&#34;Ronda3&#34; /&gt;&lt;/p&gt;
-</description>
+Clasificación Sub-08
+Los caballeros sub-8 de la Orden de Tomelloso lucharon en singular batalla contra los ejercitos llegados de todos los confines de la región manchega.</description>
+    </item>
+    
+    <item>
+      <title>Regionales por Edades 2017 Resultados</title>
+      <link>http://www.ajedreztomelloso.com/post/regional2017_2/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/regional2017_2/</guid>
+      <description>Después de un año sabático Raúl Moreno, vuelve a conectar con &amp;ldquo;la fuerza&amp;rdquo; y gana su segundo Regional por Edades.
+En Tomelloso se juega al Ajedrez con dos Damas:
+Beatriz Jiménez, campeona regional sub-8,
+y Adriana Domínguez campeona sub-10 y segunda clasificada absoluta.
+Javier Rosado, subcampeón sub-8, siempre en busca de la mejor jugada.
+Álvaro Ramírez cuarto clasificado sub-14, la madurez que llega con el trabajo, dejando huella en ese maravilloso ataque frente a Mario del Río.</description>
+    </item>
+    
+    <item>
+      <title>Entrevista Monitores-Jugadores: Parte II</title>
+      <link>http://www.ajedreztomelloso.com/post/entrevistamonitorjugadorii/</link>
+      <pubDate>Thu, 06 Apr 2017 01:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/entrevistamonitorjugadorii/</guid>
+      <description>Para ver la primera parte de la entrevista acceda aquí:
+Primera Parte de la entrevista
+Os dejo con la segunda parte de la entrevista y espero que la disfrutéis tanto como nosotros:
+Los chicos que van a su primer regional siempre van un poco con miedo. Algunos de ellos salen de casa por primera vez en este torneo. Por tanto:  6. ¿Qué experiencias extra-ajedrecistas recordáis en vuestros primeros regionales?</description>
+    </item>
+    
+    <item>
+      <title>Entrevista Monitores-Jugadores: Parte I</title>
+      <link>http://www.ajedreztomelloso.com/post/entrevistamonitorjugadori/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/entrevistamonitorjugadori/</guid>
+      <description>Justo antes del regional he rastreado la zona y he contactado con los monitores de los diferentes clubs de Castilla la Mancha que en su día disputaron el regional por edades, para hacerles una entrevista vía email y así poder escuchar sus experiencias y sus puntos de vista.
+Los monitores cazados han sido:
+Desde Ciudad Real:
+ Ángel Espinosa, MI del Club Ajedrez Ciudad Real. Ramón Mañas, por parte del Club Ajedrez Los Molinos.</description>
+    </item>
+    
+    <item>
+      <title>Regionales por edades de Castilla la Mancha 2017</title>
+      <link>http://www.ajedreztomelloso.com/post/regional2017_1/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/regional2017_1/</guid>
+      <description>Víktor el terrible, padre de ajedrecistas castellano-manchegos, localizaba a través de la web de la organización del torneo Regional sub 2017 el mejor camino para llegar al Hotel Guadiana de Ciudad Real. Se aproximan las vacaciones de Semana Santa, lo que implica que el regional por edades de Castilla la Mancha se acerca. Con la variación de fechas de la semana cristiana, el regional sigue celebrándose siempre ese primer fin de semana de los festivos.</description>
+    </item>
+    
+    <item>
+      <title>Clase de Ajedrez</title>
+      <link>http://www.ajedreztomelloso.com/post/claseajedrez/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/claseajedrez/</guid>
+      <description>Javier era un niño de siete años, alumno del CEIP Félix Grande de Tomelloso (C.Real). Asistía a clases de ajedrez en el aula Althia de este colegio los martes y jueves de 16 a 17 horas. Tenía una forma muy particular de concentrarse&amp;hellip;
+El monitor repasaba mentalmente los contenidos de su próxima sesión, mientras caminaba por la acera del Sol, Carrera San Jerónimo abajo: “los críos exigen lo mejor, sino se rebelan”.</description>
+    </item>
+    
+    <item>
+      <title>Mejores Jugadas Provincial Edades 2017</title>
+      <link>http://www.ajedreztomelloso.com/post/mejoresjugadasprovincial2017/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/mejoresjugadasprovincial2017/</guid>
+      <description>Problema 1 Alecsandru Stefan encuentra una combinación donde se ve el potencial de un ataque con alfiles junto a la dama.
+Solución Problema 1
+Problema 2 Pedro Javier con las piezas blancas tuvo una oportunidad de realizar una buena combinación en esta posición:
+Solución Problema 2
+Problema 3 A Santiago le amenazan el alfil, pero va a aprovechar la clavada para ganar un peón.
+Solución Problema 3
+Problema 4 Álvaro en esta posición consiguió salir con material de ventaja.</description>
+    </item>
+    
+    <item>
+      <title>Campeonato Provincial Edades 2017</title>
+      <link>http://www.ajedreztomelloso.com/provincialedades17/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/provincialedades17/</guid>
+      <description> En esta página encontrarás toda la información referente al provincial Sub de ajedrez.
+Información  Bases Campeonato Provincial Sub-8 Campeonato Provincial Sub-10 Campeonato Provincial Sub-12 Campeonato Provincial Sub-14 Campeonato Provincial Sub-16 Campeonato Provincial Sub-18  Noticias  Provincial Edades - Final Provincial Edades - Crónica Provincial Edades - Mejores Jugadas Provincial Edades - Primera Jornada  </description>
+    </item>
+    
+    <item>
+      <title>Regionales Edades 2017</title>
+      <link>http://www.ajedreztomelloso.com/regionaledades17/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/regionaledades17/</guid>
+      <description> En esta página encontrarás toda la información referente al Regional Sub de ajedrez.
+Información  Bases Campeonato Regional Sub-8 Campeonato Regional Sub-10 Campeonato Regional Sub-12 Campeonato Regional Sub-14 Campeonato Regional Sub-16 Campeonato Regional Sub-18  Noticias  Regional Edades - Final Regional Edades - Crónica Regional Edades - Mejores Jugadas Regional Edades - Presentación Regional Edades - Entrevistas Monitores-Jugadores: Parte 1 Regional Edades - Entrevistas Monitores-Jugadores: Parte 2  </description>
+    </item>
+    
+    <item>
+      <title>Edades 2017 Final</title>
+      <link>http://www.ajedreztomelloso.com/post/edades2017final/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/edades2017final/</guid>
+      <description>La última partida se estaba disputando. Un final de Damas con cinco peones por bando. Parecía una fotografía de la historia del ajedrez, Santiago Benito (Tomelloso) y Julio Mérida (N.A. en Europa), concentrados en la posición y rodeados de espectadores tratando de adivinar el desenlace.
+En la pared adyacente colgaba ya la clasificación del sub-8 con la pareja Javier Rosado y Beatriz Jiménez en lo mas alto. En la memoria reciente sus rápidas combinaciones de mate, casi sin tiempo para anotarlas.</description>
+    </item>
+    
+    <item>
+      <title>Provincial Edades 2017 Avance Final</title>
+      <link>http://www.ajedreztomelloso.com/post/edades/</link>
+      <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/edades/</guid>
+      <description>Álvaro Ramírez Campeón Provincial Sub-14 Javier Rosado y Beatriz Jiménez pareja campeona en Sub-08 Cuadro de Honor SUB-8, SUB-10, SUB-12 SUB-14, SUB-16, SUB-18</description>
+    </item>
+    
+    <item>
+      <title>Instagram Marzo&#39;2017</title>
+      <link>http://www.ajedreztomelloso.com/post/instagram0317/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/instagram0317/</guid>
+      <description>La combinación es una preciosa flor, nacida de la fantasía, del amor, del trabajo y de la lógica #viernesDeAjedrez #bronstein #ajedrez #tomelloso
+A post shared by Club Ajedrez Tomelloso (@ajedreztomelloso) on Mar 25, 2017 at 2:10am PDT
+   Cuando te ofrezcan tablas, intenta descubrir por qué tu contrincante cree que esta en una situación desventajosa #provincial2017 #sub16 #ciudadreal #short
+A post shared by Club Ajedrez Tomelloso (@ajedreztomelloso) on Mar 24, 2017 at 2:09am PDT</description>
+    </item>
+    
+    <item>
+      <title>Enlaces del Mes de Marzo</title>
+      <link>http://www.ajedreztomelloso.com/post/enlaces0317/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/enlaces0317/</guid>
+      <description>Ajedrez en las escuelas    Enlace Descripción     Ajedrez en el colegio Mirabal Pequeño vídeo de las noticias donde el colegio Mirabal cuenta su experiencia en el ajedrez.   Cinco ideas para dar clases a niños Capakhine nos cuenta ideas para dar clases a niños.   Poema de Alberto Poema de Alberto para chess24, alumno de 8 años de la escuela Ajedrez Metro Club de Marbella.</description>
+    </item>
+    
+    <item>
+      <title>Campeonato Provincial Sub 2017: Jornada I</title>
+      <link>http://www.ajedreztomelloso.com/post/sub20171jornada/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/sub20171jornada/</guid>
+      <description>Comienza el Campeonato Provincial por categorías El pasado sábado tuvo lugar el inicio del Campeonato Sub Provincial en el Colegio Carlos Vázquez de Ciudad Real, con más de un centenar de jugadores divididos en seis categorías, luchando, estrechamente unidos, en un aforo algo pequeño para la dimensión del evento, por conseguir una plaza que les clasifique al próximo Regional. Tomelloso con más de un treinta por ciento de participación, presenta jugadores de cinco a dieciocho años y llega con mucha ilusión a este evento.</description>
+    </item>
+    
+    <item>
+      <title>Peón P&#39;alante</title>
+      <link>http://www.ajedreztomelloso.com/post/peonpalante/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/peonpalante/</guid>
+      <description>En estos momentos no se si es mejor retroceder con la dama, intentar proteger al rey o buscar jaque con caballo&amp;hellip;, la verdad es que no tengo ni idea.
+ Veo la partida con expectación, analizo los posibles movimientos que pueden hacer ambos jugadores, siempre con el interés particular en que salga victorioso solo uno de ellos, procurando desde unos cinco metros de distancia dar fuerza moral -si la verdad sirve de algo en este deporte- ya que nada más puedo aportar desde la distancia, ni quiero, pues la verdad es que no tengo ni idea.</description>
+    </item>
+    
+    <item>
+      <title>Bienvenidos a la nueva Web</title>
+      <link>http://www.ajedreztomelloso.com/post/bienvenida/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/bienvenida/</guid>
+      <description>Como cuentan las crónicas &amp;ldquo;Corría el año 2000, cuando Juan Carlos Domínguez, profesor de Matemáticas, fuerte jugador de ajedrez y recién llegado a Tomelloso, comienza a impartir clases del juego-ciencia a chavales de esta localidad de una manera más o menos metódica. Así nació este club o mejor dicho su nueva etapa en el correr de los tiempos.
+El Club Ajedrez Tomelloso tuvo una infancia feliz y tranquila, aprendiendo siempre de sus mayores.</description>
+    </item>
+    
+    <item>
+      <title>Enlaces de Interés</title>
+      <link>http://www.ajedreztomelloso.com/enlaces-de-interes/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/enlaces-de-interes/</guid>
+      <description> Federaciones    Logo Descripción Enlace      Federación Internacional de Ajedrez FIDE    Federación Española de Ajedrez FEDA    Federación de Ajedrez de Castilla la Mancha FACLM    Delegación de Ciudad Real DELEGACION DE CIUDAD REAL    Clubes de Ajedrez de Castilla la Mancha    Logo Descripción Enlace      Club de Ajedrez Zuzwang ZUGZWANG    Club Ajedrez Ciudad Real CLUB AJEDREZ CIUDAD REAL    Club de Ajedrez Los Molinos (Valdepeñas) CLUB AJEDREZ LOS MOLINOS    Club de Ajedrez Parque Sur AJEDREZ PARQUESUR    Club de Ajedrez Excalibur EXCALIBUR    Club de Ajedrez Almansa CLUB AJEDREZ ALMANSAL    Club de Ajedrez La Roda CLUB AJEDREZ LA RODA    Club de Ajedrez Nuestro Ajedrez en Europa NUESTRO AJEDREZ EUROPA    Club de Ajedrez Bargas Soliss AJEDREZ BARGAS    Tomelloso    Logo Descripción Enlace      Ayuntamiento de Tomelloso Ayuntamiento de Tomelloso    En Tomelloso En Tomelloso    </description>
+    </item>
+    
+    <item>
+      <title>Patrocinadores Club Ajedrez Tomelloso</title>
+      <link>http://www.ajedreztomelloso.com/patrocinadores/</link>
+      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/patrocinadores/</guid>
+      <description>Patrocinadores     Área Municipal de Deportes Tomelloso      Autoescuela Paraiso      Deportes Cronos Tomelloso      Flores Alba      Global Asesores     Pasadizo de Toledo, 9 Primera planta  Tomelloso  Telf. 926 970 996  administracion@globalasesores2012.es   Logopedia y Foniatría Esther Bello      Manchegos Dental      Marquinetti      Mondema Artesanos      Teccon Lahoz       Tirado Ramirez Menchen Abogados     C/ Alarcón, nº 5, local.</description>
     </item>
     
   </channel>

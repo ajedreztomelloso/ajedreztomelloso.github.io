@@ -2,125 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrocinadores on Club Ajedrez Tomelloso</title>
-    <link>https://ajedreztomelloso.github.io/tags/patrocinadores/index.xml</link>
+    <link>http://www.ajedreztomelloso.com/tags/patrocinadores/</link>
     <description>Recent content in Patrocinadores on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <atom:link href="https://ajedreztomelloso.github.io/tags/patrocinadores/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ajedreztomelloso.com/tags/patrocinadores/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Patrocinadores Club Ajedrez Tomelloso</title>
-      <link>https://ajedreztomelloso.github.io/patrocinadores</link>
+      <link>http://www.ajedreztomelloso.com/patrocinadores/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/patrocinadores</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;Patrocinadores&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.facebook.com/%C3%81rea-Municipal-de-Deportes-Tomelloso-692988147490623/?fref=ts&#34;&gt;&lt;strong&gt;Área Municipal de Deportes Tomelloso&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.facebook.com/%C3%81rea-Municipal-de-Deportes-Tomelloso-692988147490623/?fref=ts&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/areadeportestomelloso.jpg&#34; alt=&#34;Área Municipal de Deportes Tomelloso&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://evapago.wixsite.com/paraisovial&#34;&gt;&lt;strong&gt;Autoescuela Paraiso&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://evapago.wixsite.com/paraisovial&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/AutoescuelaParaiso.jpg&#34; alt=&#34;Autoescuela_Paraiso&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.cronostomelloso.com/&#34;&gt;&lt;strong&gt;Deportes Cronos Tomelloso&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.cronostomelloso.com/&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/cronos.jpg&#34; alt=&#34;Deportes_Cronos&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://11870.com/pro/flores-alba-1&#34;&gt;&lt;strong&gt;Flores Alba&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://11870.com/pro/flores-alba-1&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/FloresAlba.jpg&#34; alt=&#34;Flores_Alba&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.globalasesores2012.es/&#34;&gt;&lt;strong&gt;Global Asesores&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.globalasesores2012.es/&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/GlobalAsesores.jpg&#34; alt=&#34;Global_Asesores&#34; /&gt;&lt;/a&gt; &lt;/br&gt; Pasadizo de Toledo, 9 Primera planta &lt;/br&gt; Tomelloso &lt;/br&gt; Telf. &lt;a href=&#34;tel:+34926970996&#34;&gt;926 970 996&lt;/a&gt; &lt;/br&gt; &lt;a href=&#34;mailto:administracion@globalasesores2012.es&#34;&gt;administracion@globalasesores2012.es&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.citiservi.es/ciudad-real/esther-bello-gonzalez-tomelloso__2662995_477.html&#34;&gt;&lt;strong&gt;Logopedia y Foniatría Esther Bello&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.citiservi.es/ciudad-real/esther-bello-gonzalez-tomelloso__2662995_477.html&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/LogopediaEstherBello.jpg&#34; alt=&#34;Logopedia_EstherBello&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://manchegosprotesisdental.es/&#34;&gt;&lt;strong&gt;Manchegos Dental&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://manchegosprotesisdental.es/&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/ManchegosDental.png&#34; alt=&#34;Manchegos_Dental&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://marquinetti.com/&#34;&gt;&lt;strong&gt;Marquinetti&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://marquinetti.com/&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/Marquinetti.jpg&#34; alt=&#34;Marquinetti&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://mondemaartesanos.es/&#34;&gt;&lt;strong&gt;Mondema Artesanos&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://mondemaartesanos.es/&#34;&gt;&lt;a href=&#34;http://mondemaartesanos.es/&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/MondemaArtesanos.png&#34; alt=&#34;Mondema_Artesanos&#34; /&gt;&lt;/a&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.tecconlahoz.es/&#34;&gt;&lt;strong&gt;Teccon Lahoz&lt;/strong&gt;&lt;/a&gt; &lt;div id=&#34;tiradomenchenabogados&#34;&gt;&lt;/div&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.tecconlahoz.es/&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/TecconLahoz.jpg&#34; alt=&#34;Teccon_Lahoz&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#tiradomenchenabogados&#34;&gt;&lt;strong&gt;Tirado Ramirez Menchen Abogados&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;#tiradomenchenabogados&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/TiradoRamirezMenchen.jpg&#34; alt=&#34;Tirado_Ramirez_Menchen_Abogados&#34; /&gt;&lt;/a&gt; &lt;/br&gt; C/ Alarcón, nº 5, local. &lt;/br&gt; 13.700 - Tomelloso (C. Real). &lt;/br&gt; Telf y fax: &lt;a href=&#34;tel:+34926510729&#34;&gt;926 510 729&lt;/a&gt; - &lt;a href=&#34;tel:+34926504790&#34;&gt;926 504 790&lt;/a&gt;.&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.citiservi.es/ciudad-real/pilar-zarco-daza-tomelloso__2760012_477.html&#34;&gt;&lt;strong&gt;Zarco Daza Abogados&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.citiservi.es/ciudad-real/pilar-zarco-daza-tomelloso__2760012_477.html&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/patrocinadores/zarcodaza.png&#34; alt=&#34;ZarcoDaza Abogados&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <guid>http://www.ajedreztomelloso.com/patrocinadores/</guid>
+      <description>Patrocinadores     Área Municipal de Deportes Tomelloso      Autoescuela Paraiso      Deportes Cronos Tomelloso      Flores Alba      Global Asesores     Pasadizo de Toledo, 9 Primera planta  Tomelloso  Telf. 926 970 996  administracion@globalasesores2012.es   Logopedia y Foniatría Esther Bello      Manchegos Dental      Marquinetti      Mondema Artesanos      Teccon Lahoz       Tirado Ramirez Menchen Abogados     C/ Alarcón, nº 5, local.</description>
     </item>
     
   </channel>
