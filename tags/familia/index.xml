@@ -2,25 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Familia on Club Ajedrez Tomelloso</title>
-    <link>http://www.ajedreztomelloso.com/tags/familia/</link>
+    <link>https://ajedreztomelloso.github.io/tags/familia/index.xml</link>
     <description>Recent content in Familia on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Wed, 31 May 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.ajedreztomelloso.com/tags/familia/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://ajedreztomelloso.github.io/tags/familia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>III Torneo Familiar</title>
-      <link>http://www.ajedreztomelloso.com/torneofamiliariii/</link>
+      <link>https://ajedreztomelloso.github.io/torneofamiliariii</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/torneofamiliariii/</guid>
-      <description>Día de juego: 10 de junio de 2017.
-Lugar de juego: Pabellón Jose María del Moral. Calle Reatas 2, Tomelloso, Ciudad Real.
-Sistema de juego: Torneo con formato por equipos. Los jugadores deben inscribirse por parejas. Dicha pareja tiene que estar formada por dos miembros de una misma unidad familiar, es decir padres, hijos o hermanos. En cada partida un jugador con las piezas blancas y el otro jugador con las piezas negras.</description>
+      <guid>https://ajedreztomelloso.github.io/torneofamiliariii</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Día de juego:&lt;/strong&gt; 10 de junio de 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lugar de juego&lt;/strong&gt;: Pabellón Jose María del Moral. Calle Reatas 2, Tomelloso, Ciudad Real.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sistema de juego:&lt;/strong&gt; Torneo con formato por equipos. Los jugadores deben inscribirse por parejas. Dicha pareja tiene que estar formada por dos miembros de una misma unidad familiar, es decir padres, hijos o hermanos. En cada partida un jugador con las piezas blancas y el otro jugador con las piezas negras.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ritmo de juego:&lt;/strong&gt; 10 minutos más 3 segundo por movimiento.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Puntuación de los encuentros:&lt;/strong&gt;
+2 puntos por la victoria, 1 por el empate y 0 por la derrota.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Desempate:&lt;/strong&gt; Los sistemas de desempates seran:&lt;/p&gt;
+
+&lt;p&gt;Puntuación Olímpica, Mediano Bucholz, Bucholz, Resultado Particular&lt;/p&gt;
+
+&lt;p&gt;Orden de la participación: se aplicará el siguiente orden:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;ELO FIDE 2. ELO FEDA 3. ORDEN ALFABÉTICO por apellidos&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/IIITorneoFamiliar/image1.jpg&#34; alt=&#34;Ronda1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Horario de la competición&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;10:00 horas - 1ª ronda.&lt;br /&gt;
+10:30 horas - 2ª ronda.&lt;br /&gt;
+11:00 horas - 3ª ronda.&lt;br /&gt;
+11:45 horas - 4ª ronda.&lt;br /&gt;
+12:15 horas - 5ª ronda.&lt;br /&gt;
+12:45 horas - 6ª ronda.&lt;br /&gt;
+13:30 horas - Entrega de premios.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscripciones&lt;/strong&gt;
+ A través del correo: &lt;a href=&#34;mailto:clubajedreztomelloso@gmail.com&#34;&gt;clubajedreztomelloso@gmail.com&lt;/a&gt; indicando nombre y apellidos de ambos jugadores, localidad, fecha de nacimiento e indicar que jugador jugará en la primera mesa.
+Fecha límite de inscripción: 9 de junio a las 23:00 horas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Premios&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1º Clasificados Trofeo + Tablero de ajedrez y reloj de ajedrez.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2º Clasficados Trofeo + Reloj de ajedrez..&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3º Clasficiados Trofeo + Tablero de ajedrez.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Comité de competición:&lt;/strong&gt;
+Comité de competición:&lt;/p&gt;
+
+&lt;p&gt;El comité de competición estará formado por el árbitro principal y el director del torneo. Sus decisiones serán inapelables. Está estrictamente prohibido llevar teléfonos móviles o cualquier otro medio electrónico de comunicación, no permitido por el árbitro, dentro del recito de juego. Si durante las partidas suena el móvil de un jugador, éste perderá su partida. (Artículo 12.2 de las Leyes del Ajedrez). Para cualquier incidencia no recogida en las presentes bases se aplicarán las normas FIDE y FEDA. La participación en el torneo supone la aceptación de estas bases. Los participantes en el torneo autorizan la publicación de sus datos personales en los diferentes medios de comunicación que la organización considere oportunos para la necesaria difusión del evento (listados de resultados, clasificaciones, participantes, partidas, etc.).&lt;/p&gt;
+
+&lt;h2 id=&#34;organiza-el-club-ajedrez-tomelloso&#34;&gt;Organiza el CLUB AJEDREZ TOMELLOSO&lt;/h2&gt;
+
+&lt;h3 id=&#34;colabora-shuriken&#34;&gt;Colabora Shuriken&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.shuriken64.com/&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/IIITorneoFamiliar/Logo-Shuriken-400.jpg&#34; alt=&#34;Shuriken&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

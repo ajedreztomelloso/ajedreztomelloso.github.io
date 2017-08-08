@@ -2,74 +2,490 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educacion on Club Ajedrez Tomelloso</title>
-    <link>http://www.ajedreztomelloso.com/tags/educacion/</link>
+    <link>https://ajedreztomelloso.github.io/tags/educacion/index.xml</link>
     <description>Recent content in Educacion on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.ajedreztomelloso.com/tags/educacion/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://ajedreztomelloso.github.io/tags/educacion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Entrevistas Profesores de Tomelloso</title>
-      <link>http://www.ajedreztomelloso.com/post/entrevistasprofesores/</link>
+      <link>https://ajedreztomelloso.github.io/post/EntrevistasProfesores/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/entrevistasprofesores/</guid>
-      <description>Hemos conseguido reunir a docentes de nuestra localidad para poder realizar con ellos una entrevista y ver cual es el estado y su opinión acerca de la entrada del ajedrez en nuestras aulas. La verdad es que hemos disfrutado mucho trabajando con ellos durante todo el año y esperemos que disfrutéis tanto sus respuestas como nosotros.
-Los docente que se han atrevido con la entrevista han sido:
-Desde el colegio Félix Grande, donde el ajedrez ha ocupado una hora semanal en el horario lectivo de matématicas de los alumnos de 5º de primaria:</description>
+      <guid>https://ajedreztomelloso.github.io/post/EntrevistasProfesores/</guid>
+      <description>
+
+&lt;p&gt;Hemos conseguido reunir a docentes de nuestra localidad para poder realizar con ellos una entrevista y ver cual es el estado y su opinión acerca de la entrada del ajedrez en nuestras aulas. La verdad es que hemos disfrutado mucho trabajando con ellos durante todo el año y esperemos que disfrutéis tanto sus respuestas como nosotros.&lt;/p&gt;
+
+&lt;p&gt;Los docente que se han atrevido con la entrevista han sido:&lt;/p&gt;
+
+&lt;p&gt;Desde el colegio Félix Grande, donde el ajedrez ha ocupado una hora semanal en el horario lectivo de matématicas de los alumnos de 5º de primaria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;José Ramón Rodrigo.&lt;/li&gt;
+&lt;li&gt;Javier Cepeda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Desde el colegio Doña Crisanta, donde este año se ha trabajado el ajedrez como asignatura extraescolar:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Charo Hernández.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Desde el colegio San Isidro, donde el ajedrez se ha integrado en el horario lectivo de matemáticas una hora semanal con 5º de primaria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Emi Alarcón&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Desde el instituto I.E.S.Airen, donde los alumnos de 1º ESO han disfrutado este último trimestre de la introducción del ajedrez en secundaria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Yolanda Pérez.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;¡Vamos con la entrevista!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Desde el club de ajedrez hemos tenido un año lleno de grandes proyectos en los diferentes centros educativos de Tomelloso. El proyecto angular del Félix Grande se ha ampliado a colegios como el San Isidro e incluso este año hemos llegado a la enseñanza secundaria en el instituto Airen. Doña Crisanta y Cervantes se han apuntado como extraescolar al juego de las 64 casillas y también hemos tenido colegios que han querido dar clases de ajedrez pero por términos de viabilidad no han podido llevarse a cabo. Hemos aprendido mucho de todos los docentes con los que hemos trabajado y por ello, queremos seguir en esa línea, aprendiendo de los profesionales de la educación; este es un de los principales motivos de esta entrevista.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/sanisidro.jpg&#34; alt=&#34;Colegio San Isidro&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; La primera pregunta me vais a permitir hacerla sobre ajedrez, antes de que entremos en el tema educativo. Creo que la sociedad hoy en día tiene visiones distintas sobre este juego/deporte por ello:
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;1-qué-es-para-vosotros-el-ajedrez&#34;&gt;1. ¿Qué es para vosotros el ajedrez?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Yo tengo un conocimiento del ajedrez a nivel de principiante. Mi padre me enseñó a jugar cuando era pequeño y echo alguna partida de vez en cuando. Pero, pese a lo poco que sé, siempre he pensado que es mucho más que un juego de mesa y como maestro, soy de los convencidos de sus enormes posibilidades en la educación.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Un juego divertido muy educativo que mejora capacidades matemáticas, la concentración, nociones espacial&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Juego de estrategia que consiste en derrocar al rey que posee el adversario. Para llegar a ello es necesario el desarrollo de unas estrategias mentales que serán de gran ayuda para otras situaciones de la vida diaria.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: Es un juego de reflexión, estrategia, disciplina en el que considero que se desarrolla la lógica matemática.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: Pues es un juego de mesa muy completo que desarrolla (como muy bien expusisteis en la primera clase) multitud de aptitudes mentales. Lo considero muy positivo en innumerables aspectos, más aún hoy en día con la diversidad de aficiones tan negativas que acaban embaucando a nuestros chicos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/partidas1.jpg&#34; alt=&#34;Partidas en el I.E.S.Airen&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; Supongo que si os hubiera hecho esta pregunta al principio del curso, vuestra opinión al respecto del ajedrez habría sido diferente o quizás no:
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;2-ha-cambiado-vuestro-contacto-con-el-club-de-ajedrez-tomelloso-vuestra-visión-del-ajedrez-si-es-así-en-que-sentido-qué-experiencias-habíais-tenido-con-el-ajedrez-aparte-de-este-curso&#34;&gt;2. ¿Ha cambiado vuestro contacto con el Club de Ajedrez Tomelloso vuestra visión del ajedrez? Si es así, ¿en que sentido? ¿Qué experiencias habíais tenido con el ajedrez aparte de este curso?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Ha confirmado lo que te he dicho antes. He podido comprobar cómo mis alumnos ponían en juego muchas capacidades gracias a la práctica del ajedrez. Ahora puedo asegurar por que he visto sus resultados en dos grupos de alumnos distintos en dos cursos distintos que  lo que antes era un convencimiento teórico lo he constatatado en la práctica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Jugué al ajedrez desde pequeño, con mi abuelo, en la escuela y creía conocer su dinámica y sus beneficios. Lo más positivo es la programación propuesta y el carácter interactivo del mismo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Tengo que agradecer a Eduardo el que viniera a nuestro centro el curso pasado y trajera el ajedrez a nuestras aulas, aunque sea como actividad extraescolar. A través de él hemos podido conocer de primera mano el Club de Ajedrez Tomelloso y poder pasar a formar parte con la participación de algunos de nuestros alumnos, del mismo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: En mi caso conocía la existencia del Club de Ajedrez porque los hijos de algunos amigos con miembros pero nunca habíamos contactado con ellos desde el colegio. También debo decir que el profesor de Educación Física todos los años organiza un campeonato de ajedrez a nivel interno en el que participan todos los alumnos que lo desean.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: No ha cambiado mi visión del ajedrez pero sí me ha hecho ver la posibilidad de incluirlo como herramienta en mi área.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; Cuando se dan clases de ajedrez en el colegio, el objetivo del club no es crear grandes campeones de ajedrez. No queremos grandes maestros como Kasparov o Carslen, el objetivo es mostrar el mundo de posibilidades que puede ofrecer este juego en el desarrollo de la mente en los alumnos.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/interescolar.jpg&#34; alt=&#34;Interescolar&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-qué-beneficios-pensáis-que-puede-aportar-el-ajedrez-en-los-alumnos-cuáles-son-las-aptitudes-que-mejora&#34;&gt;3. ¿Qué beneficios pensáis que puede aportar el ajedrez en los alumnos? ¿Cuáles son las aptitudes que mejora?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Pues incide en la creatividad, ayuda a desarrollar la capacidad de abstracción, a analizar diferentes alternativas antes de tomar una decisión, es útil para desarrollar estrategias para resolver problemas. Está claro que es muy útil en matemáticas, eso es lo más visible pero también en el desarrollo del lenguaje, es una actividad motivadora, exige atención, concentración&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: mejorar la atención y la concentración, el trabajo de contenidos matemáticos (ejes de coordenadas, operaciones, &amp;hellip;), orientación espacial, enseñanza del concepto táctica y valores como  esfuerzo, ayuda entre piezas, valor de piezas en el juego y su aplicación a la vida real&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Hoy en día hay una gran variedad de juegos que permiten poner de relieve las actitudes físicas de los alumnos pero no se da importancia a otros deportes o juegos que desarrollan otras capacidades como las mentales y que complementan a las anteriores. Creo que el ajedrez debería de formar parte del área de las matemáticas ya que mejora la capacidad para resolver problemas, mejora las habilidades lectoras, de lenguaje, matemáticas y memorísticas y desarrolla un pensamiento creativo y original.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: Nos parece muy beneficioso el ajedrez porque pensamos que desarrolla la lógica en nuestros alumnos y esto les ayuda especialmente, en el área de matemáticas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: Pues son muchos los beneficios que puede aportar como ya hemos comentando y como muchos estudios muestran, pero personalmente destaco el desarrollo de la concentración, de la memoria, de la capacidad visual y de la sociabilización.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/concentracion.JPG&#34; alt=&#34;Concentración&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-qué-asignaturas-creéis-que-se-ven-beneficiadas-de-su-práctica&#34;&gt;4. ¿Qué asignaturas creéis que se ven beneficiadas de su práctica?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Ya lo he respondido en la pregunta anterior pero puedo añadir que también es útil en el dibujo líneal, en las ciencias sociales, en competencias que contribuyen al desarrollo personal, al esfuerzo, requiere ser disciplinado, tener capacidad de anticipación&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Matemáticas, educación en valores, lenguaje, ciencias sociales y educación física.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>El ajedrez en las aulas del I.E.S. Airen de Tomelloso </title>
-      <link>http://www.ajedreztomelloso.com/post/airen/</link>
+      <link>https://ajedreztomelloso.github.io/post/Airen/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/airen/</guid>
-      <description>La primera cita del Club Ajedrez Tomelloso con la enseñanza secundaria fue en el aula 4ª del I.E.S. Airén de Tomelloso, se produjo la mañana soleada del 24 de abril de 2017. Todavía en nuestra memoria el recital poético de sus alumnos y profesores en el Auditorio López Torres. Acompañados con el celo, el piano y el saxo, el niño yuntero, las nanas de la cebolla y el compañero del alma de Miguel Hernández parecían mas reales si cabe.</description>
+      <guid>https://ajedreztomelloso.github.io/post/Airen/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen9.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&#34;paralelhist&#34;&gt;
+  &lt;p&gt;La primera cita del Club Ajedrez Tomelloso con la enseñanza secundaria fue en el aula 4ª del I.E.S. Airén de Tomelloso, se produjo la mañana soleada del 24 de abril de 2017. Todavía en nuestra memoria el recital poético de sus alumnos y profesores en el Auditorio López Torres. Acompañados con el celo, el piano y el saxo, el &lt;strong&gt;&lt;em&gt;niño yuntero&lt;/em&gt;&lt;/strong&gt;, las &lt;strong&gt;&lt;em&gt;nanas de la cebolla&lt;/em&gt;&lt;/strong&gt; y el &lt;strong&gt;&lt;em&gt;compañero del alma&lt;/em&gt;&lt;/strong&gt; de Miguel Hernández parecían mas reales si cabe.&lt;/p&gt;
+
+  &lt;cite&gt;&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;quote-rigth&#34;&gt;
+  &lt;p&gt;Lo que conoces&lt;/p&gt;
+
+&lt;p&gt;es tan poco&lt;/p&gt;
+
+&lt;p&gt;lo que conoces&lt;/p&gt;
+
+&lt;p&gt;de mí&lt;/p&gt;
+
+&lt;p&gt;lo que conoces&lt;/p&gt;
+
+&lt;p&gt;son mis nubes&lt;/p&gt;
+
+&lt;p&gt;son mis silencios&lt;/p&gt;
+
+&lt;p&gt;son mis gestos&lt;/p&gt;
+
+&lt;p&gt;lo que conoces&lt;/p&gt;
+
+&lt;p&gt;es la tristeza&lt;/p&gt;
+
+&lt;p&gt;de mi casa vista de afuera&lt;/p&gt;
+
+&lt;p&gt;son los postigos de mi tristeza&lt;/p&gt;
+
+&lt;p&gt;el llamador de mi tristeza.&lt;/p&gt;
+
+  &lt;cite&gt;(Es tan poco) Mario Beneddetti.&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Con el beneplácito de su director José Antonio Espinosa, la ayuda técnica inestimable de Jesús Gallardo y la generosidad de sus profesores de Matemáticas, Yolanda Pérez y Ángel Vela, que nos han cedido amablemente espacio y tiempo de una de sus clases semanales a los cinco primeros cursos de E.S.O. intentamos introducir el cosmos de las sesenta y cuatro casillas escaqueadas en las mentes de los casi cien alumnos que asistirán a seis sesiones escalonadas en este último trimestre escolar.&lt;/p&gt;
+
+&lt;p&gt;El ajedrez no solo aporta aptitudes en matemáticas, según varios estudios incrementa la comprensión lectora, facilita la concentración y enseña a planificar y a hacer previsiones; pero el más importante de sus beneficios es la mejora en la toma de decisiones, ya que en un mundo en el que los alumnos se enfrentarán a decisiones difíciles en sus estudios, un buen manejo de las mismas es fundamental. Y son conscientes de ello ya que en el particular &amp;ldquo;Twitter&amp;rdquo; que tienen montado en una de las paredes del centro pudimos leer en puño y letra de uno de los alumnos:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen3.png&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&#34;paralelhist&#34;&gt;
+  &lt;p&gt;El club Ajedrez Tomelloso y la enseñanza secundaria, caminaban de la mano, las mañanas de los lunes, por los escalones de ascenso al aula cuatro, los libros en el costado la prisa en las zapatillas de deporte.&lt;/p&gt;
+
+  &lt;cite&gt;&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;quote-rigth&#34;&gt;
+  &lt;p&gt;su sonrisa    &lt;strong&gt;&lt;em&gt;la de ella&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;era como un augurio o una fábula&lt;/p&gt;
+
+&lt;p&gt;su mirada     &lt;strong&gt;&lt;em&gt;la de él&lt;/em&gt;&lt;/strong&gt;   tomaba nota&lt;/p&gt;
+
+&lt;p&gt;de como eran sus ojos    &lt;strong&gt;&lt;em&gt;los de ella&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;pero sus palabras        &lt;strong&gt;&lt;em&gt;las de él&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;no se enteraban de esa dulce encuesta.&lt;/p&gt;
+
+  &lt;cite&gt;(Los formales y el frío) Mario Benedetti.&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Con un sencillo formato, texto e imagenes introductorias, reflejadas en la pizarra digital de la &lt;strong&gt;&lt;em&gt;leyenda del tablero de ajedrez y los granos de trigo&lt;/em&gt;&lt;/strong&gt;, algunos datos biográficos de varios campeones del mundo, que los propios alumnos leían en voz alta, seguido de una clase interactiva sobre el tablero y sus coordenadas, piezas, movimientos, desarrollo y actividad de las propias fuerzas, la mística de la coronación del peón, patrones mas comunes de mate y una pequeña introducción a procedimientos tácticos, ataque doble, clavadas, descubiertas siempre con resolución de ejercicios en el tablero táctil y para cerrar quince minutos de práctica diaria con tablero y piezas reales por parejas, hemos querido atraer la atención y despertar la curiosidad de estos primerizos estudiantes de enseñanza superior.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen1.png&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Estas mismas reglas que presiden una de las paredes del aula 4ª son aplicables tanto en las matemáticas, en el juego del ajedrez, como en la vida misma. &amp;ldquo;No te asustes, no te rindas, tómate tu tiempo y confía en ti mismo.&amp;rdquo; El objetivo del proyecto no es crear grandes campeones como Kasparov o Carslen, sino que se quiere &lt;strong&gt;introducir a través de la emoción, el juego como herramienta para el aprendizaje&lt;/strong&gt;. Poner de relieve como el ajedrez puede ayudar a desarrollar capacidades intelectuales dando otro punto de vista al alumno.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/partidas2.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&#34;paralelhist&#34;&gt;
+  &lt;p&gt;El club Ajedrez Tomelloso y la enseñanza secundaria se hablaban en silencio en las lentas esperas de los recreos refugiados en la sombra de los casi veinticinco años de historia de este I.E.S. Airen, por donde en otro tiempo iniciara su jornada pastoril el abuelo &amp;ldquo;Palancas&amp;rdquo;.&lt;/p&gt;
+
+  &lt;cite&gt;&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;quote-rigth&#34;&gt;
+  &lt;p&gt;Pero no sabes&lt;/p&gt;
+
+&lt;p&gt;nada&lt;/p&gt;
+
+&lt;p&gt;a lo sumo&lt;/p&gt;
+
+&lt;p&gt;piensas a veces&lt;/p&gt;
+
+&lt;p&gt;que es tan poco&lt;/p&gt;
+
+&lt;p&gt;lo que conozco&lt;/p&gt;
+
+&lt;p&gt;de ti&lt;/p&gt;
+
+&lt;p&gt;lo que conozco&lt;/p&gt;
+
+&lt;p&gt;o sea tus nubes&lt;/p&gt;
+
+&lt;p&gt;o tus silencios&lt;/p&gt;
+
+&lt;p&gt;o tus gestos&lt;/p&gt;
+
+&lt;p&gt;lo que conozco&lt;/p&gt;
+
+&lt;p&gt;es la tristeza&lt;/p&gt;
+
+&lt;p&gt;de tu casa vista de afuera&lt;/p&gt;
+
+&lt;p&gt;son los postigos de tu tristeza&lt;/p&gt;
+
+&lt;p&gt;el llamador de tu tristeza.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pero no llamas.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pero no llamo.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;cite&gt;(Es tan poco) Mario Benedetti&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen5.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La hora de matemáticas reemplazada por una hora del juego de las 64 casillas en el que la concentración, la memoria y el pensamiento analítico son las lecciones que se imparten jugando, esta calando de forma favorable entre el alumnado. Las anécdotas comentadas están teniendo buena acogida, tal que Ruy-López fuera consejero personal de Felipe II, la amistad recíproca de Emmanuel Lasker y Albert Einstein, el activismo político de Garry Kasparov frente al gobierno de Putin, el fervor madridista en el Bernabéu de Magnus Carlsen&amp;hellip; pero quizás lo que más nos ha sorprendido es el interés despertado por la reproducción comentada de &amp;ldquo;la siempreviva&amp;rdquo; una partida de ajedrez jugada en 1852 entre Anderssen y Dufresne. Hemos visto alumnos desprenderse del pesado letargo somnoliento de la primera hora de clase, incorporándose sobre el pupitre para disfrutar de la  bella combinación ganadora del profesor de matemáticas alemán, plagada de clavadas, descubiertas y sacrificios al más puro estilo romántico de la época.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/airen4.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&#34;paralelhist&#34;&gt;
+  &lt;p&gt;El club Ajedrez Tomelloso y la enseñanza secundaria descubren juntos al final de cada jornada que el milagro de la educación se produce todos los días, en los pasillos, en los despachos, en las aulas, en las conversaciones, en los silencios, en los gestos, en los proyectos, en las ideas, de este instituto con nombre  de variedad de uva blanca, siempre bajo la dirección silenciosa de unos excelentes profesionales.&lt;/p&gt;
+
+  &lt;cite&gt;&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;quote-rigth&#34;&gt;
+  &lt;p&gt;cuando llegaron a su casa &lt;strong&gt;&lt;em&gt;la de ella&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ya el frío estaba en sus labios &lt;strong&gt;&lt;em&gt;los de él&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;de modo que &lt;strong&gt;&lt;em&gt;ella&lt;/em&gt;&lt;/strong&gt; fábula y augurio&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;le&lt;/em&gt;&lt;/strong&gt; dio refugio y café instantáneos&lt;/p&gt;
+
+  &lt;cite&gt;(Los formales y el frío)Mario Benedetti&lt;/cite&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;La última sesión rememoró la reciente historia local, reviviendo la partida que un alumno de este centro, José Perales Patón, ganara en el campeonato de España de equipos sub-16 en Benidorm 2015, permitiendo que este club entrara por primera vez en el  top ten nacional de esta categoría.&lt;/p&gt;
+
+&lt;p&gt;Los profesores se han sorprendido del interés de todos los escolares en la actividad, ya que en general se han adaptado muy bien a la metodología del curso. La pizarra digital junto con la introducción histórica realizada al principio de cada sesión han enganchado a unos alumnos que ahora quieren derrotar a su rey enemigo a base de horquillas y ataques dobles.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/partidas1.jpg&#34; alt=&#34;torneo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esperamos que todos se queden con la idea que nuestro club quiere aportar a todos los estudiantes y se ha convertido en la frase de nuestros ajedrecistas: &amp;ldquo;Nos gusta pensar&amp;rdquo;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Clase de Ajedrez</title>
-      <link>http://www.ajedreztomelloso.com/post/claseajedrez/</link>
+      <link>https://ajedreztomelloso.github.io/post/claseajedrez/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/claseajedrez/</guid>
-      <description>Javier era un niño de siete años, alumno del CEIP Félix Grande de Tomelloso (C.Real). Asistía a clases de ajedrez en el aula Althia de este colegio los martes y jueves de 16 a 17 horas. Tenía una forma muy particular de concentrarse&amp;hellip;
-El monitor repasaba mentalmente los contenidos de su próxima sesión, mientras caminaba por la acera del Sol, Carrera San Jerónimo abajo: “los críos exigen lo mejor, sino se rebelan”.</description>
+      <guid>https://ajedreztomelloso.github.io/post/claseajedrez/</guid>
+      <description>&lt;p&gt;Javier era un niño de siete años, alumno del CEIP Félix Grande de Tomelloso (C.Real). Asistía a clases de ajedrez en el aula Althia de este colegio los martes y jueves de 16 a 17 horas. Tenía una forma muy particular de concentrarse&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/claseajedrez/javier.jpg&#34; alt=&#34;javier&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;El monitor repasaba mentalmente los contenidos de su próxima sesión, mientras caminaba por la acera del Sol, Carrera San Jerónimo abajo: “los críos exigen lo mejor, sino se rebelan”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gonzalo era un chico delgado, un poco rubio; pero de mente muy despierta. El ajedrez llamaba su atención. Veía en las piezas algo más que trozos de madera, en su mente eran pura energía.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;El profesor de educación física de un prestigioso centro estaría de oyente en la clase de hoy. Quería aplicarlo en su colegio ahora que se estaba poniendo de moda. “Esto del ajedrez dicen que enseña a pensar. En mis tiempos con un tirón de orejas nos espabilaban de golpe&amp;hellip; ¿Seguro que hace falta un jugador de ajedrez para enseñar el juego? ¿No es demasiado fácil?”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/claseajedrez/beafcogonzalo.jpg&#34; alt=&#34;clase&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Beatriz era pequeña pero deslumbrante en su conversación. Le encantaba combinar y dar caza al rey. A veces parecía que hablaba con sus piezas y éstas eran capaces de decirle lo que necesitaban.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;La sala era luminosa, contaba con doce ordenadores, un encerado verde con tizas blancas, una pizarra digital a la que apuntaba un proyector y lo más importante unos amplios ventanales que miraban descaradamente al campo manchego.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Francisco era inquieto; empezó con el balompié pero lo dejó el pasado año. Le encantaban los alfiles y las torres para dominar diagonales y columnas por donde conducir sus ataques.&lt;/p&gt;
+
+&lt;p&gt;El más jovencillo era Marino, seis años de rebeldía constante. Era capaz de pasear la dama por el tablero en busca del rey enemigo trabajando en equipo con sus saltarines caballos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;El grupo de cinco niños, escuchaba con atención las explicaciones de su monitor sobre: control del centro, columnas abiertas, dominio de casillas blancas, pareja de alfiles, puesto avanzado, ataques dobles, enfiladas, cálculo de variantes&amp;hellip;; mientras ligeros bostezos se escapaban del cuerpo del profesor de educación física.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Era diciembre, la tarde languidecía a través de los cristales...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;De momento todo cobró nuevos ánimos; por la pizarra digital empezaron a desfilar problemas de mate en dos que los chicos resolvían con relativa facilidad, hasta el preceptor visitante se atrevía a resolverlos mentalmente.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pero hubo uno que detuvo el ritmo de soluciones rápidas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/claseajedrez/problema.jpg&#34; alt=&#34;problema&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;-Bien chicos, llegó el momento de pensar con calma.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Pensar, pensar con siete años&amp;hellip; si yo tuviera su edad me dedicaría a jugar&amp;hellip; al fútbol si fuera posible” en su foro interno cada un defendía lo suyo.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-Profe, profe ¿Qué significa pensar?&lt;/p&gt;
+
+&lt;p&gt;-Bueno es algo así como dejar pasar las ideas que aparecen en nuestra cabecita, hasta que llegue una que nos haga una señal muy especial. La jugada está ahí, pero tenéis que verla.&lt;/p&gt;
+
+&lt;p&gt;Javier observaba el diagrama mordiéndose con suavidad su dedo pulgar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nadie parecía dar con la solución, así que el monitor sugirió una pista:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-Creo que es necesario un sacrificio.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-Profe, profe ¿Qué es un sacrificio?&lt;/p&gt;
+
+&lt;p&gt;-El jaque mate al rey es más importante que la ventaja de material. Abrid vuestra mente, buscad mas allá de lo aparente y convencional. Perded algo valioso para conseguir la victoria.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/claseajedrez/fcomarino.jpg&#34; alt=&#34;alumnos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Francisco y Javier se acercaron a la pizarra digital. El primero movió la torre blanca a la casilla a6, el programa  la capturó con el peón, y el segundo ejecutó un nuevo avance de la infantería a b7 dejando a las negras en jaque mate. Los asistentes de la sala dibujaron una sonrisa en su rostro. El sacrificio de la torre abría el camino para que el peón pudiera ganar la partida. Un capricho en el destino del rey negro, al cual se le habían acabado las opciones.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-Bien Javier, excelente Francisco, muy bien. Chicos, por hoy se acabó, hasta el próximo día.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;El docente invitado no podía creer el desenlace de la posición y como la combinación había sido ejecutada por dos de los alumnos que ni siquiera llegaban a la casilla a6 con la mano, por lo que tuvieron que subirse a la silla para arrastrar la torre hasta su mejor casilla y mas tarde mover el peón ganador.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La salida de clase fue de una gran turbulencia y estruendo. Uno de los pequeños que resolvieron se dirigió al encerado para escribir una frase que acabó subrayando.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Carrera de San Jerónimo arriba, sin luz solar apenas, el monitor repasaba los aciertos de sus alumnos. Una sonrisa iluminó su cara al recordar la frase escrita con tiza por Javier:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Nos gusta pensar”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ángel Luis López Barrios.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Edades 2017 Final</title>
-      <link>http://www.ajedreztomelloso.com/post/edades2017final/</link>
+      <link>https://ajedreztomelloso.github.io/post/Edades2017Final/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/edades2017final/</guid>
-      <description>La última partida se estaba disputando. Un final de Damas con cinco peones por bando. Parecía una fotografía de la historia del ajedrez, Santiago Benito (Tomelloso) y Julio Mérida (N.A. en Europa), concentrados en la posición y rodeados de espectadores tratando de adivinar el desenlace.
-En la pared adyacente colgaba ya la clasificación del sub-8 con la pareja Javier Rosado y Beatriz Jiménez en lo mas alto. En la memoria reciente sus rápidas combinaciones de mate, casi sin tiempo para anotarlas.</description>
+      <guid>https://ajedreztomelloso.github.io/post/Edades2017Final/</guid>
+      <description>&lt;p&gt;La última partida se estaba disputando. Un final de Damas con cinco peones por bando. Parecía una fotografía de la historia del ajedrez, Santiago Benito (Tomelloso) y Julio Mérida (N.A. en Europa), concentrados en la posición y rodeados de espectadores tratando de adivinar el desenlace.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/ultimapartida.jpg&#34; alt=&#34;ultimapartida&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;En la pared adyacente colgaba ya la clasificación del sub-8 con la pareja Javier Rosado y Beatriz Jiménez en lo mas alto. En la memoria reciente sus rápidas combinaciones de mate, casi sin tiempo para anotarlas. Entre los diez primeros Francisco Javier Martínez y Gonzalo Lahoz, desarrollano buen juego. Buen debut para Roberto Lahoz y Marino Domínguez con 3.5 puntos,  Irene Palacios con 2.5 tercera clasificada femenina, con dos Samuel Jiménez&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/sub8.jpg&#34; alt=&#34;sub8&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Los relojes marcaban poco mas de un minuto para cada jugador. Santi tenía mayoría en el flanco de dama, Julio en el opuesto. Quizás lo mas desnivelado era la tensión interna, la agitación nerviosa que se reflejaba en sus rostros.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/juan.jpg&#34; alt=&#34;juan&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unos padres, móvil en mano, comentaban que Santiago David (Valdepeñas) había ganado todas sus partidas, y que un chico de Zugzwang (Antonio González) quedó segundo. Sobre la pista polideportiva, Juan Jiménez  (Tomelloso) jugaba al fútbol con el mismo ímpetu, competitividad y deseos de victoria que había hecho en los tableros, minutos antes, para conseguir ese tercer puesto de gran valor visto el nivel de la competición. La cancha estaba poblada de chaquetas azules, Manuel Soto y Álvaro Navarro quinto y séptimo respectivamente con 5 puntos, Alecsandru Stefan, Miguel Valverde, David Serrano en mitad de la tabla con el 50% de la puntuación, los primerizos Rafael Castellanos (3) y Rodrigo Beltrán (1). Nuestras chicas, Adriana Domínguez (tercera clasificada femenina con 4 puntos) y Sofía González (debutante este año) seguían sus evoluciones con el balón, de lejos, un poco escépticas.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/sub10.png&#34; alt=&#34;sub10&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El jugador de Tomelloso propuso un cambio de peones en g4 que el de Alcazar aceptó de inmediato. El tiempo parecía consumirse en los relojes, pero gracias al incremento, resurgía y daba nuevos aires a la partida.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/futbol.jpg&#34; alt=&#34;futbol&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;El árbitro principal, pidió silencio una vez mas; se comentaba en voz baja que en la última ronda del sub-12, Mario Garrido (C.Real), había defendido muy bien el amenzador ataque en séptima fila que le plantearon, consiguiendo el título de la categoría; que Jesús Lozano (Los Molinos) con su último triunfo se aseguraba el subcampeonato, y que Pablo García, tras enormes sufrimientos por el despliegue de la cadena de peones de Nuria Lozano (campeona femenina), consiguió envolver en red de mate al monarca de la alcazareña y acceder al  podium en sus primeros provinciales. En círculos más locales, se hablaba de la excelente partida disputada entre los tomelloseros Miguel Castro (4º) y Raúl Navarro (6º) en la quinta ronda: Ataque de Miguel en flanco de dama, apoyado por su agresiva pareja de alfiles. Inteligente cambio de damas de Raúl, que les lleva a un final cerrado con ligera ventaja para los caballos de Navarro, consiguiendo un peón pasado muy peligroso. Tras un lapsus de su rival, Castro consigue eliminar la amenaza y contratacar consiguiendo la victoria. Excelente partida entre dos buenos jugadores. Sergio Belda, siempre en la brecha, conseguía la quinta posición con 4 puntos. Vicente Rosado y Marta Jiménez (subcampeona femenina) cerraban el top ten con medio punto menos. Álvaro Moreno con tres, Arturo García, David Jiménez con dos y Miguel Piña con uno forman el resto de nuestra escuadra de menos de 12 años.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/pablo.jpg&#34; alt=&#34;pablo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Santiago Benito siente la mirada observadora de su pequeño alumno Marino y opta por avanzar su infantería en el flanco de dama. Julio busca una acción decisiva con su rey avanzando algunas casillas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aún quedan restos de la encarnizada lucha mantenida en la primera mesa  entre Álvaro Ramírez y Jorge Rodrigo por la primera posición del sub-14. El primero, con calidad de ventaja evita con serenidad las múltiples amenazas que le lanza el segundo apoyado en sus dos peones de compensación. Jorge lo intentó poniendo toda su agresividad en cada jugada, pero el empate puso fin a la dura batalla, consiguiendo el tercer puesto. Álvaro, apoyado en el buen trabajo que viene realizando de estudio y aprendizaje ha conseguido dominar la categoría con autoridad, como ya lo hiciera hace dos años. José Manuel Merlo (Los Molinos) sería el subcampeón. Jesús Redondo en notable progreso octavo con 3,5 puntos y Pedro González con 2.5 cerraba participación tomellosera&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/alvarojorge.jpg&#34; alt=&#34;alvarojorge&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todo el material, tableros, piezas, relojes estaba recogido en un rincón de la sala cuando Santiago hizo la última jugada, De5 jaque mate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/partida.jpg&#34; alt=&#34;partida&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Martín Torres miembro de la escuela de Infantes Zugzwang, se proclamó campeón sub-16 tras su triunfo sobre el segundo clasificado Carlos Martínez (C.Real) empatados ambos con nuestro jugador Santiago Benito (tercero) a 5 puntos. Raúl Moreno con notable mejoría en su juego quedaría cuarto con 4 puntos, José Perales noveno con la mitad de la puntuación posible y Emilio José Mena con dos puntos en duodecima posición.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Edades2017Final/sub16.jpg&#34; alt=&#34;sub16&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El jugador de Tomelloso paró el reloj y ofreció la mano a su rival. Ante todo deportividad y compañerismo. Su estrechamiento fue el último acto de este evento provincial.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier Valdepeñas dominó de principio a fin la categoría superior cediendo solo dos tablas. Esther Ruiz clasificada tercera fue la campeona femenina y los nuestros Miguel Perales y Juan Jiménez con tres puntos se situaron en mitad de la tabla,cerrando la participación de nuestro club Javier Órtiz Guzmán.&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Peón P&#39;alante</title>
-      <link>http://www.ajedreztomelloso.com/post/peonpalante/</link>
+      <link>https://ajedreztomelloso.github.io/post/peonpalante/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/peonpalante/</guid>
-      <description>En estos momentos no se si es mejor retroceder con la dama, intentar proteger al rey o buscar jaque con caballo&amp;hellip;, la verdad es que no tengo ni idea.
- Veo la partida con expectación, analizo los posibles movimientos que pueden hacer ambos jugadores, siempre con el interés particular en que salga victorioso solo uno de ellos, procurando desde unos cinco metros de distancia dar fuerza moral -si la verdad sirve de algo en este deporte- ya que nada más puedo aportar desde la distancia, ni quiero, pues la verdad es que no tengo ni idea.</description>
+      <guid>https://ajedreztomelloso.github.io/post/peonpalante/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;En estos momentos no se si es mejor retroceder con la dama, intentar proteger al rey o buscar jaque con caballo&amp;hellip;, la verdad es que no tengo ni idea.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Veo la partida con expectación, analizo los posibles movimientos que pueden hacer ambos jugadores, siempre con el interés particular en que salga victorioso solo uno de ellos, procurando desde unos cinco metros de distancia dar fuerza moral -si la verdad sirve de algo en este deporte- ya que nada más puedo aportar desde la distancia, ni quiero, pues la verdad es que no tengo ni idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/peonpalante/padrehijo.jpg&#34; alt=&#34;padreehijo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cuando mi hijo con seis años me decía &lt;strong&gt;&amp;ldquo;papá vamos a jugar al ajedrez&amp;hellip;&amp;rdquo;&lt;/strong&gt; rápidamente admitía el reto, nos sentábamos delante del tablero a mover piezas como sabíamos y con los pocos conocimientos que en esa edad él conocía (pues yo mantengo los mismos), las partidas resultaban reñidas y casi siempre yo salía victorioso, lo cual me dejaba en una posición superior, la propia del adulto que intenta demostrar a su hijo lo que se aprende con el tiempo y que la experiencia es un grado en todas las facetas de la vida, incluido el ajedrez.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Esta posición de tablero nº 1 de mi casa me duró poco, pues pude comprobar como el aspirante cada vez aprendía más rápido, y cada vez que jugábamos me vendía más difícil su derrota,hasta que llegó el día en que el aspirante alcanzo -de forma meritoria- el trono ajedrecístico de mi hogar, haciéndose dueño y señor del mismo de forma definitiva.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/peonpalante/alvaro.jpg&#34; alt=&#34;alvaro&#34; /&gt;
+Actualmente, hay siempre un tablero en casa con las piezas en posición para iniciar partida, o para continuar la que ya tiene iniciada, y a la pregunta: &lt;strong&gt;&lt;em&gt;¿jugamos una?&lt;/em&gt;&lt;/strong&gt;, siempre tengo la excusa de algún quehacer pendiente que me libra de una segura derrota.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;¡¡¡Tendría que aprender a jugar!!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pero no solo a saber mover las piezas, que eso ya puedo afirmar que sí, aunque con poco rigor estratégico; de hecho cuando me pregunta que apertura has utilizado, siempre le contesto: *&lt;strong&gt;¡¡ pues la mía, la que mejor se hacer&amp;hellip;, peón p&amp;rsquo;alante!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yo he sido siempre mas del &lt;strong&gt;4-4-2&lt;/strong&gt;, e incluso a veces me ha gustado &lt;strong&gt;la defensa de 3&lt;/strong&gt; con la finalidad de que los laterales sean auténticos extremos&amp;hellip;, pero realmente dicha estrategia no se traducirla en el ajedrez; por tanto, mientras no aprenda otro posicionamiento o apertura, creo que mantendré la que ya conozco, y no es que me vaya realmente bien, pero soy de hábitos fijos que no suelo modificar a menudo, por lo que mantendré mi peón como apertura y que sea lo que Dios quiera.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Por cierto, &amp;hellip;, en la última partida que jugamos se me debió aparecer la Virgen, y conseguí unas meritorias tablas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Paco Ramírez&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Bienvenidos a la nueva Web</title>
-      <link>http://www.ajedreztomelloso.com/post/bienvenida/</link>
+      <link>https://ajedreztomelloso.github.io/post/bienvenida/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/bienvenida/</guid>
-      <description>Como cuentan las crónicas &amp;ldquo;Corría el año 2000, cuando Juan Carlos Domínguez, profesor de Matemáticas, fuerte jugador de ajedrez y recién llegado a Tomelloso, comienza a impartir clases del juego-ciencia a chavales de esta localidad de una manera más o menos metódica. Así nació este club o mejor dicho su nueva etapa en el correr de los tiempos.
-El Club Ajedrez Tomelloso tuvo una infancia feliz y tranquila, aprendiendo siempre de sus mayores.</description>
+      <guid>https://ajedreztomelloso.github.io/post/bienvenida/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/juacarlos.jpg&#34; alt=&#34;juancarlos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Como cuentan las crónicas &lt;strong&gt;&amp;ldquo;Corría el año 2000, cuando Juan Carlos Domínguez, profesor de Matemáticas, fuerte jugador de ajedrez y recién llegado a Tomelloso, comienza a impartir clases del juego-ciencia a chavales de esta localidad de una manera más o menos metódica&lt;/strong&gt;. Así nació este club o mejor dicho su nueva etapa en el correr de los tiempos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/clara.JPG&#34; alt=&#34;clara&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El Club Ajedrez Tomelloso tuvo una infancia feliz y tranquila, aprendiendo siempre de sus mayores. La incorporación a sus filas de los maños Alberto Martínez y Mari Ángeles Sancho formó un equipo con los cadetes de entonces Ángel Carlos López, Miguel Ángel Lomas y Rubén Cañas, liderado por un intratable Juan Carlos Domínguez que conquistó la tercera plaza de aquellos regionales por equipos de 2003 donde Caimu dominaba la región con los maestros en sus filas.&lt;/p&gt;
+
+&lt;p&gt;Bajo los auspicios de su presidente Ángel Luis López &lt;strong&gt;se dió a conocer a nivel provincial y regional&lt;/strong&gt; el nombre de Tomelloso en el ajedrez, consiguiendo algunos títulos autonómicos por parte de los jugadores sub. Eduardo López inaguró las vitrinas de los regionales de nuestro club en 2006 para abrir paso a los demás títulos que vendrían después. Clara López Temprano se convertiría en una de las reinas de estos regionales llegando a obtener el título a mejor deportista femenina tomellosera en la Gala del Deporte Local.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/3equipos2003.JPG&#34; alt=&#34;fergos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Algunos de sus jugadores tuvieron que emigrar hacia otro club que resurgía con fuerzas renovadas, Talavera. Acogidos por uno de los grandes del AJEDREZ, D.Carlos García Linares, al que nunca dejaremos estar agradecidos, los nuestros acabaron de formarse personal y deportivamente.&lt;/p&gt;
+
+&lt;p&gt;En su pubertad, este club, muy bien asesorado por el nuevo presidente Juan José Losa, lograría consolidar uno de los torneos mas emblemáticos que se recuerdan, &lt;strong&gt;C.V. FERGOS.&lt;/strong&gt;, y asombrar a toda Castilla La Mancha con &lt;strong&gt;la organización tremendamente solidaria del más divertido, ameno e innovador Regional por Edades&lt;/strong&gt; de los últimos tiempos, disputado como no en nuestra localidad.&lt;/p&gt;
+
+&lt;p&gt;Las nuevas generaciones de pequeños tomelloseras volvieron a conquistar regionales. Raúl Moreno Valero conquistó el regional en casa y Juan José Losa Ordoñez también obtuvo la corona en Albacete.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/juanjo.JPG&#34; alt=&#34;fergos&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nuestro club se hizo un poco mayor hace un par de años cuando el primer docente y varios de sus primeros alumnos decidieron asociarse de nuevo para hacer un equipo (con el refuerzo de Carlos García &amp;ldquo;maestro FIDE&amp;rdquo; talaverano y Jose Ramón Ramírez bolañego),  &lt;strong&gt;&lt;em&gt;ganador del primer regional de la historia&lt;/em&gt;&lt;/strong&gt; y clasificarse entre los diez mejores de España de 2º division.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/equipo.jpg&#34; alt=&#34;equipo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora ya en plena adolescencia, este club, &lt;strong&gt;enamorado perdidamente de la educación&lt;/strong&gt;, a las ordenes de su actual presidente Eduardo López, pasea por las aulas de varios de nuestros colegios proyectando en sus pizarras digitales la creatividad, la inteligencia, la buena toma de decisiones de nuestro bello deporte.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/escuela.jpg&#34; alt=&#34;escuela&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Estamos creciendo mucho en esta juventud del club. En los últimos 5 años, 5 ajedrecistas tomelloseros han sido campeones regionales de Castilla la Mancha en la categoría sub-8. Pedro Javier González (Almansa 2012), Marta Jiménez (Tomelloso 2013), Adriana Domínguez (Horche 2015) y Beatríz Jiménez con Manuel Soto hicieron doblete (Albacete 2016).&lt;/p&gt;
+
+&lt;p&gt;En el año 2014 el colegio Cervantes participó en el campeonato de Colegios de España quedando en una excelente quinta posición. El cuadro estuvo formado por Carlos Rodrigo Diaz-Ropero, Pedro Javier Gonzalez García, Alvaro Ramirez Aguado y Jorge Rodrigo Diaz-Ropero, con un monitor que la enseñanza a los pequeños es su pasión: Ángel Luis López Barrios.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/colegio_cervantes.JPG&#34; alt=&#34;colegios&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lo que suceda a partir de ahora &lt;strong&gt;ni lo cuentan las crónicas ni lo contaré yo&lt;/strong&gt;. Tenemos nuevos patrocinadores, nuevo y precioso escudo, nueva web -desde la que aprovecho para dar la bienvenida a todos los visitantes- y sobre todo tenemos muchas ganas de seguir aumentando la grandeza de este club, de sus colaboradores, monitores, jugadores, alumnos de la escuela, padres, con la esperanza de que muy pronto podamos cumplir satisfechos la mayoría de edad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/bienvenida/clubajedrez.jpg&#34; alt=&#34;club&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Y tú? ¿Te animas a seguir haciendo historia con nosotros?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ajedreztomelloso.com&#34;&gt;http://www.ajedreztomelloso.com&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

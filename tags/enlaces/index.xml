@@ -2,32 +2,324 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enlaces on Club Ajedrez Tomelloso</title>
-    <link>http://www.ajedreztomelloso.com/tags/enlaces/</link>
+    <link>https://ajedreztomelloso.github.io/tags/enlaces/index.xml</link>
     <description>Recent content in Enlaces on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.ajedreztomelloso.com/tags/enlaces/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://ajedreztomelloso.github.io/tags/enlaces/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Enlaces del Mes de Marzo</title>
-      <link>http://www.ajedreztomelloso.com/post/enlaces0317/</link>
+      <link>https://ajedreztomelloso.github.io/post/enlaces0317/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/enlaces0317/</guid>
-      <description>Ajedrez en las escuelas    Enlace Descripción     Ajedrez en el colegio Mirabal Pequeño vídeo de las noticias donde el colegio Mirabal cuenta su experiencia en el ajedrez.   Cinco ideas para dar clases a niños Capakhine nos cuenta ideas para dar clases a niños.   Poema de Alberto Poema de Alberto para chess24, alumno de 8 años de la escuela Ajedrez Metro Club de Marbella.</description>
+      <guid>https://ajedreztomelloso.github.io/post/enlaces0317/</guid>
+      <description>
+
+&lt;h1 id=&#34;ajedrez-en-las-escuelas&#34;&gt;Ajedrez en las escuelas&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Enlace&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Descripción&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.facebook.com/ajedrezpetrosian/videos/1745617515651927/&#34;&gt;Ajedrez en el colegio Mirabal&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Pequeño vídeo de las noticias donde el colegio Mirabal cuenta su experiencia en el ajedrez.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://capakhine.es/index.php/blog-capakhine/219-clases-ajedrez-ninos&#34;&gt;Cinco ideas para dar clases a niños&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Capakhine nos cuenta ideas para dar clases a niños.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.facebook.com/chess24.es/posts/721123008069385:0&#34;&gt;Poema de Alberto&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Poema de Alberto para chess24, alumno de 8 años de la escuela Ajedrez Metro Club de Marbella.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.ajedreztomelloso.com/post/peonpalante/&#34;&gt;Peón P&amp;rsquo;alante&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Artículo de Paco Ramírez para el blog del club.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://deportes.elpais.com/deportes/2017/03/22/la_bitacora_de_leontxo/1490179217_496640.html?id_externo_rsoc=TW_CC&#34;&gt;El ajedrez nutre la educación innovadora&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;La bitácora de Leontxo siempre es de lectura obligatoria. Esta vez sobre la educación.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;ajedrez-en-la-red&#34;&gt;Ajedrez en la red&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Enlace&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Descripción&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.facebook.com/GM.ILLESCAS/photos/a.453029181461086.1073741825.241810865916253/1168983403198990/?type=3&amp;amp;theater&#34;&gt;Encuesta de Illescas en twitter&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Encuesta sobre la siciliana realizada por Miguel Illescas en twitter.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.facebook.com/chessmagazineofficial/videos/1363809960295667/&#34;&gt;Máquina vs Humano&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;¡Un robot juega contra Kramnik!&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://twitter.com/OlimpiuUrcan/status/815213373902049280&#34;&gt;Ajedrez blitz puro&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Nakamura juega contra Grischuk en el campeonato del mundo de blitz, puro espectáculo.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://chess-teacher.es/historias-victor-terrible/&#34;&gt;Historias de Victor &amp;ldquo;El Terrible&amp;rdquo;&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Artículo sobre Viktor Korchnoi por parte de la página &lt;a href=&#34;http://chess-teacher.es/&#34;&gt;chess-teacher.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.chess.com/es/article/view/que-hacer-cuando-no-sabes-que-hacer&#34;&gt;Que hacer cuando no sabes que hacer&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Luis Fernández Siles nos cuenta un par de consejos para esas posiciones en las que no sabemos que hacer.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://es.chessbase.com/post/karjakin-en-la-publicidad?utm_source=dlvr.it&amp;amp;utm_medium=twitter&#34;&gt;Karjakin y la publicidad&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Noticia sobre los patrocinadores de Sergei Karjakin por Chessbase España.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;ajedrez-en-castilla-la-mancha&#34;&gt;Ajedrez en Castilla la Mancha&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Enlace&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Descripción&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.faclm.org/2017/03/13/cronica-i-campeonato-provincial-de-colegios-de-albacete-por-equipos-2017/#more-567&#34;&gt;Campeonato Provincial por colegios de Albacete&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Campeonato Provincial por colegios de Albacete, crónica de la FACLM&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.faclm.org/2017/03/13/cronica-i-campeonato-provincial-de-colegios-de-albacete-por-equipos-2017/#more-567&#34;&gt;Provinciales sub en Albacete&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Provinciales sub en albacete, crónica del Club Ajedrez Excalibur&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.ajedrezparquesuralbacete.es/provincial_por_edades_2017.htm&#34;&gt;Provinciales sub de Albacete&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Provincial sub de Albacete, crónica del club Parque Sur.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.ajedrezcuenca.es/campeonatos/escolar/2017.htm&#34;&gt;Campeonato Provincial Escolar en Cuenca&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Campeonato Provincial Escolar en Cuenca, crónica de la Delegación Provincial de Cuenca.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://ajedreztoledo.blogspot.com.es/2017/03/el-campeonato-provincial-individual-de.html&#34;&gt;Provincial Absoluto Toledo&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Campeonato Provincial Absoluto de Toledo, crónica de la Delegación de Toledo&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.ajedreztomelloso.com/post/sub20171jorn&#34;&gt;Provincial sub Ciudad Real&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Provincial sub de Ciudad Real, crónica del Club Ajedrez Tomelloso&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.ajedreztomelloso.com/post/bienvenida/&#34;&gt;Nueva página del Club Ajedrez Tomelloso&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Nueva página del Club Ajedrez Tomelloso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;próximos-torneos&#34;&gt;Próximos Torneos&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Torneo&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Fechas&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Enlace&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Regional por Edades en Castilla la Mancha&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;07-04 al 10-04 de 2017&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://regional-por-edades-clm-201789.webnode.es/&#34;&gt;http://regional-por-edades-clm-201789.webnode.es/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;44 Edición Open La Roda&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;12-04 al 16-04 de 2017&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://ajedrezlaroda.com/&#34;&gt;http://ajedrezlaroda.com/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;VI Open Sub 2300 de Albacete&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;27-04 al 01-05 de 2017&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;https://www.openajedrezalbacete.com/&#34;&gt;https://www.openajedrezalbacete.com/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
     
     <item>
       <title>Enlaces de Interés</title>
-      <link>http://www.ajedreztomelloso.com/enlaces-de-interes/</link>
+      <link>https://ajedreztomelloso.github.io/enlaces-de-interes</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/enlaces-de-interes/</guid>
-      <description> Federaciones    Logo Descripción Enlace      Federación Internacional de Ajedrez FIDE    Federación Española de Ajedrez FEDA    Federación de Ajedrez de Castilla la Mancha FACLM    Delegación de Ciudad Real DELEGACION DE CIUDAD REAL    Clubes de Ajedrez de Castilla la Mancha    Logo Descripción Enlace      Club de Ajedrez Zuzwang ZUGZWANG    Club Ajedrez Ciudad Real CLUB AJEDREZ CIUDAD REAL    Club de Ajedrez Los Molinos (Valdepeñas) CLUB AJEDREZ LOS MOLINOS    Club de Ajedrez Parque Sur AJEDREZ PARQUESUR    Club de Ajedrez Excalibur EXCALIBUR    Club de Ajedrez Almansa CLUB AJEDREZ ALMANSAL    Club de Ajedrez La Roda CLUB AJEDREZ LA RODA    Club de Ajedrez Nuestro Ajedrez en Europa NUESTRO AJEDREZ EUROPA    Club de Ajedrez Bargas Soliss AJEDREZ BARGAS    Tomelloso    Logo Descripción Enlace      Ayuntamiento de Tomelloso Ayuntamiento de Tomelloso    En Tomelloso En Tomelloso    </description>
+      <guid>https://ajedreztomelloso.github.io/enlaces-de-interes</guid>
+      <description>
+
+&lt;h3 id=&#34;federaciones&#34;&gt;Federaciones&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Logo&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Descripción&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Enlace&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/FIDE.jpg&#34; alt=&#34;FIDE&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Federación Internacional de Ajedrez&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.fide.com&#34;&gt;FIDE&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/feda.png&#34; alt=&#34;Feda&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Federación Española de Ajedrez&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.feda.org&#34;&gt;FEDA&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/FACLM1.png&#34; alt=&#34;FACLM&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Federación de Ajedrez de Castilla la Mancha&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.faclm.org&#34;&gt;FACLM&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/delcr.png&#34; alt=&#34;DELCR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Delegación de Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://ajedrezdelecr.webnode.es&#34;&gt;DELEGACION DE  CIUDAD REAL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;clubes-de-ajedrez-de-castilla-la-mancha&#34;&gt;Clubes de Ajedrez de Castilla la Mancha&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Logo&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Descripción&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Enlace&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/zugzwang.gif&#34; alt=&#34;ZUGZWANG&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Zuzwang&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.zugzwang.es&#34;&gt;ZUGZWANG&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/CiudadReal.jpg&#34; alt=&#34;AJEDREZ CIUDAD REAL&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club Ajedrez Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.zugzwang.es&#34;&gt;CLUB AJEDREZ CIUDAD REAL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/LOSMOLINOS.jpg&#34; alt=&#34;LOS MOLINOS&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Los Molinos (Valdepeñas)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http:/http://ajedrezvaldepenas.blogspot.com.es&#34;&gt;CLUB AJEDREZ LOS MOLINOS&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/PARQUESUR.gif&#34; alt=&#34;PARQUESUR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Parque Sur&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.AJEDREZPARQUESURALBACETE.es&#34;&gt;AJEDREZ PARQUESUR&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/Excalibur.jpg&#34; alt=&#34;EXCALIBUR&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Excalibur&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.ajedrezexcalibur.com&#34;&gt;EXCALIBUR&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/almansa.jpg&#34; alt=&#34;AJEDREZ ALMANSA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Almansa&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://clubajedrez.usuarios.tvalmansa.com&#34;&gt;CLUB AJEDREZ ALMANSAL&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/LARODA.png&#34; alt=&#34;LA RODA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez La Roda&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://clubajedrez.usuarios.tvalmansa.comhttp://ajedrezlaroda.com/&#34;&gt;CLUB AJEDREZ LA RODA&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/NAEUROPA.jpg&#34; alt=&#34;NA EUROPA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Nuestro Ajedrez en Europa&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.nuestroajedrezeneuropa.com&#34;&gt;NUESTRO AJEDREZ EUROPA&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/BARGAS.JPG&#34; alt=&#34;NA EUROPA&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Club de Ajedrez Bargas Soliss&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://http://ajedrezbargas.blogspot.com.es/&#34;&gt;AJEDREZ BARGAS&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;tomelloso&#34;&gt;Tomelloso&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Logo&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Descripción&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Enlace&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/ayuntamiento.jpg&#34; alt=&#34;Ayuntamiento de Tomelloso&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ayuntamiento de Tomelloso&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://www.tomelloso.es/&#34;&gt;Ayuntamiento de Tomelloso&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/enlaces/entomelloso.png&#34; alt=&#34;En Tomelloso&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;En Tomelloso&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;http://entomelloso.com/&#34;&gt;En Tomelloso&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
     
   </channel>

@@ -2,25 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entrevista on Club Ajedrez Tomelloso</title>
-    <link>http://www.ajedreztomelloso.com/tags/entrevista/</link>
+    <link>https://ajedreztomelloso.github.io/tags/entrevista/index.xml</link>
     <description>Recent content in Entrevista on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.ajedreztomelloso.com/tags/entrevista/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://ajedreztomelloso.github.io/tags/entrevista/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Entrevistas Profesores de Tomelloso</title>
-      <link>http://www.ajedreztomelloso.com/post/entrevistasprofesores/</link>
+      <link>https://ajedreztomelloso.github.io/post/EntrevistasProfesores/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/entrevistasprofesores/</guid>
-      <description>Hemos conseguido reunir a docentes de nuestra localidad para poder realizar con ellos una entrevista y ver cual es el estado y su opinión acerca de la entrada del ajedrez en nuestras aulas. La verdad es que hemos disfrutado mucho trabajando con ellos durante todo el año y esperemos que disfrutéis tanto sus respuestas como nosotros.
-Los docente que se han atrevido con la entrevista han sido:
-Desde el colegio Félix Grande, donde el ajedrez ha ocupado una hora semanal en el horario lectivo de matématicas de los alumnos de 5º de primaria:</description>
+      <guid>https://ajedreztomelloso.github.io/post/EntrevistasProfesores/</guid>
+      <description>
+
+&lt;p&gt;Hemos conseguido reunir a docentes de nuestra localidad para poder realizar con ellos una entrevista y ver cual es el estado y su opinión acerca de la entrada del ajedrez en nuestras aulas. La verdad es que hemos disfrutado mucho trabajando con ellos durante todo el año y esperemos que disfrutéis tanto sus respuestas como nosotros.&lt;/p&gt;
+
+&lt;p&gt;Los docente que se han atrevido con la entrevista han sido:&lt;/p&gt;
+
+&lt;p&gt;Desde el colegio Félix Grande, donde el ajedrez ha ocupado una hora semanal en el horario lectivo de matématicas de los alumnos de 5º de primaria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;José Ramón Rodrigo.&lt;/li&gt;
+&lt;li&gt;Javier Cepeda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Desde el colegio Doña Crisanta, donde este año se ha trabajado el ajedrez como asignatura extraescolar:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Charo Hernández.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Desde el colegio San Isidro, donde el ajedrez se ha integrado en el horario lectivo de matemáticas una hora semanal con 5º de primaria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Emi Alarcón&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Desde el instituto I.E.S.Airen, donde los alumnos de 1º ESO han disfrutado este último trimestre de la introducción del ajedrez en secundaria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Yolanda Pérez.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;¡Vamos con la entrevista!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Desde el club de ajedrez hemos tenido un año lleno de grandes proyectos en los diferentes centros educativos de Tomelloso. El proyecto angular del Félix Grande se ha ampliado a colegios como el San Isidro e incluso este año hemos llegado a la enseñanza secundaria en el instituto Airen. Doña Crisanta y Cervantes se han apuntado como extraescolar al juego de las 64 casillas y también hemos tenido colegios que han querido dar clases de ajedrez pero por términos de viabilidad no han podido llevarse a cabo. Hemos aprendido mucho de todos los docentes con los que hemos trabajado y por ello, queremos seguir en esa línea, aprendiendo de los profesionales de la educación; este es un de los principales motivos de esta entrevista.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/sanisidro.jpg&#34; alt=&#34;Colegio San Isidro&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; La primera pregunta me vais a permitir hacerla sobre ajedrez, antes de que entremos en el tema educativo. Creo que la sociedad hoy en día tiene visiones distintas sobre este juego/deporte por ello:
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;1-qué-es-para-vosotros-el-ajedrez&#34;&gt;1. ¿Qué es para vosotros el ajedrez?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Yo tengo un conocimiento del ajedrez a nivel de principiante. Mi padre me enseñó a jugar cuando era pequeño y echo alguna partida de vez en cuando. Pero, pese a lo poco que sé, siempre he pensado que es mucho más que un juego de mesa y como maestro, soy de los convencidos de sus enormes posibilidades en la educación.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Un juego divertido muy educativo que mejora capacidades matemáticas, la concentración, nociones espacial&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Juego de estrategia que consiste en derrocar al rey que posee el adversario. Para llegar a ello es necesario el desarrollo de unas estrategias mentales que serán de gran ayuda para otras situaciones de la vida diaria.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: Es un juego de reflexión, estrategia, disciplina en el que considero que se desarrolla la lógica matemática.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: Pues es un juego de mesa muy completo que desarrolla (como muy bien expusisteis en la primera clase) multitud de aptitudes mentales. Lo considero muy positivo en innumerables aspectos, más aún hoy en día con la diversidad de aficiones tan negativas que acaban embaucando a nuestros chicos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/Airen/partidas1.jpg&#34; alt=&#34;Partidas en el I.E.S.Airen&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; Supongo que si os hubiera hecho esta pregunta al principio del curso, vuestra opinión al respecto del ajedrez habría sido diferente o quizás no:
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;2-ha-cambiado-vuestro-contacto-con-el-club-de-ajedrez-tomelloso-vuestra-visión-del-ajedrez-si-es-así-en-que-sentido-qué-experiencias-habíais-tenido-con-el-ajedrez-aparte-de-este-curso&#34;&gt;2. ¿Ha cambiado vuestro contacto con el Club de Ajedrez Tomelloso vuestra visión del ajedrez? Si es así, ¿en que sentido? ¿Qué experiencias habíais tenido con el ajedrez aparte de este curso?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Ha confirmado lo que te he dicho antes. He podido comprobar cómo mis alumnos ponían en juego muchas capacidades gracias a la práctica del ajedrez. Ahora puedo asegurar por que he visto sus resultados en dos grupos de alumnos distintos en dos cursos distintos que  lo que antes era un convencimiento teórico lo he constatatado en la práctica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Jugué al ajedrez desde pequeño, con mi abuelo, en la escuela y creía conocer su dinámica y sus beneficios. Lo más positivo es la programación propuesta y el carácter interactivo del mismo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Tengo que agradecer a Eduardo el que viniera a nuestro centro el curso pasado y trajera el ajedrez a nuestras aulas, aunque sea como actividad extraescolar. A través de él hemos podido conocer de primera mano el Club de Ajedrez Tomelloso y poder pasar a formar parte con la participación de algunos de nuestros alumnos, del mismo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: En mi caso conocía la existencia del Club de Ajedrez porque los hijos de algunos amigos con miembros pero nunca habíamos contactado con ellos desde el colegio. También debo decir que el profesor de Educación Física todos los años organiza un campeonato de ajedrez a nivel interno en el que participan todos los alumnos que lo desean.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: No ha cambiado mi visión del ajedrez pero sí me ha hecho ver la posibilidad de incluirlo como herramienta en mi área.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; Cuando se dan clases de ajedrez en el colegio, el objetivo del club no es crear grandes campeones de ajedrez. No queremos grandes maestros como Kasparov o Carslen, el objetivo es mostrar el mundo de posibilidades que puede ofrecer este juego en el desarrollo de la mente en los alumnos.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/interescolar.jpg&#34; alt=&#34;Interescolar&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;3-qué-beneficios-pensáis-que-puede-aportar-el-ajedrez-en-los-alumnos-cuáles-son-las-aptitudes-que-mejora&#34;&gt;3. ¿Qué beneficios pensáis que puede aportar el ajedrez en los alumnos? ¿Cuáles son las aptitudes que mejora?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Pues incide en la creatividad, ayuda a desarrollar la capacidad de abstracción, a analizar diferentes alternativas antes de tomar una decisión, es útil para desarrollar estrategias para resolver problemas. Está claro que es muy útil en matemáticas, eso es lo más visible pero también en el desarrollo del lenguaje, es una actividad motivadora, exige atención, concentración&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: mejorar la atención y la concentración, el trabajo de contenidos matemáticos (ejes de coordenadas, operaciones, &amp;hellip;), orientación espacial, enseñanza del concepto táctica y valores como  esfuerzo, ayuda entre piezas, valor de piezas en el juego y su aplicación a la vida real&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charo&lt;/strong&gt;: Hoy en día hay una gran variedad de juegos que permiten poner de relieve las actitudes físicas de los alumnos pero no se da importancia a otros deportes o juegos que desarrollan otras capacidades como las mentales y que complementan a las anteriores. Creo que el ajedrez debería de formar parte del área de las matemáticas ya que mejora la capacidad para resolver problemas, mejora las habilidades lectoras, de lenguaje, matemáticas y memorísticas y desarrolla un pensamiento creativo y original.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emi&lt;/strong&gt;: Nos parece muy beneficioso el ajedrez porque pensamos que desarrolla la lógica en nuestros alumnos y esto les ayuda especialmente, en el área de matemáticas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yolanda&lt;/strong&gt;: Pues son muchos los beneficios que puede aportar como ya hemos comentando y como muchos estudios muestran, pero personalmente destaco el desarrollo de la concentración, de la memoria, de la capacidad visual y de la sociabilización.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/EntrevistaProfesores/concentracion.JPG&#34; alt=&#34;Concentración&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4-qué-asignaturas-creéis-que-se-ven-beneficiadas-de-su-práctica&#34;&gt;4. ¿Qué asignaturas creéis que se ven beneficiadas de su práctica?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;José Ramón&lt;/strong&gt;: Ya lo he respondido en la pregunta anterior pero puedo añadir que también es útil en el dibujo líneal, en las ciencias sociales, en competencias que contribuyen al desarrollo personal, al esfuerzo, requiere ser disciplinado, tener capacidad de anticipación&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javier&lt;/strong&gt;: Matemáticas, educación en valores, lenguaje, ciencias sociales y educación física.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

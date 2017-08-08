@@ -2,16 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fortaleza on Club Ajedrez Tomelloso</title>
-<<<<<<< HEAD
     <link>https://ajedreztomelloso.github.io/tags/fortaleza/index.xml</link>
-=======
-    <link>http://www.ajedreztomelloso.com/tags/fortaleza/</link>
->>>>>>> 0d86cac5d50a1a9d2ea950b0b9d9a44dd3b766c3
     <description>Recent content in Fortaleza on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-<<<<<<< HEAD
     <atom:link href="https://ajedreztomelloso.github.io/tags/fortaleza/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -350,21 +345,6 @@ Existen muchos más tipos de fortalezas aumentando el abanico de piezas disponib
 &lt;li&gt;&lt;p&gt;Por otro lado, cuando nos encontramos en el bando con ventaja también debemos estar atentos, para evitar que nuestro rival consiga un esquema defensivo inexpugnable.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-=======
-    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.ajedreztomelloso.com/tags/fortaleza/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>FORTALEZAS Y OTROS PLANES DEFENSIVOS EN AJEDREZ</title>
-      <link>http://www.ajedreztomelloso.com/post/fortalezas/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.ajedreztomelloso.com/post/fortalezas/</guid>
-      <description>Según el Diccionario de la Real Academia, la palabra fortaleza tiene 6 definiciones, de las cuales para este texto pueden encajar las siguientes: “2. Defensa natural que tiene un lugar o puesto por su misma situación” y “3. Recinto fortificado, como un castillo, ciudadela, etc”. En el ajedrez podemos aplicar estas definiciones a las ubicaciones de piezas del bando en desventaja que impiden el progreso del jugador rival
- En el artículo se hablará de algunas de las fortalezas más importantes de la teoría del ajedrez, así como de algunas situaciones que podrían parecer fortalezas inexpugnables, pero existen resquicios a través de los cuales pueden derribarse.</description>
->>>>>>> 0d86cac5d50a1a9d2ea950b0b9d9a44dd3b766c3
     </item>
     
   </channel>

@@ -2,34 +2,548 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joseramonramirez on Club Ajedrez Tomelloso</title>
-    <link>http://www.ajedreztomelloso.com/tags/joseramonramirez/</link>
+    <link>https://ajedreztomelloso.github.io/tags/joseramonramirez/index.xml</link>
     <description>Recent content in Joseramonramirez on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.ajedreztomelloso.com/tags/joseramonramirez/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://ajedreztomelloso.github.io/tags/joseramonramirez/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Regional Absoluto Individual 2017</title>
-      <link>http://www.ajedreztomelloso.com/post/regionalabsoluto2017/</link>
+      <link>https://ajedreztomelloso.github.io/post/regionalAbsoluto2017/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/regionalabsoluto2017/</guid>
-      <description>Crónica del regional por José Ramón Ramírez Entre los días 6 y 9 de julio se ha celebrado en la localidad conquense de Valverde de Júcar el Campeonato Regional Absoluto de ajedrez. Viendo la nómina de jugadores, era muy difícil hacer pronósticos a priori, ya que había muchos participantes con opciones de estar peleando por las primeras plazas.
-En la primera ronda, con piezas negras, tuve enfrente al conquense Óscar López.</description>
+      <guid>https://ajedreztomelloso.github.io/post/regionalAbsoluto2017/</guid>
+      <description>
+
+&lt;h3 id=&#34;crónica-del-regional-por-josé-ramón-ramírez&#34;&gt;Crónica del regional por José Ramón Ramírez&lt;/h3&gt;
+
+&lt;p&gt;Entre los días 6 y 9 de julio se ha celebrado en la localidad conquense de Valverde de Júcar el Campeonato Regional Absoluto de ajedrez. Viendo la nómina de jugadores, era muy difícil hacer pronósticos a priori, ya que había muchos participantes con opciones de estar peleando por las primeras plazas.&lt;/p&gt;
+
+&lt;p&gt;En la primera ronda, con piezas negras, tuve enfrente al conquense Óscar López. Tras una partida bastante cerrada, en la que estuve intentando presionar en el flanco de dama, cometí un error que permitió a mi rival ejecutar un sacrificio de calidad que hizo desaparecer la ventaja. Incluso, un par de jugadas más tarde hice un error grave que mi adversario no aprovechó para ganar de inmediato (ver siguiente diagrama). Poco después, logré meter a mi rival en los apuros y, tras unas jugadas poco intensas por su parte, conseguí imponer la calidad de ventaja para anotarme el primer punto.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda1.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 48.Dxh5&amp;#43;. 48…Rg8 es la jugada correcta, pero jugué 48…Rg7??, que permite un remate que el blanco no vio y dejo como ejercicio.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/solucionJRronda1.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras una larga lucha, tocaba reponer fuerzas con la cena. Mi sorpresa es que, cuando llego a la puerta del restaurante donde la teníamos concertada, el resto de gente aún estaba en la puerta, comentando que el restaurante no tenía constancia de que fuésemos a cenar. En parte por ello, nos sirvieron de forma realmente lenta y la cena se acabó prolongando hasta las 0:00 horas.&lt;/p&gt;
+
+&lt;p&gt;En la segunda ronda, conduciendo las piezas blancas, tenía enfrente al albaceteño Javier Trabazos. Fue una partida en la que mi rival colocó las piezas de forma bastante pasiva, incluyendo un caballo en a8 sin perspectivas de futuro. Viendo que el rey negro tenía pocas tropas en su escolta, aproveché la ventaja de espacio de la que disponía para trasladar mis fuerzas al flanco de rey y desbordar la defensa rival.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda2.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 24.Txh7, en la que el negro abandonó.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Más difícil de gestionar fue la hora de la comida del viernes. Tal como sucediese la noche anterior, en el restaurante fueron imperdonablemente lentos a la hora de servir la comida, saliendo del lugar con apenas media hora de margen para preparar algo o echar una siesta. Así pues, para comidas y cenas posteriores decidí que era mejor cambiar de sitio.&lt;/p&gt;
+
+&lt;p&gt;La partida del viernes por la tarde, correspondiente a la tercera ronda, me enfrentaba con el albaceteño Juan Antonio Picazo manejando las piezas negras. Tras una lucha interesante de apertura, hice algunas jugadas flojas y rápidamente entré en una posición muy inferior. Cuando no daba un euro por mi supervivencia en esa partida, mi rival se embarcó en un plan dudoso cambiando las piezas menores y me permitió llegar a una situación en la que, pese a que tenía un peón de desventaja, mis piezas pesadas ocupaban unas posiciones razonablemente activas. Poco después, el blanco expuso innecesariamente su rey e incluso tuvo que defenderse con jugadas únicas para aguantar la igualdad. Así, logré el empate en una partida en la que hubo varios momentos en los que me vi perdido.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRPicazo1.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras: 27…Txf8&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRPicazo2.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras: 38…Dxe5&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRPicazo3.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras: 46.Rh3 donde el negro fuerza las tablas con una combinación que te invito a sacar.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRPicazo3.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;El viernes por la noche estuvo marcado por una fuerte tormenta, que nos obligó a los jugadores a usar el coche para sortear un tramo muy embarrado del camino que daba acceso a la casa rural en la que estábamos hospedados. Ese barro dio origen a algunas anécdotas en forma de “bajadas al barro”, zapatillas empozadas o exhibiciones de flexibilidad.&lt;/p&gt;
+
+&lt;p&gt;La cuarta ronda me enfrentaba con blancas al jugador conquense José Luis Machado García-Román. En esta partida, cada contendiente atacó en un flanco, llegando antes el ataque blanco en el flanco de rey. Tras un sacrificio de pieza contra el enroque negro, logré anotar una nueva victoria.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda4.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 25…Ce5. Juegan blancas y ganan.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda4.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La quinta partida enfrentaba a los dos jugadores que encabezaban el campeonato: jugaba de nuevo con blancas ante el albaceteño Pablo Alcoba. En este duelo quise buscar una situación desequilibrada, pero acabé en una posición incómoda, en la que mi rival presionó bien para llegar a un final que no pude aguantar, desvaneciéndose todas mis opciones de acabar campeón.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda5.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 33.Rf3. Juegan negras y ganan (aunque mi rival no vio esta combinación).&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda5.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda5_2.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 41…Tc8, que supone el último momento en el que la causa blanca podría ser defendible si hubiese jugado 42.Af4 en lugar de 42.Th7&amp;#43;.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;En la sexta y última ronda tenía como rival al MF albaceteño José Vicente Jiménez. Fue una partida de alto voltaje, en la que ninguno de los jugadores estábamos conformes con el empate. En un momento en el que parecía que la posición se había igualado por completo, José Vicente decidió forzar y tuve una oportunidad de lograr una ventaja muy clara que no aproveché del todo, ya que el final al que se arribó apenas ofrecía chances para obtener el punto entero, por lo que el empate fue inevitable.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 39.d5. Halla la única jugada que defiende la posición blanca tras 40…Ad6&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/solucionJRronda6.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6_2.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 43.Dxa7. Juegan negras y ganan.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6_2.gif&#34; target=&#34;_blank&#34;&gt;Solución&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6_3.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 49.Cd3, en la que el negro dispone de la última oportunidad para luchar por la victoria jugando 49…d4 en lugar de 49…h5.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/regionalIndividual17/JRronda6_4.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Posición tras 53.Txd4, en la que se ve el final de 3 contra 2 en el que no se puede forzar la victoria.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Así, finalicé el campeonato con 3 victorias, 2 empates y una derrota, lo que supone hacer 4 de los 6 puntos posibles. Con esa puntuación, acabé la competición en cuarto lugar, por detrás de Pablo Alcoba, José Vicente Jiménez y Juan Antonio Picazo, que conformaron el podio.&lt;/p&gt;
+
+&lt;p&gt;En la categoría de veteranos, el campeón fue el jugador de Villanueva de los Infantes Antonio Castellanos, mientras que la valdepeñera Esther Ruiz de León logró el campeonato femenino mostrándose muy superior a sus rivales, al obtener un pleno de victorias en partidas bastante rápidas. Enhorabuena a todos y suerte en los respectivos Campeonatos de España.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Historias y anécdotas de los provinciales absolutos de Ajedrez en C.Real </title>
-      <link>http://www.ajedreztomelloso.com/post/provincialabsoluto_anecdotas/</link>
+      <link>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto_Anecdotas/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/provincialabsoluto_anecdotas/</guid>
-      <description>Realizando una búsqueda en la hemeroteca de algunos periódicos provinciales, he encontrado que el primer Campeonato Provincial se celebró allá por el año 1946, si bien también he leído que, en aquella época, ya se organizaron torneos abiertos en diferentes localidades de la zona, como Alcázar, Almadén, Almagro o Tomelloso.
- Fragmento del diario Lanza, del 22-3-1946, en el que se menciona la primera competición provincial de ajedrez.</description>
+      <guid>https://ajedreztomelloso.github.io/post/ProvincialAbsoluto_Anecdotas/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/joseramon.jpg&#34; alt=&#34;joseramon&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Realizando una búsqueda en la hemeroteca de algunos periódicos provinciales, he encontrado que el primer Campeonato Provincial se celebró allá por el año 1946, si bien también he leído que, en aquella época, ya se organizaron torneos abiertos en diferentes localidades de la zona, como Alcázar, Almadén, Almagro o Tomelloso.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa1.png&#34;&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa1.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Fragmento del diario Lanza, del 22-3-1946, en el que se menciona la primera competición provincial de ajedrez.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa2.png&#34;&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa2.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Fragmento del diario Lanza, del 19-2-1946, en el que se realiza una crónica de un torneo en Tomelloso y se mencionan otros torneos.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Durante los siguientes años, diferentes jugadores han participado en este tipo de eventos, aunque no sería hasta los años 70 cuando empezaron a entrar en la escena competitiva jugadores que siguen compitiendo actualmente o lo han hecho hasta hace poco. Quizá el ejemplo más destacable en este sentido es el del ajedrecista bolañego Joaquín García del Moral López, quien quedó campeón provincial en 1980 y aún sigue dando guerra en los tableros y brindando anécdotas curiosas, algunas de las cuales relataré a continuación.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa3.png&#34;&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa3.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Fragmento del diario Lanza (8-7-1980), en el que se recoge la crónica del Campeonato Provincial Absoluto de dicho año.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En estos últimos años, el hecho de organizar diferentes competiciones de ajedrez, especialmente un torneo de partidas rápidas que en enero de este año 2017 ha hecho su sexta edición, me ha hecho darme cuenta de que, en general, cuando una persona que nunca ha visto el ambiente de un torneo lo hace por primera vez, se suele sorprender positivamente, porque se da cuenta de que estos eventos son mucho más grandes de lo que ocurre dentro de los tableros.
+Uno de los aspectos que contribuye a mejorar la experiencia en los torneos son esos momentos anecdóticos, ya sean curiosos, graciosas, extrañas o sorprendentes, que con el tiempo se recuerdan. Muchas veces esas anécdotas no tienen por qué suceder durante la competición, sino que los viajes y las estancias durante los campeonatos también son propensos a brindar momentos para el recuerdo y a estrechar los lazos entre los ajedrecistas.&lt;/p&gt;
+
+&lt;p&gt;Puesto que en muchos de los torneos he sido compañero de expedición del anteriormente mencionado Joaquín, he sido testigo directo de algunos de esos momentos brillantes que ha protagonizado, tanto en los torneos, por su peculiar carácter, especialmente a la hora de encajar las derrotas, como en los viajes, por diferentes motivos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/joaquin.jpg&#34; alt=&#34;joseramon&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Joaquín es un jugador a quien le encanta el ajedrez &lt;del&gt;salvo cuando pierde&lt;/del&gt; y con el que sabes que te lo vas a pasar bien en los torneos, especialmente cuando desenfunda su inagotable repertorio de frases.&lt;/p&gt;
+
+&lt;p&gt;Una de las ocasiones en las que no pude evitar reír a carcajadas ocurrió en un abierto de Socuéllamos, en el cual jugó una partida ante uno de los rivales más duros de mi generación en la etapa de formación. En aquel choque, Joaquín logró ventaja de una torre, si bien la zona central del tablero parecía la salida desde Madrid de cualquier autovía en días de puente y no era fácil hacer notar el material extra. Unas jugadas después, Joaquín permitió que su rival le atrapase la dama y diese la vuelta a la partida. Resultado final: derrota de Joaquín y unas palabras dirigidas a su oponente de las que no se olvidan en la vida: &lt;em&gt;“si el futuro del ajedrez provincial depende de ti, apañados vamos. No sabes a tocino ni aunque te pasen un guarro por el hocico”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cambiando de tercio, los viajes a los torneos han sido otra fuente de inspiración. Como anécdota (de las que se pueden contar), destacaría una vez, hace unos diez años, en la que nos dimos cuenta de que uno de los tapacubos de las ruedas del coche nos adelantó por la izquierda, faltándole sólo marcar el adelantamiento con el intermitente. También hay que hacer notar el gusto de Joaquín por llegar a los torneos con la hora pegada, hasta el punto de llegar a decirle en ocasiones que la partida se juega treinta minutos antes de la hora real de comienzo para poder llegar con diez minutos de colchón. En un último alarde de puntualidad, el día de la primera jornada del Provincial de 2017 apostaría que se equivocó a propósito de salida en un par de rotondas para compensar el tiempo de margen que llevábamos y poder llegar a jugar sin tener que esperar ni un segundo.&lt;/p&gt;
+
+&lt;p&gt;Volviendo al tema de los campeonatos provinciales, he ido encontrando algunas crónicas de Campeonatos Provinciales de Ajedrez, en las que aparecen en los primeros puestos jugadores de una generación no muy anterior a la mía, con los que ya he llegado a coincidir en algunas competiciones.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa4.png&#34;&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/prensa4.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Fragmento del diario Lanza (12-3-1994), en el que se recoge una breve crónica del Campeonato Provincial Absoluto de ese año.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez llegado al siglo XXI, años en los que, si la memoria no me falla, he competido en todos los Campeonatos Provinciales Absolutos de ajedrez celebrados desde 2002, por lo que las estadísticas a partir de esta época las he sacado prácticamente en su totalidad de fuentes propias (al final del artículo, se expone una tabla con un resumen de las estadísticas más relevantes de los Campeonatos Provinciales Absolutos). Cualquier aportación que pueda contribuir a completar datos de dicha tabla es bienvenida.&lt;/p&gt;
+
+&lt;p&gt;Para completar el artículo, pondré algunas experiencias que he vivido en estos campeonatos. En general, salvo dos o tres ediciones, en los Campeonatos Provinciales Absolutos he jugado a buen nivel y obtenido buenos resultados, incluso quedando en primer lugar en varias ediciones.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo que en la edición de 2003, que se disputó en el Ayuntamiento de Miguelturra, sólo se jugaron 5 rondas y logré una puntuación perfecta venciendo a rivales duros. También recuerdo que, en la edición de 2005, las últimas rondas se celebraron el último domingo de abril, coincidiendo con la Romería de la Virgen del Monte, y el trofeo de campeón (con forma de jarrón y que me dieron sin etiquetar -y así sigue-) estuvo presidiendo el corro familiar.
+En campeonato provincial del año 2009, un momento decisivo ocurrió en la ronda 5. En una posición ya incómoda (aunque, según las máquinas, sólo ligeramente desventajosa), cometí un error y, poco después, me quedé muy cerca de la derrota. Se llegó a la siguiente posición, con el turno del blanco:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/JR_diagrama.png&#34; alt=&#34;diagrama&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En esta posición, las máquinas recomiendan la jugada (nada evidente, por otra parte) 30.Ae1!!, con ventaja decisiva para el blanco, ya que se sigue amenazando la devastadora Td8 y ni siquiera queda el recurso de dar jaque en la primera fila. Por otra parte, la jugada 30.Td8 directamente tiene muy buena pinta, si bien mi rival podía no estar del todo satisfecho con su posición tras la variante prácticamente forzada 30…Tc1+ 31.Cd1 Dxd8 32.Dxd8 Ag4, tras la que el blanco sigue teniendo una clara ventaja, pero aún queda trabajo por delante para cerrar la partida.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/JR_diagrama2.gif&#34; alt=&#34;joseramon&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Es, por tanto, entendible que, para solucionar los problemas en su primera fila, mi rival eligiese 30.h3?, pero esta jugada tira por tierra la ventaja blanca. Por suerte para mí, encontré el recurso táctico que refuta la amenaza de jugar la torre blanca a d8, dando la vuelta completamente a la partida y, aunque parezca increíble, obligando a mi rival a abandonar en la jugada 33, con lo que di un paso de gigante hacia el que sería mi tercer título provincial. Tras el diagrama anterior, la partida acabó de la siguiente forma: 30.h3?? c5!! 31.Td8?? cxb4! 32.Da5 Dc6 33.axb4 Ab7 (0-1).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajedreztomelloso.github.io/images/joseramon/partida.gif&#34; alt=&#34;joseramon&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En aquel año 2009, la Delegación Provincial disponía de un excedente de trofeos de caza que se habían comprado para un encuentro con jugadores de Jaén (según las planillas que conservo de aquel evento, era un memorial dedicado a Manuel Cisneros), que tuvo lugar en la localidad ciudadrealeña de Fuencaliente en septiembre del año anterior. Como campeón provincial, fui obsequiado con un trofeo de caza de gigantescas proporciones.
+En los Campeonatos Provinciales Absolutos, por otra parte, no siempre he tenido buenas actuaciones. En la edición del año 2011, celebrada en Almagro, realicé una de las peores competiciones de mi vida… y la FIDE lo computó dos veces para el ránking, por lo que la caída de mi ELO en aquella ocasión, en vez de ser de 30 puntos, fue de 60.
+En la edición del año siguiente hice uso por primera vez de un bye, ya que unos amigos celebraron su boda coincidiendo con la primera ronda. Aquella fue una boda de Buen Comer, en la que acabé tomando energía suficiente como para ganar las siguientes cinco rondas y, a la postre, el campeonato.
+En las ediciones de 2013 y 2016, ambas celebradas en la sala de exposiciones de la Casa de Cultura de Bolaños de Calatrava, colaboré en gran medida a la organización del evento, por lo que también pude apreciar el trabajo que se requiere para montar un evento de este tipo. De estos campeonatos, como anécdota curiosa destacaría que, en la edición de 2016, en uno de los días de competición coincidió que, en el auditorio de la Casa de Cultura se representó un musical sobre la película Frozen y, en una de las escenas, los actores salieron por la parte trasera del escenario, pasando por la sala de juego disfrazados de los personajes de dicha película durante el desarrollo de las partidas.&lt;/p&gt;
+
+&lt;p&gt;Para finalizar este artículo, expondré los datos que he podido coleccionar sobre estos campeonatos, reuniendo tanto la experiencia propia como la hemeroteca de periódicos provinciales, como Lanza.
+En un artículo de la hemeroteca de Lanza (11 de mayo de 1989) se menciona que el jugador de La Solana Juan Antonio Araque había ganado hasta esa fecha siete veces el Campeonato Provincial Absoluto de ajedrez.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Año&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Sede&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Número de jugadores&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Campeón&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2017&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;48&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2016&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;48&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2015&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;40&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Domingo Gijón&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2014&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;35&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Carlos Álvarez&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2013&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;36&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2012&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;22&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2011&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Almagro&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;32&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Domingo Gijón&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2010&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;42&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2009&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Torralba de Cva.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;22&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2008&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;33&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Víctor Fernández&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2007&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2006&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;14&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ángel Espinosa&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2005&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Moral de Cva.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2004&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Moral de Cva.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Pablo Gómez&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2003&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Miguelturra&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;José Ramón Ramírez&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2002&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Miguelturra&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Pablo Gómez&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1996&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Socuéllamos&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;24&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Manuel Rayo Ramos&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1994&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Bolaños de Cva.&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;26&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Rafael Portugués&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1993&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;34&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1991&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Socuéllamos&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Félix Rodrigo&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1987&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;La Solana&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1986&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Puertollano&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;17&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Rafael Campos&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1984&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Tomelloso&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;38&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Juan Antonio Araque&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1982&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ciudad Real&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;20&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1981&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Valdepeñas&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;26&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Juan Maroto&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1980&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;La Solana&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;94 (fase final de 16)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Joaquín García&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1975&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Alcázar de San Juan&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;25&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Fernando Vacas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1969&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Benito Martínez&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;José Ramón Ramírez.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
