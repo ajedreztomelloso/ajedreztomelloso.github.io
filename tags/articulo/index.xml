@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articulo on Club Ajedrez Tomelloso</title>
-    <link>http://www.ajedreztomelloso.com/tags/articulo/</link>
+    <link>https://ajedreztomelloso.github.io/tags/articulo/</link>
     <description>Recent content in Articulo on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
     <lastBuildDate>Tue, 18 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.ajedreztomelloso.com/tags/articulo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ajedreztomelloso.github.io/tags/articulo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>El ajedrez y sus estados mentales</title>
-      <link>http://www.ajedreztomelloso.com/post/relajacion/</link>
+      <link>https://ajedreztomelloso.github.io/post/relajacion/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/post/relajacion/</guid>
+      <guid>https://ajedreztomelloso.github.io/post/relajacion/</guid>
       <description>Lo admito, no tengo ni idea de ajedrez. Me considero a mí mismo el típico jugador que ha llegado hasta donde está sin tener ni idea de cómo lo ha hecho. He quedado varias veces campeón regional en diferentes categorías juveniles, y he conseguido el título de Maestro Fide, que son los logros de los que me considero más orgulloso. Sin embargo, cuando me siento ante el tablero de cara a la próxima partida sigo sin confiar plenamente en ser capaz de superar a mi rival.</description>
     </item>
     
