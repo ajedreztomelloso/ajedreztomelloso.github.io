@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ajedreztomelloso.github.io/post/almansaregionalblitz/</loc>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ajedreztomelloso.github.io/post/almansa/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ajedreztomelloso.github.io/post/ictorelampagoequipos/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ajedreztomelloso.github.io/post/espa%C3%B1a2division2017/</loc>
+    <loc>https://ajedreztomelloso.github.io/post/espana2division2017/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -209,7 +219,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/2017/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -256,6 +266,12 @@
   </url>
   
   <url>
+    <loc>https://ajedreztomelloso.github.io/tags/almansa/</loc>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ajedreztomelloso.github.io/tags/articulo/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -287,7 +303,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/carlosgarcia/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -304,7 +320,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -400,7 +416,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/post/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -430,13 +446,19 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/regional/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/regional2017/</loc>
     <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ajedreztomelloso.github.io/tags/regionalblitz/</loc>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -466,7 +488,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/</loc>
-    <lastmod>2017-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

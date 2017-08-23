@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ajedreztomelloso.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2017</title>
       <link>https://ajedreztomelloso.github.io/tags/2017/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/2017/</guid>
       <description></description>
@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>Almansa</title>
+      <link>https://ajedreztomelloso.github.io/tags/almansa/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/almansa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Articulo</title>
       <link>https://ajedreztomelloso.github.io/tags/articulo/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
@@ -132,7 +141,7 @@
     <item>
       <title>Carlosgarcia</title>
       <link>https://ajedreztomelloso.github.io/tags/carlosgarcia/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/carlosgarcia/</guid>
       <description></description>
@@ -321,7 +330,7 @@
     <item>
       <title>Regional</title>
       <link>https://ajedreztomelloso.github.io/tags/regional/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/regional/</guid>
       <description></description>
@@ -333,6 +342,15 @@
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/regional2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regionalblitz</title>
+      <link>https://ajedreztomelloso.github.io/tags/regionalblitz/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/regionalblitz/</guid>
       <description></description>
     </item>
     
