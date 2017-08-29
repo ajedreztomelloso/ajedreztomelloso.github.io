@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ajedreztomelloso.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2017</title>
       <link>https://ajedreztomelloso.github.io/tags/2017/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/2017/</guid>
       <description></description>
@@ -94,9 +94,27 @@
     </item>
     
     <item>
+      <title>Angelcarlos</title>
+      <link>https://ajedreztomelloso.github.io/tags/angelcarlos/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/angelcarlos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angelluis</title>
+      <link>https://ajedreztomelloso.github.io/tags/angelluis/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/angelluis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Articulo</title>
       <link>https://ajedreztomelloso.github.io/tags/articulo/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/articulo/</guid>
       <description></description>
@@ -193,20 +211,20 @@
     </item>
     
     <item>
-      <title>Entrevistas</title>
-      <link>https://ajedreztomelloso.github.io/tags/entrevistas/</link>
-      <pubDate>Thu, 06 Apr 2017 01:00:00 +0000</pubDate>
-      
-      <guid>https://ajedreztomelloso.github.io/tags/entrevistas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Equipos</title>
       <link>https://ajedreztomelloso.github.io/tags/equipos/</link>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/equipos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Espana</title>
+      <link>https://ajedreztomelloso.github.io/tags/espana/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/espana/</guid>
       <description></description>
     </item>
     
@@ -274,6 +292,15 @@
     </item>
     
     <item>
+      <title>Pacoramirez</title>
+      <link>https://ajedreztomelloso.github.io/tags/pacoramirez/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/pacoramirez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Padres</title>
       <link>https://ajedreztomelloso.github.io/tags/padres/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
@@ -330,7 +357,7 @@
     <item>
       <title>Regional</title>
       <link>https://ajedreztomelloso.github.io/tags/regional/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/regional/</guid>
       <description></description>
@@ -360,6 +387,15 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/regionalporequipos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regionalrelampago</title>
+      <link>https://ajedreztomelloso.github.io/tags/regionalrelampago/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/regionalrelampago/</guid>
       <description></description>
     </item>
     

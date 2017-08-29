@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Tue, 18 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ajedreztomelloso.github.io/tags/articulo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fortalezas y otros planes defensivos en ajedrez</title>
+      <link>https://ajedreztomelloso.github.io/post/fortalezas/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/post/fortalezas/</guid>
+      <description>Según el Diccionario de la Real Academia, la palabra fortaleza tiene 6 definiciones, de las cuales para este texto pueden encajar las siguientes:
+ Defensa natural que tiene un lugar o puesto por su misma situación
+ Recinto fortificado, como un castillo, ciudadela, etc.
+  En el ajedrez podemos aplicar estas definiciones a las ubicaciones de piezas del bando en desventaja que impiden el progreso del jugador rival</description>
+    </item>
     
     <item>
       <title>El ajedrez y sus estados mentales</title>
