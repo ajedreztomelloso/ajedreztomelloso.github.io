@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ajedreztomelloso.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2017</title>
       <link>https://ajedreztomelloso.github.io/tags/2017/</link>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/2017/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Angelcarlos</title>
       <link>https://ajedreztomelloso.github.io/tags/angelcarlos/</link>
-      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/angelcarlos/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Articulo</title>
       <link>https://ajedreztomelloso.github.io/tags/articulo/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/articulo/</guid>
       <description></description>
@@ -288,6 +288,15 @@
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/joseramonramirez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noticias</title>
+      <link>https://ajedreztomelloso.github.io/tags/noticias/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/noticias/</guid>
       <description></description>
     </item>
     
