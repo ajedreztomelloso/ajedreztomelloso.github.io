@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ajedreztomelloso.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>2017</title>
       <link>https://ajedreztomelloso.github.io/tags/2017/</link>
-      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/2017/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Angelcarlos</title>
       <link>https://ajedreztomelloso.github.io/tags/angelcarlos/</link>
-      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/angelcarlos/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Articulo</title>
       <link>https://ajedreztomelloso.github.io/tags/articulo/</link>
-      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/articulo/</guid>
       <description></description>
@@ -204,7 +204,7 @@
     <item>
       <title>Entrevista</title>
       <link>https://ajedreztomelloso.github.io/tags/entrevista/</link>
-      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/entrevista/</guid>
       <description></description>
@@ -234,6 +234,15 @@
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/familia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fintemporada</title>
+      <link>https://ajedreztomelloso.github.io/tags/fintemporada/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/fintemporada/</guid>
       <description></description>
     </item>
     
@@ -292,9 +301,18 @@
     </item>
     
     <item>
+      <title>Juancarlosdominguez</title>
+      <link>https://ajedreztomelloso.github.io/tags/juancarlosdominguez/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/tags/juancarlosdominguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Noticias</title>
       <link>https://ajedreztomelloso.github.io/tags/noticias/</link>
-      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/noticias/</guid>
       <description></description>
@@ -312,7 +330,7 @@
     <item>
       <title>Padres</title>
       <link>https://ajedreztomelloso.github.io/tags/padres/</link>
-      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ajedreztomelloso.github.io/tags/padres/</guid>
       <description></description>
