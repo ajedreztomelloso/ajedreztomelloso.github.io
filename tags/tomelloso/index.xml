@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomelloso on Club Ajedrez Tomelloso</title>
-    <link>http://www.ajedreztomelloso.com/tags/tomelloso/</link>
+    <link>https://ajedreztomelloso.github.io/tags/tomelloso/</link>
     <description>Recent content in Tomelloso on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
     <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.ajedreztomelloso.com/tags/tomelloso/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ajedreztomelloso.github.io/tags/tomelloso/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lista de jugadores con ELO que han jugado en el Club Ajedrez Tomelloso</title>
-      <link>http://www.ajedreztomelloso.com/lista_elo/</link>
+      <link>https://ajedreztomelloso.github.io/lista_elo/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/lista_elo/</guid>
+      <guid>https://ajedreztomelloso.github.io/lista_elo/</guid>
       <description>Ordenar por Elo
 Ordenar por Record
 Ordenar solo jugadores Activos
@@ -27,10 +27,10 @@ Lista de jugadores con elo que han jugado en el Club Ajedrez Tomelloso
     
     <item>
       <title>Elo, record de jugadores del Club Ajedrez Tomelloso</title>
-      <link>http://www.ajedreztomelloso.com/lista_de_elo_records/</link>
+      <link>https://ajedreztomelloso.github.io/lista_de_elo_records/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/lista_de_elo_records/</guid>
+      <guid>https://ajedreztomelloso.github.io/lista_de_elo_records/</guid>
       <description>Ordenar por Elo
 Ordenar por Record
 Ordenar solo jugadores Activos
@@ -40,10 +40,10 @@ Lista de jugadores Club Ajedrez Tomelloso ordenados con su mejor elo
     
     <item>
       <title>Lista de Elo Club Ajedrez Tomelloso</title>
-      <link>http://www.ajedreztomelloso.com/lista_de_elo_activos/</link>
+      <link>https://ajedreztomelloso.github.io/lista_de_elo_activos/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ajedreztomelloso.com/lista_de_elo_activos/</guid>
+      <guid>https://ajedreztomelloso.github.io/lista_de_elo_activos/</guid>
       <description>Ordenar por Elo
 Ordenar por Record
 Ordenar solo jugadores Activos
