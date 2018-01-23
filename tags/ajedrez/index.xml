@@ -2,32 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ajedrez on Club Ajedrez Tomelloso</title>
-    <link>https://ajedreztomelloso.github.io/tags/ajedrez/</link>
+    <link>http://www.ajedreztomelloso.com/tags/ajedrez/</link>
     <description>Recent content in Ajedrez on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ajedreztomelloso.github.io/tags/ajedrez/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ajedreztomelloso.com/tags/ajedrez/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>¿Por qué nos hicimos ajedrecistas?</title>
+      <link>http://www.ajedreztomelloso.com/post/ajedrecistas/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/ajedrecistas/</guid>
+      <description>Esta mañana me he sentado en el salón de mi casa acompañando a mi padre. Yo quería hablarle de alguna idea rara que tengo en la cabeza para saber su opinión, y aunque él estaba con el ordenador se lo he comentado. Simplemente quería que alguien me escuchara&amp;hellip; pero, de repente, he visto su mirada. No había oído nada de lo que yo le había dicho. Sus ojos se movían rápido, visualizando la pantalla.</description>
+    </item>
+    
+    <item>
       <title>Ajedrez III Torneo familiar de Tomelloso </title>
-      <link>https://ajedreztomelloso.github.io/post/ajedrezfamilia/</link>
+      <link>http://www.ajedreztomelloso.com/post/ajedrezfamilia/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ajedrezfamilia/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/ajedrezfamilia/</guid>
       <description>Nací el año 1936 en un pueblo de la llanura manchega, un pueblo joven, apenas sin historia, luminoso, donde parecía que todo estaba a la vista. Mi familia, tan numerosa, las gentes, las calles tan rectas, tan bien proporcionadas que parecían larguísimas, el pueblo tan habitado, el campo tan cerca, todo me parecía emocionante y protector. El mejor mundo para un niño. (Antonio López García El pais 27/06/2006)
  El día 10 de junio, nuestro club, gracias a la generosidad del Colegio Público Jose María de Moral, se reunía familiarmente en su pabellón para celebrar el último acto de la temporada.</description>
     </item>
     
     <item>
       <title>El ajedrez en la gala del comercio de Tomelloso </title>
-      <link>https://ajedreztomelloso.github.io/post/ajedrezcomercio/</link>
+      <link>http://www.ajedreztomelloso.com/post/ajedrezcomercio/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ajedrezcomercio/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/ajedrezcomercio/</guid>
       <description>Sus oficinas eran una enorme habitación diáfana, con una gran mesa rectangular en el centro bordeada de ordenadores donde varios empleados hacían el seguimiento de la fase de producción. Él es uno más. Al lado otra mesa de menor superficie hacía el papel de sala de reuniones. &amp;ldquo;Tratamos de compartir toda la información con los empleados para que puedan hacer mejor su trabajo&amp;rdquo;.
  El día 9 de junio, ya bien avanzada la tarde y la II Gala del Comercio de Tomelloso nuestro club sacó sus armas de construcción masiva a la calle.</description>
     </item>

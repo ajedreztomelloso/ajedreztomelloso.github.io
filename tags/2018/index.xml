@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018 on Club Ajedrez Tomelloso</title>
+    <link>http://www.ajedreztomelloso.com/tags/2018/</link>
+    <description>Recent content in 2018 on Club Ajedrez Tomelloso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.ajedreztomelloso.com/tags/2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VII Torneo de Bolaños</title>
+      <link>http://www.ajedreztomelloso.com/post/torneobolanos2018/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/torneobolanos2018/</guid>
+      <description>El día 7 de enero de 2018, a partir de las 10 de la mañana, está prevista la celebración, en la Casa de Cultura de Bolaños de Calatrava (calle Toledillo nº 21) del VII Torneo de Ajedrez “ACD Jeyma”.
+La Asociación Cultural y Deportiva Jeyma, junto con la Delegación de Ajedrez de Ciudad Real, organizan este torneo abierto a todo aquel que desee participar, sin limitaciones de sexo, edad o procedencia.</description>
+    </item>
+    
+  </channel>
+</rss>

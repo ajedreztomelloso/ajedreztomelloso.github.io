@@ -2,463 +2,526 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Club Ajedrez Tomelloso</title>
-    <link>https://ajedreztomelloso.github.io/tags/</link>
+    <link>http://www.ajedreztomelloso.com/tags/</link>
     <description>Recent content in Tags on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ajedreztomelloso.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ajedreztomelloso.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2017</title>
-      <link>https://ajedreztomelloso.github.io/tags/2017/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      <link>http://www.ajedreztomelloso.com/tags/2017/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018</title>
+      <link>http://www.ajedreztomelloso.com/tags/2018/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/tags/2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Absoluto</title>
-      <link>https://ajedreztomelloso.github.io/tags/absoluto/</link>
+      <link>http://www.ajedreztomelloso.com/tags/absoluto/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/absoluto/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/absoluto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Airen</title>
-      <link>https://ajedreztomelloso.github.io/tags/airen/</link>
+      <link>http://www.ajedreztomelloso.com/tags/airen/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/airen/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/airen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ajedrez</title>
-      <link>https://ajedreztomelloso.github.io/tags/ajedrez/</link>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <link>http://www.ajedreztomelloso.com/tags/ajedrez/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/ajedrez/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/ajedrez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ajedrezenfamilia</title>
-      <link>https://ajedreztomelloso.github.io/tags/ajedrezenfamilia/</link>
+      <link>http://www.ajedreztomelloso.com/tags/ajedrezenfamilia/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/ajedrezenfamilia/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/ajedrezenfamilia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ajedrezenlacalle</title>
-      <link>https://ajedreztomelloso.github.io/tags/ajedrezenlacalle/</link>
+      <link>http://www.ajedreztomelloso.com/tags/ajedrezenlacalle/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/ajedrezenlacalle/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/ajedrezenlacalle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ajedrezviernes</title>
-      <link>https://ajedreztomelloso.github.io/tags/ajedrezviernes/</link>
+      <link>http://www.ajedreztomelloso.com/tags/ajedrezviernes/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/ajedrezviernes/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/ajedrezviernes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Albertomartinezcebolla</title>
-      <link>https://ajedreztomelloso.github.io/tags/albertomartinezcebolla/</link>
+      <link>http://www.ajedreztomelloso.com/tags/albertomartinezcebolla/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/albertomartinezcebolla/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/albertomartinezcebolla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Almansa</title>
-      <link>https://ajedreztomelloso.github.io/tags/almansa/</link>
+      <link>http://www.ajedreztomelloso.com/tags/almansa/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/almansa/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/almansa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angelcarlos</title>
-      <link>https://ajedreztomelloso.github.io/tags/angelcarlos/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      <link>http://www.ajedreztomelloso.com/tags/angelcarlos/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/angelcarlos/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/angelcarlos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angelluis</title>
-      <link>https://ajedreztomelloso.github.io/tags/angelluis/</link>
+      <link>http://www.ajedreztomelloso.com/tags/angelluis/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/angelluis/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/angelluis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Articulo</title>
-      <link>https://ajedreztomelloso.github.io/tags/articulo/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      <link>http://www.ajedreztomelloso.com/tags/articulo/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/articulo/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/articulo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bases</title>
-      <link>https://ajedreztomelloso.github.io/tags/bases/</link>
+      <link>http://www.ajedreztomelloso.com/tags/bases/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/bases/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/bases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blitz</title>
-      <link>https://ajedreztomelloso.github.io/tags/blitz/</link>
+      <link>http://www.ajedreztomelloso.com/tags/blitz/</link>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/blitz/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/blitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bolaños</title>
+      <link>http://www.ajedreztomelloso.com/tags/bola%C3%B1os/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/tags/bola%C3%B1os/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Campeonatoespaña</title>
-      <link>https://ajedreztomelloso.github.io/tags/campeonatoespa%C3%B1a/</link>
+      <link>http://www.ajedreztomelloso.com/tags/campeonatoespa%C3%B1a/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/campeonatoespa%C3%B1a/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/campeonatoespa%C3%B1a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Campus</title>
-      <link>https://ajedreztomelloso.github.io/tags/campus/</link>
+      <link>http://www.ajedreztomelloso.com/tags/campus/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/campus/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/campus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carlosgarcia</title>
-      <link>https://ajedreztomelloso.github.io/tags/carlosgarcia/</link>
+      <link>http://www.ajedreztomelloso.com/tags/carlosgarcia/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/carlosgarcia/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/carlosgarcia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clases</title>
-      <link>https://ajedreztomelloso.github.io/tags/clases/</link>
+      <link>http://www.ajedreztomelloso.com/tags/clases/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/clases/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/clases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colegios</title>
+      <link>http://www.ajedreztomelloso.com/tags/colegios/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/tags/colegios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cronica</title>
-      <link>https://ajedreztomelloso.github.io/tags/cronica/</link>
+      <link>http://www.ajedreztomelloso.com/tags/cronica/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/cronica/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/cronica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Educacion</title>
-      <link>https://ajedreztomelloso.github.io/tags/educacion/</link>
+      <link>http://www.ajedreztomelloso.com/tags/educacion/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/educacion/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/educacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elo</title>
+      <link>http://www.ajedreztomelloso.com/tags/elo/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/tags/elo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enlaces</title>
-      <link>https://ajedreztomelloso.github.io/tags/enlaces/</link>
+      <link>http://www.ajedreztomelloso.com/tags/enlaces/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/enlaces/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/enlaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entrevista</title>
-      <link>https://ajedreztomelloso.github.io/tags/entrevista/</link>
+      <link>http://www.ajedreztomelloso.com/tags/entrevista/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/entrevista/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/entrevista/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equipos</title>
-      <link>https://ajedreztomelloso.github.io/tags/equipos/</link>
-      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <link>http://www.ajedreztomelloso.com/tags/equipos/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/equipos/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/equipos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Espana</title>
-      <link>https://ajedreztomelloso.github.io/tags/espana/</link>
+      <link>http://www.ajedreztomelloso.com/tags/espana/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/espana/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/espana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Familia</title>
-      <link>https://ajedreztomelloso.github.io/tags/familia/</link>
+      <link>http://www.ajedreztomelloso.com/tags/familia/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/familia/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/familia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fintemporada</title>
-      <link>https://ajedreztomelloso.github.io/tags/fintemporada/</link>
+      <link>http://www.ajedreztomelloso.com/tags/fintemporada/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/fintemporada/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/fintemporada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fortaleza</title>
-      <link>https://ajedreztomelloso.github.io/tags/fortaleza/</link>
+      <link>http://www.ajedreztomelloso.com/tags/fortaleza/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/fortaleza/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/fortaleza/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Galacomercio</title>
-      <link>https://ajedreztomelloso.github.io/tags/galacomercio/</link>
+      <link>http://www.ajedreztomelloso.com/tags/galacomercio/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/galacomercio/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/galacomercio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Historia</title>
-      <link>https://ajedreztomelloso.github.io/tags/historia/</link>
+      <link>http://www.ajedreztomelloso.com/tags/historia/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/historia/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/historia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>https://ajedreztomelloso.github.io/tags/images/</link>
+      <link>http://www.ajedreztomelloso.com/tags/images/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/images/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instagram</title>
-      <link>https://ajedreztomelloso.github.io/tags/instagram/</link>
+      <link>http://www.ajedreztomelloso.com/tags/instagram/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/instagram/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interescolar</title>
+      <link>http://www.ajedreztomelloso.com/tags/interescolar/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/tags/interescolar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joseramonramirez</title>
-      <link>https://ajedreztomelloso.github.io/tags/joseramonramirez/</link>
+      <link>http://www.ajedreztomelloso.com/tags/joseramonramirez/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/joseramonramirez/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/joseramonramirez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Juancarlosdominguez</title>
-      <link>https://ajedreztomelloso.github.io/tags/juancarlosdominguez/</link>
+      <link>http://www.ajedreztomelloso.com/tags/juancarlosdominguez/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/juancarlosdominguez/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/juancarlosdominguez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noticias</title>
-      <link>https://ajedreztomelloso.github.io/tags/noticias/</link>
+      <link>http://www.ajedreztomelloso.com/tags/noticias/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/noticias/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/noticias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pacoramirez</title>
-      <link>https://ajedreztomelloso.github.io/tags/pacoramirez/</link>
+      <link>http://www.ajedreztomelloso.com/tags/pacoramirez/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/pacoramirez/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/pacoramirez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Padres</title>
-      <link>https://ajedreztomelloso.github.io/tags/padres/</link>
+      <link>http://www.ajedreztomelloso.com/tags/padres/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/padres/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/padres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patrocinadores</title>
-      <link>https://ajedreztomelloso.github.io/tags/patrocinadores/</link>
-      <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+      <link>http://www.ajedreztomelloso.com/tags/patrocinadores/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/patrocinadores/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/patrocinadores/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Problemas</title>
-      <link>https://ajedreztomelloso.github.io/tags/problemas/</link>
+      <link>http://www.ajedreztomelloso.com/tags/problemas/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/problemas/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/problemas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Provincial</title>
-      <link>https://ajedreztomelloso.github.io/tags/provincial/</link>
+      <link>http://www.ajedreztomelloso.com/tags/provincial/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/provincial/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/provincial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Provincialabsoluto</title>
-      <link>https://ajedreztomelloso.github.io/tags/provincialabsoluto/</link>
+      <link>http://www.ajedreztomelloso.com/tags/provincialabsoluto/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/provincialabsoluto/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/provincialabsoluto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Provincialedades2017</title>
-      <link>https://ajedreztomelloso.github.io/tags/provincialedades2017/</link>
+      <link>http://www.ajedreztomelloso.com/tags/provincialedades2017/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/provincialedades2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/provincialedades2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regional</title>
-      <link>https://ajedreztomelloso.github.io/tags/regional/</link>
+      <link>http://www.ajedreztomelloso.com/tags/regional/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/regional/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/regional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regional2017</title>
-      <link>https://ajedreztomelloso.github.io/tags/regional2017/</link>
+      <link>http://www.ajedreztomelloso.com/tags/regional2017/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/regional2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/regional2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regionalblitz</title>
-      <link>https://ajedreztomelloso.github.io/tags/regionalblitz/</link>
+      <link>http://www.ajedreztomelloso.com/tags/regionalblitz/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/regionalblitz/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/regionalblitz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regionalporequipos</title>
-      <link>https://ajedreztomelloso.github.io/tags/regionalporequipos/</link>
+      <link>http://www.ajedreztomelloso.com/tags/regionalporequipos/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/regionalporequipos/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/regionalporequipos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regionalrelampago</title>
-      <link>https://ajedreztomelloso.github.io/tags/regionalrelampago/</link>
+      <link>http://www.ajedreztomelloso.com/tags/regionalrelampago/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/regionalrelampago/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/regionalrelampago/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regionalsub2017</title>
-      <link>https://ajedreztomelloso.github.io/tags/regionalsub2017/</link>
+      <link>http://www.ajedreztomelloso.com/tags/regionalsub2017/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/regionalsub2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/regionalsub2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relato</title>
-      <link>https://ajedreztomelloso.github.io/tags/relato/</link>
+      <link>http://www.ajedreztomelloso.com/tags/relato/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/relato/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/relato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sub</title>
-      <link>https://ajedreztomelloso.github.io/tags/sub/</link>
+      <link>http://www.ajedreztomelloso.com/tags/sub/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/sub/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/sub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomelloso</title>
+      <link>http://www.ajedreztomelloso.com/tags/tomelloso/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/tags/tomelloso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torneo</title>
+      <link>http://www.ajedreztomelloso.com/tags/torneo/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/tags/torneo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verano</title>
-      <link>https://ajedreztomelloso.github.io/tags/verano/</link>
+      <link>http://www.ajedreztomelloso.com/tags/verano/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/tags/verano/</guid>
+      <guid>http://www.ajedreztomelloso.com/tags/verano/</guid>
       <description></description>
     </item>
     

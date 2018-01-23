@@ -2,88 +2,178 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017 on Club Ajedrez Tomelloso</title>
-    <link>https://ajedreztomelloso.github.io/tags/2017/</link>
+    <link>http://www.ajedreztomelloso.com/tags/2017/</link>
     <description>Recent content in 2017 on Club Ajedrez Tomelloso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>All rights reserved - 2017</copyright>
-    <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ajedreztomelloso.github.io/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ajedreztomelloso.com/tags/2017/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Carta a los Patrocinadores</title>
+      <link>http://www.ajedreztomelloso.com/post/cartapatrocinadores/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/cartapatrocinadores/</guid>
+      <description>Estimados compañeros,
+Tenemos una deuda pendiente con vosotros. Es muy difícil agradeceros que en este año 2017 nos hayáis acompañado en la aventura de este club por los tableros de ajedrez de toda España. Nos habéis aportado mucho, y por ello hemos podido cumplir un año más muchos de los objetivos que en este año se nos han puesto por delante. Sabemos lo difícil que es apostar en estos tiempos de crisis por el patrocinio de cualquier cosa, y por ello os habéis ganado un sitio más entre nosotros.</description>
+    </item>
+    
+    <item>
+      <title>Histórico Campeonato Interescolar</title>
+      <link>http://www.ajedreztomelloso.com/interescolarhistorico/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/interescolarhistorico/</guid>
+      <description>     Jugador Trofeos     1 Raúl Moreno Valero oro: I Interescolaroro: II Interescolaroro: III Interescolar   2 Santiago Benito Olmedo oro: IV Interescolaroro: V Interescolar plata: II Interescolar   3 Pedro Javier González García oro: VI Interescolarplata: V Interescolar   4 Miguel Castro Paraíso oro: VIII Interescolar plata: VII Interescolar   5 Marta Jiménez Daza oro: VII Interescolar   6 Raúl Navarro González plata: VI Interescolar bronce: IV Interescolar bronce: V Interescolarbronce: VIII Interescolar   7 Juan José Losa Ordóñez plata: I Interescolar bronce: II Interescolar   8 Sergio Moreno Lara plata: II Interescolar bronce: I Interescolar   9 José Perales Patón plata: IV Interescolar   10 Álvaro Navarro González plata: VIII Interescolar   12 Carmen María Benito Olmedo bronce: III Interescolar   12 Álvaro Moreno Perona bronce: VI Interescolar   13 Vicente Rosado Poveda bronce: VII Interescolar        Colegio Trofeos     1 Carmelo Cortés oro: II Interescolar oro: III Interescolar oro: IV Interescolar plata: I Interescolar plata: V Interescolar bronce: VIII Interescolar   2 José María del Moral oro: I Interescolar plata: III Interescolar plata: VII Interescolar bronce: IV Interescolar bronce: V Interescolar   3 Miguel de Cervantes oro: V Interescolar plata: IV Interescolar bronce: II Interescolar bronce: III Interescolar   4 San José de Calasanz oro: VI Interescolar plata: II Interescolar bronce: I Interescolar   5 Doña Crisanta oro: VIII Interescolar plata: VI Interescolar bronce: VII Interescolar   6 Félix Grande oro: VII Interescolar plata: VIII Interescolar   7 Embajadores bronce: VI Interescolar    I Interescolar Año 2010     General  Colegio     1 Raúl Moreno Valero(Jose Mª del Moral) 1 José María del Moral   2 Sergio Moreno Lara(Cervantes) 2 Carmelo Cortés   3 Juan José Losa Ordoñez(Carmelo Cortés) 3 San José de Calasanz    Participantes  47    II Interescolar Año 2011     General  Colegio     1 Raúl Moreno Valero(Jose Mª del Moral) 1 Carmelo Cortés   2 Juan José Losa Ordoñez(Carmelo Cortés) 2 San José de Calasanz   3 Sergio Moreno Lara(Cervantes) 3 Miguel de Cervantes    Participantes  54    III Interescolar Año 2012     General  Colegio     1 Raúl Moreno Valero(Jose Mª del Moral) 1 Carmelo Cortés   2 Santiago Benito Olmedo(Carmelo Cortés) 2 José María del Moral   3 Carmen María Benito Olmedo(Carmelo Cortés) 3 Miguel de Cervantes    Participantes  53    IV Interescolar Año 2013     General  Colegio     1 Santiago Benito Olmedo(Carmelo Cortés) 1 Carmelo Cortés   2 José Perales Patón(Carmelo Cortés) 2 Miguel de Cervantes   3 Raúl Navarro González(Doña Crisanta) 3 José María del Moral    Participantes  41    V Interescolar Año 2014     General  Colegio     1 Santiago Benito Olmedo(Carmelo Cortés) 1 Miguel de Cervantes   2 Pedro Javier González García(Cervantes) 2 Carmelo Cortés   3 Raúl Navarro González(Doña Crisanta) 3 José María del Moral    Participantes  37    VI Interescolar Año 2015     General  Colegio     1 Pedro Javier González García(Cervantes) 1 San José de Calasanz   2 Raúl Navarro González(Doña Crisanta) 2 Doña Crisanta   3 Álvaro Moreno Perona(San José de Calasanz) 3 Embajadores    Participantes  36    VII Interescolar Año 2016     General  Colegio     1 Marta Jiménez Daza(Jose Mª del Moral) 1 Félix Grande   2 Miguel Castro Paraíso(Carmelo Cortés) 2 José María del Moral   3 Vicente Rosado Poveda(Félix Grande) 3 Doña Crisanta    Participantes  64    VIII Interescolar Año 2017     General  Colegio     1 Miguel Castro Paraíso(Carmelo Cortés) 1 Doña Crisanta   2 Álvaro Navarro González(Doña Crisanta) 2 Félix Grande   3 Raúl Navarro González(Doña Crisanta) 3 Carmelo Cortés    Participantes  70    </description>
+    </item>
+    
+    <item>
+      <title>VIII Campeonato Interescolar Ajedrez 2017</title>
+      <link>http://www.ajedreztomelloso.com/interescolarfinal17/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/interescolarfinal17/</guid>
+      <description>Octava edición del Campeonato Interescolar de Ajedrez, record de asistencia, con 70 jugadores procedentes de once colegios de la localidad, Doña Crisanta, Félix Grande, Carmelo Cortés, San José de Calasanz, Embajadores, Miguel de Cervantes, San Antonio, Virgen de las Viñas, Jose María del Moral, Topete, Santo Tomás de Aquino, Azorín y Santiago el Mayor.
+Miguel Castro, Campeón en la Categoría General, Álvaro Navarro subcampeón y Raúl Navarro tercer clasificado.
+Doña Crisanta Colegio Campeón, Subcampeón Félix Grande y tercer clasificado Carmelo Cortés.</description>
+    </item>
+    
+    <item>
+      <title>Lista de jugadores con ELO que han jugado en el Club Ajedrez Tomelloso</title>
+      <link>http://www.ajedreztomelloso.com/lista_elo/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/lista_elo/</guid>
+      <description>Ordenar por Elo
+Ordenar por Record
+Ordenar solo jugadores Activos
+Lista de jugadores con elo que han jugado en el Club Ajedrez Tomelloso
+    Jugadores Elo Record Año       1 García Moreno, Carlos 2291 2338 1991     2 Moreno Valero, Iván 2180 2209 1996     3 Ramírez Díaz, José Ramón 2174 2175 1987     4 López Quevedo, Eduardo 2164 2186 1992     5 López Quevedo, Ángel Carlos 2138 2151 1989     6 Martínez Cebolla, Alberto 2087 2109 1972     7 Domínguez Gutierrez, Juan Carlos 2055 2100 1969     8 Lomas Castro, Miguel Ángel 1991 2080 1985     9 Almasan, Calin-Ovidiu 1934 2198 1968     10 Muñoz Ovelar, Miguel Ángel 1905 1984 1976     11 Losa Ordóñez, Juan José 1829 1874 1999     12 Perales Patón, Miguel 1800 1850 1999     13 Corrochano Utrilla, David 1793 1823 1984     14 López Barrios, Ángel Luis 1787 1798 1957     15 Cañas Pradillo, Rubén 1782 1956 1986     16 Moreno Valero, Raúl 1711 1723 2001     17 Rosado Seco, Guillermo 1711 1785 1993     18 Palacios Hornero, Irene 1670 1736 1992     19 Espinosa Moreno, Carlos 1668 1702 1996     20 Quiralte Lara, José María 1649 1658 1998     21 Martinez Serna, Fco Adrián 1642 1683 1993     22 López Temprano, Clara 1630 1724 1996     23 Benito Olmedo, Santiago 1607 1617 2002     24 Ortiz Serna, Julián 1523 1523 1957     25 Jiménez García, Juan 1520 1559 2001     26 Novillo Marta, Jose Manuel 1478 1478 1996     27 Ramírez Aguado, Álvaro 1477 1529 2003     28 Losa Benito, Juan José 1476 1695 1966     29 Moreno Lara, Sergio 1362 1383 1999     30 Navarro Quevedo, Sergio 1344 1375 1998     31 Perales Patón, José 1334 1422 2001     32 Martínez Serrano, Cristina 1332 1352 1999     33 Castillejos Madrid, Pablo 1306 1306 1951     34 Bermejo Sánchez, Ángel José 1298 1298 1999     35 Olmedo Jiménez, Jorge 1283 1348 1998     36 Castro Paraíso, Miguel 1264 1348 2005     37 Rosado Seco, Gemma 1261 1289 1999     38 González García, Pedro Javier 1252 1269 2004     39 Lahoz Marquina, Jorge 1248 1254 1999     40 García de la Dueña, Pablo 1244 1268 2005     41 Rodrigo Díaz-Ropero, Jorge 1215 1215 2003     42 Benito Olmedo, Carmen María 1210 1281 2000     43 Navarro González, Raúl 1181 1204 2005     44 Domínguez Lozano, Adriana 1168 1184 2007     45 Ortiz Guzmán, Javier 1131 1172 1999     46 Rodrigo Díaz-Ropero, Carlos 1102 1125 2002     47 Navarro González, Álvaro 1028 1025 2007     48 Jiménez Daza, Marta 1012 1012 2005      Ordenar por Elo</description>
+    </item>
+    
+    <item>
+      <title>Elo, record de jugadores del Club Ajedrez Tomelloso</title>
+      <link>http://www.ajedreztomelloso.com/lista_de_elo_records/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/lista_de_elo_records/</guid>
+      <description>Ordenar por Elo
+Ordenar por Record
+Ordenar solo jugadores Activos
+Lista de jugadores Club Ajedrez Tomelloso ordenados con su mejor elo
+    Jugadores Record Elo Año       1 García Moreno, Carlos 2338 2291 1991     2 Moreno Valero, Iván 2209 2180 1996     3 Almasan, Calin-Ovidiu 2198 1934 1968     4 López Quevedo, Eduardo 2186 2164 1992     5 Ramírez Díaz, José Ramón 2175 2174 1987     6 López Quevedo, Ángel Carlos 2151 2138 1989     7 Martínez Cebolla, Alberto 2109 2087 1972     8 Domínguez Gutierrez, Juan Carlos 2100 2055 1969     9 Lomas Castro, Miguel Ángel 2080 1991 1985     10 Muñoz Ovelar, Miguel Ángel 1984 1905 1976     11 Cañas Pradillo, Rubén 1956 1782 1986     12 Losa Ordóñez, Juan José 1874 1829 1999     13 Perales Paton, Miguel 1850 1800 1999     14 Corrochano Utrilla, David 1823 1793 1984     15 López Barrios, Ángel Luis 1798 1787 1957     16 Rosado Seco, Guillermo 1785 1711 1993     17 Palacios Hornero, Irene 1736 1670 1992     18 López Temprano, Clara 1724 1630 1996     19 Moreno Valero, Raúl 1723 1711 2001     20 Espinosa Moreno, Carlos 1702 1668 1996     21 Losa Benito, Juan José 1695 1476 1966     22 Martinez Serna, Fco Adrián 1683 1642 1993     23 Quiralte Lara, José María 1658 1649 1998     24 Benito Olmedo, Santiago 1617 1607 2002     25 Jiménez García, Juan 1559 1520 2001     26 Ramírez Aguado, Álvaro 1529 1477 2003     27 Ortiz Serna, Julián 1523 1523 1957     28 Novillo Marta, Jose Manuel 1478 1478 1996     29 Perales Paton, José 1422 1334 2001     30 Moreno Lara, Sergio 1383 1362 1999     31 Navarro Quevedo, Sergio 1375 1344 1998     32 Martínez Serrano, Cristina 1352 1332 1999     33 Olmedo Jiménez, Jorge 1348 1283 1998     34 Castro Paraíso, Miguel 1348 1264 2005     35 Castillejos Madrid, Pablo 1306 1306 1951     36 Bermejo Sánchez, Ángel José 1298 1298 1999     37 Rosado Seco, Gemma 1289 1261 1999     38 Benito Olmedo, Carmen María 1281 1210 2000     39 González García, Pedro Javier 1269 1252 2004     40 García de la Dueña, Pablo 1268 1244 2005     41 Lahoz Marquina, Jorge 1254 1248 1999     42 Rodrigo Díaz-Ropero, Jorge 1215 1215 2003     43 Navarro González, Raúl 1204 1181 2005     44 Domínguez Lozano, Adriana 1184 1168 2005     45 Ortiz Guzmán, Javier 1172 1131 1999     46 Rodrigo Díaz-Ropero, Carlos 1125 1102 2002     47 Navarro González, Álvaro 1025 1028 2007     48 Jiménez Daza, Marta 1012 1012 2005      Ordenar por Elo</description>
+    </item>
+    
+    <item>
+      <title>Lista de Elo Club Ajedrez Tomelloso</title>
+      <link>http://www.ajedreztomelloso.com/lista_de_elo_activos/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/lista_de_elo_activos/</guid>
+      <description>Ordenar por Elo
+Ordenar por Record
+Ordenar solo jugadores Activos
+Lista de jugadores del Club Ajedrez Tomelloso
+    Jugadores Elo Record Año       1 García Moreno, Carlos 2291 2338 1991     2 Moreno Valero, Iván 2180 2209 1996     3 Ramírez Díaz, José Ramón 2174 2175 1987     4 López Quevedo, Eduardo 2164 2186 1992     5 López Quevedo, Ángel Carlos 2138 2151 1989     6 Domínguez Gutierrez, Juan Carlos 2055 2100 1969     7 Losa Ordóñez, Juan José 1829 1874 1999     8 Perales Paton, Miguel 1800 1850 1999     9 Corrochano Utrilla, David 1793 1823 1984     10 López Barrios, Ángel Luis 1787 1798 1957     11 Moreno Valero, Raúl 1711 1723 2001     12 Quiralte Lara, José María 1649 1658 1998     13 Benito Olmedo, Santiago 1607 1617 2002     14 Ortiz Serna, Julián 1523 1523 1957     15 Jiménez García, Juan 1520 1559 2001     16 Ramírez Aguado, Álvaro 1477 1529 2003     17 Losa Benito, Juan José 1476 1695 1966     18 Perales Paton, José 1334 1422 2001     19 Castillejos Madrid, Pablo 1306 1306 1951     20 Castro Paraíso, Miguel 1264 1348 2005     21 González García, Pedro Javier 1252 1269 2004     22 García de la Dueña, Pablo 1244 1268 2005     23 Rodrigo Díaz-Ropero, Jorge 1215 1215 2003     24 Navarro González, Raúl 1181 1204 2005     25 Domínguez Lozano, Adriana 1168 1184 2005     26 Ortiz Guzmán, Javier 1131 1172 1999     27 Navarro González, Álvaro 1028 1025 2007     28 Jiménez Daza, Marta 1012 1012 2005      Ordenar por Elo</description>
+    </item>
+    
+    <item>
+      <title>Bases VIII Campeonato Interescolar Ajedrez</title>
+      <link>http://www.ajedreztomelloso.com/interescolar2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/interescolar2017/</guid>
+      <description>Día de juego: 16 de diciembre de 2017.
+ Lugar de juego: Pabellón de la Ciudad Deportiva. Avda Niort, 1 Sistema de juego: Suizo a 7 rondas.
+ Ritmo de juego: 20 minutos más 3 segundos por movimiento. Desempate: Los sistemas de desempate serán: Bucholz Mediano , Bucholz, Progresivo Orden de la participación: se aplicará el siguiente orden:
+1.ELO FIDE 2.ELO FEDA 3. ORDEN ALFABÉTICO por apellidos     Horario de la competición      Presentación de jugadores 09:30    1º Ronda 10:00 5º Ronda 16:00   2º Ronda 10:50 6º Ronda 16:50   3º Ronda 11:40 7º Ronda 17:40   4º Ronda 12:30    Entrega de premios 18:30     Normas de competición:</description>
+    </item>
+    
+    <item>
+      <title>¿Por qué nos hicimos ajedrecistas?</title>
+      <link>http://www.ajedreztomelloso.com/post/ajedrecistas/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ajedreztomelloso.com/post/ajedrecistas/</guid>
+      <description>Esta mañana me he sentado en el salón de mi casa acompañando a mi padre. Yo quería hablarle de alguna idea rara que tengo en la cabeza para saber su opinión, y aunque él estaba con el ordenador se lo he comentado. Simplemente quería que alguien me escuchara&amp;hellip; pero, de repente, he visto su mirada. No había oído nada de lo que yo le había dicho. Sus ojos se movían rápido, visualizando la pantalla.</description>
+    </item>
+    
+    <item>
       <title>Y yo, ¿por qué sigo jugando al ajedrez?</title>
-      <link>https://ajedreztomelloso.github.io/post/yoporquesigojugandoalajedrez/</link>
+      <link>http://www.ajedreztomelloso.com/post/yoporquesigojugandoalajedrez/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/yoporquesigojugandoalajedrez/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/yoporquesigojugandoalajedrez/</guid>
       <description>Corría el frío invierno de 1981 en Mataró (Barcelona) y mis amigos no jugaban tanto en la calle, como en otras épocas del año.
  Mataró (a 30 km. al norte de Barcelona)   Una tarde, bajé a la calle y sólo me encontré a mi amigo Rafalín. Nuestros consistían en jugar al escondite, policías y ladrones, saltar al potro, jugar a las cartas y un largo etcétera en los que todos tenían en común que eran para más de cuatro personas.</description>
     </item>
     
     <item>
       <title>Entrevista Padres</title>
-      <link>https://ajedreztomelloso.github.io/post/entrevistapadres/</link>
+      <link>http://www.ajedreztomelloso.com/post/entrevistapadres/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/entrevistapadres/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/entrevistapadres/</guid>
       <description>El club va creciendo poco a poco. Eso siempre es gracias al apoyo de los padres. Es un papel fundamental estar ahí dando fuerza a los ajedrecistas durante los torneos y ver como se hacen mayores en el mundo de las 64 casillas. La experiencia de ver como un niño o niña evoluciona, va cambiando su manera de pensar, de afrontar las decisiones del día a día es una de las más gratas sensaciones de tener un ajedrecista en casa.</description>
     </item>
     
     <item>
       <title>Fin de Temporada</title>
-      <link>https://ajedreztomelloso.github.io/post/fintemporada2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/fintemporada2017/</link>
       <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/fintemporada2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/fintemporada2017/</guid>
       <description>Septiembre siempre es el mes de las nuevas incorporaciones a la escuela de ajedrez del Club Ajedrez Tomelloso. Y esto quiere decir que se acaba la temporada. Un año en el cual hemos estrenado esta página donde tantas palabras dedicadas a nuestro deporte, a nuestros chicos, a nuestros jugadores y a nuestro pueblo hemos dedicado. Tenemos nuestros defectos pero la actitud de compartir todo lo que nos apasiona nunca nos van a faltar por lo que os espera otro artículo largo y lleno de emociones, así que los más sensibles y entrañables, o los perezosos, pueden tomar la decisión de no continuar.</description>
     </item>
     
     <item>
       <title>¿Es el ajedrez aburrido?</title>
-      <link>https://ajedreztomelloso.github.io/post/ajedrezaburrido/</link>
+      <link>http://www.ajedreztomelloso.com/post/ajedrezaburrido/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ajedrezaburrido/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/ajedrezaburrido/</guid>
       <description>En una sociedad dominada por la televisión, el fútbol es por inercia el dueño del entretenimiento en España. Mientras se han pagado los 220 millones de euros por Neymar para que de piruetas en el Paris Sant Germaint; Francisco Vallejo -mejor jugador español de ajedrez- reconocía hace poco que recibía 2.000 euros al año de subvención para su preparación como ajedrecista profesional. El fútbol genera mucho dinero y es un deporte &amp;ldquo;entretenido&amp;rdquo; de ver.</description>
     </item>
     
     <item>
       <title>La Batalla del Regional de Ajedrez Relámpago</title>
-      <link>https://ajedreztomelloso.github.io/post/regionalrelampago/</link>
+      <link>http://www.ajedreztomelloso.com/post/regionalrelampago/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/regionalrelampago/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/regionalrelampago/</guid>
       <description>Dos clásicos de Ciudad Real (Tomelloso-Zugzwang_Infantes).   El Cuervo de tres ojos es un personaje misterioso ligado a los Antiguos Dioses de más allá del Muro. Es conocido entre los Hijos del Bosque como el Último Verdevidente. En un tiempo, fue un hombre de la Guardia de la Noche. Se dice de él que tiene mil ojos, y uno.
  El ajedrez manchego está muy vivo. Y no solo esta muy vivo sino que sabe jugar en equipo.</description>
     </item>
     
     <item>
       <title>I Open Blitz de Almansa</title>
-      <link>https://ajedreztomelloso.github.io/post/almansaregionalblitz/</link>
+      <link>http://www.ajedreztomelloso.com/post/almansaregionalblitz/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/almansaregionalblitz/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/almansaregionalblitz/</guid>
       <description>Como cada verano, la primera semana de agosto más de un centenar de ajedrecistas procedentes de todos los rincones de España se dieron cita en el XII Torneo de Promoción del Ajedrez en Almansa. Este &amp;ldquo;festival&amp;rdquo; consta de dos torneos: uno sub2300 y otro sub2000, además de diversas actividades paralelas que incluyen torneos nocturnos, excursiones, etc. (podéis encontrar en este blog una extensa crónica por parte de mis compañeros que participaron).</description>
     </item>
     
     <item>
       <title>Ajedrez en Almansa</title>
-      <link>https://ajedreztomelloso.github.io/post/almansa/</link>
+      <link>http://www.ajedreztomelloso.com/post/almansa/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/almansa/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/almansa/</guid>
       <description>El club de Ajedrez Tomelloso personificado en su tercera generación de jugadores hizo acto de presencia en el ya tradicional torneo de Ajedrez de Almansa.
  Empezaba agosto y con ello el tradicional abierto de Almansa. En esta ocasión, la sala de juego se trasladaba a una céntrica iglesia de la ciudad, y estaba dividida en tres salas: una para el torneo A y los tableros más altos del torneo B, otra para los jugadores invidentes y una última para el resto de tableros del torneo B.</description>
     </item>
     
     <item>
       <title>I Campeonato Ajedrez Blitz por Clubes Castilla La Mancha</title>
-      <link>https://ajedreztomelloso.github.io/post/ictorelampagoequipos/</link>
+      <link>http://www.ajedreztomelloso.com/post/ictorelampagoequipos/</link>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ictorelampagoequipos/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/ictorelampagoequipos/</guid>
       <description>Día de juego: 26 de agosto de 2017.
  Lugar de juego: Casino Tomelloso. Calle de Don Víctor Peñasco, 25 Sistema de juego: Suizo a 8 rondas.
  Ritmo de juego: 5 minutos más 3 segundos por movimiento. Puntuación de los encuentros:
@@ -92,19 +182,19 @@
     
     <item>
       <title>9º Puesto para Tomelloso en 2º División del Campeonato de España Por Equipos</title>
-      <link>https://ajedreztomelloso.github.io/post/espana2division2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/espana2division2017/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/espana2division2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/espana2division2017/</guid>
       <description>Disculpad mi osadía; pero somos un equipazo. Y no solo por conseguir tres podiums consecutivos con el título del campeonato incluido en los regionales de Castilla la Mancha. Ni por tener al mejor jugador de la región en los torneos por equipos en nuestro primer tablero. Ni siquiera este noveno puesto que nos deja por tres años consecutivos dentro del TOP TEN de equipos de 2º división en España. Somos un equipazo porque nos apasiona jugar al ajedrez, porque la calidad humana de este grupo no tiene límites y porque juntos sumamos y somos mejores.</description>
     </item>
     
     <item>
       <title>Fortalezas y otros planes defensivos en ajedrez</title>
-      <link>https://ajedreztomelloso.github.io/post/fortalezas/</link>
+      <link>http://www.ajedreztomelloso.com/post/fortalezas/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/fortalezas/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/fortalezas/</guid>
       <description>Según el Diccionario de la Real Academia, la palabra fortaleza tiene 6 definiciones, de las cuales para este texto pueden encajar las siguientes:
  Defensa natural que tiene un lugar o puesto por su misma situación
  Recinto fortificado, como un castillo, ciudadela, etc.
@@ -113,49 +203,49 @@
     
     <item>
       <title>Verano y Campus de Ajedrez</title>
-      <link>https://ajedreztomelloso.github.io/post/campus2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/campus2017/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/campus2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/campus2017/</guid>
       <description>Me pregunto si las estrellas se iluminan con el fin de que algún día, cada uno pueda encontrar la suya.
 El principito.- Saint-Exupéry Este verano el Club Ajedrez Tomelloso se ha vuelto niño de ocho años por tres veces para ajustarse el cinturón de seguridad en la silla de bebés colocada justo detrás del asiento del conductor y emprender el viaje rumbo a Salobreña (Granada) para disputar entre el 29 de junio y el 2 julio de 2017 el campeonato de España de Ajedrez sub-8.</description>
     </item>
     
     <item>
       <title>Regional Absoluto Individual 2017</title>
-      <link>https://ajedreztomelloso.github.io/post/regionalabsoluto2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/regionalabsoluto2017/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/regionalabsoluto2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/regionalabsoluto2017/</guid>
       <description>Crónica del regional por José Ramón Ramírez Entre los días 6 y 9 de julio se ha celebrado en la localidad conquense de Valverde de Júcar el Campeonato Regional Absoluto de ajedrez. Viendo la nómina de jugadores, era muy difícil hacer pronósticos a priori, ya que había muchos participantes con opciones de estar peleando por las primeras plazas.
 En la primera ronda, con piezas negras, tuve enfrente al conquense Óscar López.</description>
     </item>
     
     <item>
       <title>Subcampeones de Castilla la Mancha</title>
-      <link>https://ajedreztomelloso.github.io/post/regionalporequipos2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/regionalporequipos2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/regionalporequipos2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/regionalporequipos2017/</guid>
       <description>El pasado 15 de Junio coincidiendo con el Corpus como es tradición en nuestra región se celebró el campeonato Regional por Equipos de Castilla La Mancha. La mejor actuación en la historia de nuestro club con 5 victorias y un empate no sirvió para conseguir el campeonato debido a la igualdad del mismo, y en el desempate el Club Ajedrez Excalibur fue mejor que los nuestros y finalmente se proclamó campeón por segundo año consecutivo.</description>
     </item>
     
     <item>
       <title>Ajedrez III Torneo familiar de Tomelloso </title>
-      <link>https://ajedreztomelloso.github.io/post/ajedrezfamilia/</link>
+      <link>http://www.ajedreztomelloso.com/post/ajedrezfamilia/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/ajedrezfamilia/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/ajedrezfamilia/</guid>
       <description>Nací el año 1936 en un pueblo de la llanura manchega, un pueblo joven, apenas sin historia, luminoso, donde parecía que todo estaba a la vista. Mi familia, tan numerosa, las gentes, las calles tan rectas, tan bien proporcionadas que parecían larguísimas, el pueblo tan habitado, el campo tan cerca, todo me parecía emocionante y protector. El mejor mundo para un niño. (Antonio López García El pais 27/06/2006)
  El día 10 de junio, nuestro club, gracias a la generosidad del Colegio Público Jose María de Moral, se reunía familiarmente en su pabellón para celebrar el último acto de la temporada.</description>
     </item>
     
     <item>
       <title>Entrevistas Profesores de Tomelloso</title>
-      <link>https://ajedreztomelloso.github.io/post/entrevistasprofesores/</link>
+      <link>http://www.ajedreztomelloso.com/post/entrevistasprofesores/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/entrevistasprofesores/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/entrevistasprofesores/</guid>
       <description>Hemos conseguido reunir a docentes de nuestra localidad para poder realizar con ellos una entrevista y ver cual es el estado y su opinión acerca de la entrada del ajedrez en nuestras aulas. La verdad es que hemos disfrutado mucho trabajando con ellos durante todo el año y esperemos que disfrutéis tanto sus respuestas como nosotros.
 Los docente que se han atrevido con la entrevista han sido:
 Desde el colegio Félix Grande, donde el ajedrez ha ocupado una hora semanal en el horario lectivo de matématicas de los alumnos de 5º de primaria:</description>
@@ -163,10 +253,10 @@ Desde el colegio Félix Grande, donde el ajedrez ha ocupado una hora semanal en 
     
     <item>
       <title>III Torneo Familiar</title>
-      <link>https://ajedreztomelloso.github.io/torneofamiliariii/</link>
+      <link>http://www.ajedreztomelloso.com/torneofamiliariii/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/torneofamiliariii/</guid>
+      <guid>http://www.ajedreztomelloso.com/torneofamiliariii/</guid>
       <description>Día de juego: 10 de junio de 2017.
 Lugar de juego: Pabellón Jose María del Moral. Calle Reatas 2, Tomelloso, Ciudad Real.
 Sistema de juego: Torneo con formato por equipos. Los jugadores deben inscribirse por parejas. Dicha pareja tiene que estar formada por dos miembros de una misma unidad familiar, es decir padres, hijos o hermanos. En cada partida un jugador con las piezas blancas y el otro jugador con las piezas negras.</description>
@@ -174,28 +264,28 @@ Sistema de juego: Torneo con formato por equipos. Los jugadores deben inscribirs
     
     <item>
       <title>El ajedrez en las aulas del I.E.S. Airen de Tomelloso </title>
-      <link>https://ajedreztomelloso.github.io/post/airen/</link>
+      <link>http://www.ajedreztomelloso.com/post/airen/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/airen/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/airen/</guid>
       <description>La primera cita del Club Ajedrez Tomelloso con la enseñanza secundaria fue en el aula 4ª del I.E.S. Airén de Tomelloso, se produjo la mañana soleada del 24 de abril de 2017. Todavía en nuestra memoria el recital poético de sus alumnos y profesores en el Auditorio López Torres. Acompañados con el celo, el piano y el saxo, el niño yuntero, las nanas de la cebolla y el compañero del alma de Miguel Hernández parecían mas reales si cabe.</description>
     </item>
     
     <item>
       <title>Provincial Absoluto final </title>
-      <link>https://ajedreztomelloso.github.io/post/provincial_absoluto2017_5/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincial_absoluto2017_5/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/provincial_absoluto2017_5/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/provincial_absoluto2017_5/</guid>
       <description>Francisco Javier Sánchez Carrasco lleva militando 17 años en el club de ajedrez Zugzwang de Villanueva de los Infantes. Se define en su web como superoptimista con tendencia al riesgo.  La última jornada se antojaba decisiva para la suerte de este campeonato. Al maillot amarillo (José Ramón Rámirez) le esperaban dos puertos de categoría especial para llegar a Los Campo Eliseos. El primer envite lo tenía por la mañana con su compañero de club Iván Moreno.</description>
     </item>
     
     <item>
       <title>Campus de Verano 2017</title>
-      <link>https://ajedreztomelloso.github.io/campusverano2017/</link>
+      <link>http://www.ajedreztomelloso.com/campusverano2017/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/campusverano2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/campusverano2017/</guid>
       <description>Instalaciones: El campus se realizará en las instalaciones del Área de Deportes. Avenida de Niort,13700, Tomelloso, Ciudad Real.
 Fechas: Las fechas son del 19 al 28 de Julio (Lunes a Viernes).
 Horario: El campus se realizará en horario de mañana y tarde.
@@ -204,75 +294,75 @@ Horario: El campus se realizará en horario de mañana y tarde.
     
     <item>
       <title>Mis años de ajedrez en Tomelloso</title>
-      <link>https://ajedreztomelloso.github.io/post/historiaalbertomartinezcebolla/</link>
+      <link>http://www.ajedreztomelloso.com/post/historiaalbertomartinezcebolla/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/historiaalbertomartinezcebolla/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/historiaalbertomartinezcebolla/</guid>
       <description>Llegué a Tomelloso en 2001 con la ilusión de afrontar mi primer destino definitivo como profesor de instituto. Tengo muy buenos recuerdos de allí, y en particular del ajedrez. En el instituto coincidí con Juan Carlos Domínguez, un gran tipo que tenía la capacidad de hacerme reír a carcajadas con su gracejo andaluz, y que tuvo la generosidad de hacerme participar del club y de la escuela de ajedrez municipal. En el club de ajedrez y en la escuela municipal destacaba la presencia de Ángel Luis López, gran persona, alma mater y el motor del ajedrez en Tomelloso todos estos años.</description>
     </item>
     
     <item>
       <title>Provincial Absoluto 2ª jornada </title>
-      <link>https://ajedreztomelloso.github.io/post/provincial_absoluto2017_4/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincial_absoluto2017_4/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/provincial_absoluto2017_4/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/provincial_absoluto2017_4/</guid>
       <description>En la memoria no escrita del ajedrez tomellosero quedan esas tablas conseguidas por Julián Órtiz (contendiente en este campeonato) frente al múltiple campeón de España Miguel Illescas en unas simultáneas disputadas en Villarrobledo allá por 1986.  Jose Ramón Rámirez bolañego del Club Ajedrez Tomelloso es el patrón de este Provincial Absoluto de ajedrez, disputado en el Casino San Fernando de Tomelloso, bajo el destello silencioso de sus grandes espejos y acompñados por el lento latir de las campanas de la Parroquia de la Asunción.</description>
     </item>
     
     <item>
       <title>Historias y anécdotas de los provinciales absolutos de Ajedrez en C.Real </title>
-      <link>https://ajedreztomelloso.github.io/post/provincialabsoluto_anecdotas/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincialabsoluto_anecdotas/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/provincialabsoluto_anecdotas/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/provincialabsoluto_anecdotas/</guid>
       <description>Realizando una búsqueda en la hemeroteca de algunos periódicos provinciales, he encontrado que el primer Campeonato Provincial se celebró allá por el año 1946, si bien también he leído que, en aquella época, ya se organizaron torneos abiertos en diferentes localidades de la zona, como Alcázar, Almadén, Almagro o Tomelloso.
  Fragmento del diario Lanza, del 22-3-1946, en el que se menciona la primera competición provincial de ajedrez.</description>
     </item>
     
     <item>
       <title>Comienza el Campeonato Provincial Absoluto</title>
-      <link>https://ajedreztomelloso.github.io/post/provincialabsoluto2017_2/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincialabsoluto2017_2/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/provincialabsoluto2017_2/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/provincialabsoluto2017_2/</guid>
       <description>Se acabó la Romería de Tomelloso y llegó Mayo apretando con el calor, lo que también significa que empieza el Campeonato para dar a conocer el jugador con más talento de la provincia de Ciudad Real, el provincial absoluto. Desde 2007 no vemos este torneo por Tomelloso y este año el ajedrez ciudarrealeño vuelve a darse cita en nuestra localidad. Será una importante oportunidad para nuestas jóvenes promesas, que lucharán por ganarles a los mejores, luchar por subir o conseguir ese preciado ELO que los sitúe en el mapa internacional de la FIDE y por qué no entrar en la historia del ajedrez de nuestra provincia.</description>
     </item>
     
     <item>
       <title>Torneo Club Ajedrez Tomelloso 28/04</title>
-      <link>https://ajedreztomelloso.github.io/post/torneoviernes2104/</link>
+      <link>http://www.ajedreztomelloso.com/post/torneoviernes2104/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/torneoviernes2104/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/torneoviernes2104/</guid>
       <description>Clasificación Final    Pos Pts ID Ctg NAME Rtg Fed Buc1 BucT     1 5.0 17 Sergio Belda Martinez 0 ESP 11.5 13.0   2 4.0 13 Pablo Garcia de la Dueña 0 ESP 13.5 15.0   3 4.0 20 Miguel Castro Paraiso 0 ESP 10.0 11.5   4 3.5 16 Vicente Rosado Poveda 0 ESP 11.5 12.5   5 3.</description>
     </item>
     
     <item>
       <title>Página oficial del Campeonato Provincial Absoluto de Ciudad Real</title>
-      <link>https://ajedreztomelloso.github.io/provincialabsoluto17/</link>
+      <link>http://www.ajedreztomelloso.com/provincialabsoluto17/</link>
       <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/provincialabsoluto17/</guid>
+      <guid>http://www.ajedreztomelloso.com/provincialabsoluto17/</guid>
       <description>En esta página encontrarás toda la información referente al provincial absoluto de ajedrez.
 Información  Bases Torneo en Info64  Noticias  Provincial Absoluto - Final Provincial Absoluto - 2º Jornada Historias y anécdotas de los provinciales absolutos de Ajedrez en C.Real Provincial Absoluto - Apertura Provincial Absoluto - Información de Inscripción  Histórico de Campeones del Provincial Absoluto    Año Sede Campeón     2017 Tomelloso Fco.</description>
     </item>
     
     <item>
       <title>Torneo Club Ajedrez Tomelloso 21/04</title>
-      <link>https://ajedreztomelloso.github.io/post/torneoviernes2804/</link>
+      <link>http://www.ajedreztomelloso.com/post/torneoviernes2804/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/torneoviernes2804/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/torneoviernes2804/</guid>
       <description>Clasificación Final    Pos Pts ID Ctg NAME Rtg Fed Buc1 BucT     1 4.0 6 Rodrigo Jorge 1151 ESP 8.0 10.0   2 4.0 2 Moreno Raul 1647 ESP 7.0 8.0   3 3.0 9 Garcia Pablo 0 ESP 8.0 10.0   4 3.0 1 Perales Miguel 1817 ESP 8.0 9.0   5 3.0 3 Benito Santiago 1459 ESP 8.</description>
     </item>
     
     <item>
       <title>Campeonato Provincial Absoluto 2017</title>
-      <link>https://ajedreztomelloso.github.io/post/provincialabsoluto2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/provincialabsoluto2017/</link>
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/provincialabsoluto2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/provincialabsoluto2017/</guid>
       <description>Bases
 Lugar de juego: TOMELLOSO. Casino de San Fernando. Plaza de España, frente Ayuntamiento.
 Días de juego: Día 7 de mayo, 10:00 horas - 1ª ronda.
@@ -285,19 +375,19 @@ Día 21 de mayo, 16:30 horas - 6ª ronda.</description>
     
     <item>
       <title>El ajedrez y sus estados mentales</title>
-      <link>https://ajedreztomelloso.github.io/post/relajacion/</link>
+      <link>http://www.ajedreztomelloso.com/post/relajacion/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/relajacion/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/relajacion/</guid>
       <description>Lo admito, no tengo ni idea de ajedrez. Me considero a mí mismo el típico jugador que ha llegado hasta donde está sin tener ni idea de cómo lo ha hecho. He quedado varias veces campeón regional en diferentes categorías juveniles, y he conseguido el título de Maestro Fide, que son los logros de los que me considero más orgulloso. Sin embargo, cuando me siento ante el tablero de cara a la próxima partida sigo sin confiar plenamente en ser capaz de superar a mi rival.</description>
     </item>
     
     <item>
       <title>Regionales 2017 Final</title>
-      <link>https://ajedreztomelloso.github.io/post/regional2017_3/</link>
+      <link>http://www.ajedreztomelloso.com/post/regional2017_3/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/regional2017_3/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/regional2017_3/</guid>
       <description>En 1255, Alfonso X decidió fundar una ciudad en una nueva ubicación, a 9 km de Alarcos, en la aldea conocida como Pozuelo Seco de Don Gil. El territorio era el corazón de los dominios de la orden militar de Calatrava. Se le dio el nombre de Villa Real.
 
 Clasificación Sub-08
@@ -306,10 +396,10 @@ Los caballeros sub-8 de la Orden de Tomelloso lucharon en singular batalla contr
     
     <item>
       <title>Regionales por Edades 2017 Resultados</title>
-      <link>https://ajedreztomelloso.github.io/post/regional2017_2/</link>
+      <link>http://www.ajedreztomelloso.com/post/regional2017_2/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/regional2017_2/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/regional2017_2/</guid>
       <description>Después de un año sabático Raúl Moreno, vuelve a conectar con &amp;ldquo;la fuerza&amp;rdquo; y gana su segundo Regional por Edades.
 En Tomelloso se juega al Ajedrez con dos Damas:
 Beatriz Jiménez, campeona regional sub-8,
@@ -320,10 +410,10 @@ Javier Rosado, subcampeón sub-8, siempre en busca de la mejor jugada.
     
     <item>
       <title>Entrevista Monitores-Jugadores: Parte II</title>
-      <link>https://ajedreztomelloso.github.io/post/entrevistamonitorjugadorii/</link>
+      <link>http://www.ajedreztomelloso.com/post/entrevistamonitorjugadorii/</link>
       <pubDate>Thu, 06 Apr 2017 01:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/entrevistamonitorjugadorii/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/entrevistamonitorjugadorii/</guid>
       <description>Para ver la primera parte de la entrevista acceda aquí:
 Primera Parte de la entrevista
 Os dejo con la segunda parte de la entrevista y espero que la disfrutéis tanto como nosotros:
@@ -332,10 +422,10 @@ Los chicos que van a su primer regional siempre van un poco con miedo. Algunos d
     
     <item>
       <title>Entrevista Monitores-Jugadores: Parte I</title>
-      <link>https://ajedreztomelloso.github.io/post/entrevistamonitorjugadori/</link>
+      <link>http://www.ajedreztomelloso.com/post/entrevistamonitorjugadori/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/entrevistamonitorjugadori/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/entrevistamonitorjugadori/</guid>
       <description>Justo antes del regional he rastreado la zona y he contactado con los monitores de los diferentes clubs de Castilla la Mancha que en su día disputaron el regional por edades, para hacerles una entrevista vía email y así poder escuchar sus experiencias y sus puntos de vista.
 Los monitores cazados han sido:
 Desde Ciudad Real:
@@ -344,29 +434,29 @@ Desde Ciudad Real:
     
     <item>
       <title>Regionales por edades de Castilla la Mancha 2017</title>
-      <link>https://ajedreztomelloso.github.io/post/regional2017_1/</link>
+      <link>http://www.ajedreztomelloso.com/post/regional2017_1/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/regional2017_1/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/regional2017_1/</guid>
       <description>Víktor el terrible, padre de ajedrecistas castellano-manchegos, localizaba a través de la web de la organización del torneo Regional sub 2017 el mejor camino para llegar al Hotel Guadiana de Ciudad Real. Se aproximan las vacaciones de Semana Santa, lo que implica que el regional por edades de Castilla la Mancha se acerca. Con la variación de fechas de la semana cristiana, el regional sigue celebrándose siempre ese primer fin de semana de los festivos.</description>
     </item>
     
     <item>
       <title>Clase de Ajedrez</title>
-      <link>https://ajedreztomelloso.github.io/post/claseajedrez/</link>
+      <link>http://www.ajedreztomelloso.com/post/claseajedrez/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/claseajedrez/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/claseajedrez/</guid>
       <description>Javier era un niño de siete años, alumno del CEIP Félix Grande de Tomelloso (C.Real). Asistía a clases de ajedrez en el aula Althia de este colegio los martes y jueves de 16 a 17 horas. Tenía una forma muy particular de concentrarse&amp;hellip;
 El monitor repasaba mentalmente los contenidos de su próxima sesión, mientras caminaba por la acera del Sol, Carrera San Jerónimo abajo: “los críos exigen lo mejor, sino se rebelan”.</description>
     </item>
     
     <item>
       <title>Mejores Jugadas Provincial Edades 2017</title>
-      <link>https://ajedreztomelloso.github.io/post/mejoresjugadasprovincial2017/</link>
+      <link>http://www.ajedreztomelloso.com/post/mejoresjugadasprovincial2017/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/mejoresjugadasprovincial2017/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/mejoresjugadasprovincial2017/</guid>
       <description>Problema 1 Alecsandru Stefan encuentra una combinación donde se ve el potencial de un ataque con alfiles junto a la dama.
 Solución Problema 1
 Problema 2 Pedro Javier con las piezas blancas tuvo una oportunidad de realizar una buena combinación en esta posición:
@@ -378,49 +468,49 @@ Problema 4 Álvaro en esta posición consiguió salir con material de ventaja.</
     
     <item>
       <title>Campeonato Provincial Edades 2017</title>
-      <link>https://ajedreztomelloso.github.io/provincialedades17/</link>
+      <link>http://www.ajedreztomelloso.com/provincialedades17/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/provincialedades17/</guid>
+      <guid>http://www.ajedreztomelloso.com/provincialedades17/</guid>
       <description> En esta página encontrarás toda la información referente al provincial Sub de ajedrez.
 Información  Bases Campeonato Provincial Sub-8 Campeonato Provincial Sub-10 Campeonato Provincial Sub-12 Campeonato Provincial Sub-14 Campeonato Provincial Sub-16 Campeonato Provincial Sub-18  Noticias  Provincial Edades - Final Provincial Edades - Crónica Provincial Edades - Mejores Jugadas Provincial Edades - Primera Jornada  </description>
     </item>
     
     <item>
       <title>Regionales Edades 2017</title>
-      <link>https://ajedreztomelloso.github.io/regionaledades17/</link>
+      <link>http://www.ajedreztomelloso.com/regionaledades17/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/regionaledades17/</guid>
+      <guid>http://www.ajedreztomelloso.com/regionaledades17/</guid>
       <description> En esta página encontrarás toda la información referente al Regional Sub de ajedrez.
 Información  Bases Campeonato Regional Sub-8 Campeonato Regional Sub-10 Campeonato Regional Sub-12 Campeonato Regional Sub-14 Campeonato Regional Sub-16 Campeonato Regional Sub-18  Noticias  Regional Edades - Final Regional Edades - Crónica Regional Edades - Mejores Jugadas Regional Edades - Presentación Regional Edades - Entrevistas Monitores-Jugadores: Parte 1 Regional Edades - Entrevistas Monitores-Jugadores: Parte 2  </description>
     </item>
     
     <item>
       <title>Edades 2017 Final</title>
-      <link>https://ajedreztomelloso.github.io/post/edades2017final/</link>
+      <link>http://www.ajedreztomelloso.com/post/edades2017final/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/edades2017final/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/edades2017final/</guid>
       <description>La última partida se estaba disputando. Un final de Damas con cinco peones por bando. Parecía una fotografía de la historia del ajedrez, Santiago Benito (Tomelloso) y Julio Mérida (N.A. en Europa), concentrados en la posición y rodeados de espectadores tratando de adivinar el desenlace.
 En la pared adyacente colgaba ya la clasificación del sub-8 con la pareja Javier Rosado y Beatriz Jiménez en lo mas alto. En la memoria reciente sus rápidas combinaciones de mate, casi sin tiempo para anotarlas.</description>
     </item>
     
     <item>
       <title>Provincial Edades 2017 Avance Final</title>
-      <link>https://ajedreztomelloso.github.io/post/edades/</link>
+      <link>http://www.ajedreztomelloso.com/post/edades/</link>
       <pubDate>Sun, 26 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/edades/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/edades/</guid>
       <description>Álvaro Ramírez Campeón Provincial Sub-14 Javier Rosado y Beatriz Jiménez pareja campeona en Sub-08 Cuadro de Honor SUB-8, SUB-10, SUB-12 SUB-14, SUB-16, SUB-18</description>
     </item>
     
     <item>
       <title>Instagram Marzo&#39;2017</title>
-      <link>https://ajedreztomelloso.github.io/post/instagram0317/</link>
+      <link>http://www.ajedreztomelloso.com/post/instagram0317/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/instagram0317/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/instagram0317/</guid>
       <description>La combinación es una preciosa flor, nacida de la fantasía, del amor, del trabajo y de la lógica #viernesDeAjedrez #bronstein #ajedrez #tomelloso
 A post shared by Club Ajedrez Tomelloso (@ajedreztomelloso) on Mar 25, 2017 at 2:10am PDT
    Cuando te ofrezcan tablas, intenta descubrir por qué tu contrincante cree que esta en una situación desventajosa #provincial2017 #sub16 #ciudadreal #short
@@ -429,38 +519,38 @@ A post shared by Club Ajedrez Tomelloso (@ajedreztomelloso) on Mar 24, 2017 at 2
     
     <item>
       <title>Enlaces del Mes de Marzo</title>
-      <link>https://ajedreztomelloso.github.io/post/enlaces0317/</link>
+      <link>http://www.ajedreztomelloso.com/post/enlaces0317/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/enlaces0317/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/enlaces0317/</guid>
       <description>Ajedrez en las escuelas    Enlace Descripción     Ajedrez en el colegio Mirabal Pequeño vídeo de las noticias donde el colegio Mirabal cuenta su experiencia en el ajedrez.   Cinco ideas para dar clases a niños Capakhine nos cuenta ideas para dar clases a niños.   Poema de Alberto Poema de Alberto para chess24, alumno de 8 años de la escuela Ajedrez Metro Club de Marbella.</description>
     </item>
     
     <item>
       <title>Campeonato Provincial Sub 2017: Jornada I</title>
-      <link>https://ajedreztomelloso.github.io/post/sub20171jornada/</link>
+      <link>http://www.ajedreztomelloso.com/post/sub20171jornada/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/sub20171jornada/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/sub20171jornada/</guid>
       <description>Comienza el Campeonato Provincial por categorías El pasado sábado tuvo lugar el inicio del Campeonato Sub Provincial en el Colegio Carlos Vázquez de Ciudad Real, con más de un centenar de jugadores divididos en seis categorías, luchando, estrechamente unidos, en un aforo algo pequeño para la dimensión del evento, por conseguir una plaza que les clasifique al próximo Regional. Tomelloso con más de un treinta por ciento de participación, presenta jugadores de cinco a dieciocho años y llega con mucha ilusión a este evento.</description>
     </item>
     
     <item>
       <title>Peón P&#39;alante</title>
-      <link>https://ajedreztomelloso.github.io/post/peonpalante/</link>
+      <link>http://www.ajedreztomelloso.com/post/peonpalante/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/peonpalante/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/peonpalante/</guid>
       <description>En estos momentos no se si es mejor retroceder con la dama, intentar proteger al rey o buscar jaque con caballo&amp;hellip;, la verdad es que no tengo ni idea.
  Veo la partida con expectación, analizo los posibles movimientos que pueden hacer ambos jugadores, siempre con el interés particular en que salga victorioso solo uno de ellos, procurando desde unos cinco metros de distancia dar fuerza moral -si la verdad sirve de algo en este deporte- ya que nada más puedo aportar desde la distancia, ni quiero, pues la verdad es que no tengo ni idea.</description>
     </item>
     
     <item>
       <title>Bienvenidos a la nueva Web</title>
-      <link>https://ajedreztomelloso.github.io/post/bienvenida/</link>
+      <link>http://www.ajedreztomelloso.com/post/bienvenida/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ajedreztomelloso.github.io/post/bienvenida/</guid>
+      <guid>http://www.ajedreztomelloso.com/post/bienvenida/</guid>
       <description>Como cuentan las crónicas &amp;ldquo;Corría el año 2000, cuando Juan Carlos Domínguez, profesor de Matemáticas, fuerte jugador de ajedrez y recién llegado a Tomelloso, comienza a impartir clases del juego-ciencia a chavales de esta localidad de una manera más o menos metódica. Así nació este club o mejor dicho su nueva etapa en el correr de los tiempos.
 El Club Ajedrez Tomelloso tuvo una infancia feliz y tranquila, aprendiendo siempre de sus mayores.</description>
     </item>
