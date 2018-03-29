@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ajedreztomelloso.github.io/post/regionaledades2018/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ajedreztomelloso.github.io/post/edades2018/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ajedreztomelloso.github.io/post/deportebase18/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ajedreztomelloso.github.io/post/socios2018/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ajedreztomelloso.github.io/post/cartapatrocinadores/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -20,11 +40,6 @@
   <url>
     <loc>https://ajedreztomelloso.github.io/interescolarfinal17/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ajedreztomelloso.github.io/lista_elo/</loc>
-    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -288,6 +303,11 @@
   </url>
   
   <url>
+    <loc>https://ajedreztomelloso.github.io/lista_elo/</loc>
+    <lastmod>2017-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ajedreztomelloso.github.io/tags/2017/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -295,7 +315,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/2018/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -414,7 +434,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -431,6 +451,12 @@
   </url>
   
   <url>
+    <loc>https://ajedreztomelloso.github.io/tags/deportebase/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ajedreztomelloso.github.io/tags/educacion/</loc>
     <lastmod>2017-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -438,7 +464,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/elo/</loc>
-    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -552,7 +578,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/post/</loc>
-    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -564,7 +590,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/provincial/</loc>
-    <lastmod>2017-05-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -581,8 +607,14 @@
   </url>
   
   <url>
+    <loc>https://ajedreztomelloso.github.io/tags/provincialedades2018/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ajedreztomelloso.github.io/tags/regional/</loc>
-    <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -617,14 +649,26 @@
   </url>
   
   <url>
+    <loc>https://ajedreztomelloso.github.io/tags/regionalsub2018/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ajedreztomelloso.github.io/tags/relato/</loc>
-    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ajedreztomelloso.github.io/tags/socios/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/sub/</loc>
-    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -636,7 +680,7 @@
   
   <url>
     <loc>https://ajedreztomelloso.github.io/tags/tomelloso/</loc>
-    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
