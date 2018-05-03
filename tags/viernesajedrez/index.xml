@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viernesajedrez on Club Ajedrez Tomelloso</title>
+    <link>https://ajedreztomelloso.github.io/tags/viernesajedrez/</link>
+    <description>Recent content in Viernesajedrez on Club Ajedrez Tomelloso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ajedreztomelloso.github.io/tags/viernesajedrez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>II Torneo Club Ajedrez Tomelloso Viernes 2018</title>
+      <link>https://ajedreztomelloso.github.io/post/torneoviernes2004/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/post/torneoviernes2004/</guid>
+      <description>Segundo torneo del año 2018 de los viernes. Os dejamos la clasificación:
+Clasificación:    Pos Pts ID NAME Rtg Buc1 BucT      1 5.0 1 Benito Olmedo, Santiago 1647 12.0 14.0    2 4.0 2 Ortiz Serna, Julian 1517 16.0 19.0    3 4.0 7 Garcia de la Dueña, Pablo 1181 12.5 14.5    4 4.0 9 Rosado Poveda, Vicente 1021 12.</description>
+    </item>
+    
+    <item>
+      <title>I Torneo Club Ajedrez Tomelloso Viernes 2018</title>
+      <link>https://ajedreztomelloso.github.io/post/torneoviernes1304/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ajedreztomelloso.github.io/post/torneoviernes1304/</guid>
+      <description>Gran participación en el primer torneo del año 2018 de los viernes. Os dejamos la clasificación:
+Clasificación:    Rank ID Title Name Rtg Score Buc1 BucT     1 2  Galan Martin, Alejandro 2081 5.0 15.0 17.0   2 1 MF Garcia Moreno, Carlos 2282 4.0 14.5 16.5   3 4  Benito Olmedo, Santiago 1629 4.0 14.0 17.0   4 3  Moreno Valero, Raul 1709 4.</description>
+    </item>
+    
+  </channel>
+</rss>
